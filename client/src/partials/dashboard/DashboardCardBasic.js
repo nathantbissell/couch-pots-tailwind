@@ -47,7 +47,7 @@ function DashboardCardBasic(props) {
           Position
         </div>
         <div className="flex items-start">
-          <div className="text-3xl font-bold text-gray-800 mr-2">
+          <div className="text-3xl font-bold text-gray-800 mr-2 mb-10">
             {props.name}
           </div>
           <div className="text-sm font-semibold text-white px-1.5 bg-green-500 rounded-full">
