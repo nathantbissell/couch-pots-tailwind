@@ -1,15 +1,14 @@
 const express = require("express");
 const router = express.Router();
 const Player = require("../models/player");
+const qblist = require("../jsonFiles/formattedRankings/qb.json");
+const rblist = require("../jsonFiles/formattedRankings/rb.json");
+const telist = require("../jsonFiles/formattedRankings/te.json");
+const wrlist = require("../jsonFiles/formattedRankings/wr.json");
 
 // Player.create({ name: "Matt Ryan", position: "QB" }, function (err) {
 //   if (err) return handleError(err);
 //   // saved!
-// });
-
-// Player.find({}, function (err, data) {
-//   console.log("player find function in player_routes");
-//   console.log(err, data, data.length);
 // });
 
 router.get("/players", (req, res) => {

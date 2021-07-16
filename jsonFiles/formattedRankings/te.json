@@ -1,404 +1,452 @@
-{
-  "players": [
-    {
-      "name": "Travis Kelce",
-      "auctionPrice": 32,
-      "totalPoints": 325.0,
-      "average": 21.666666666666668,
-      "bio": "Kelce enters the 2020 season attempting to pace all tight ends in fantasy points for the fifth consecutive season. Is that good? It seems good. Kelce continued his dominance last season by finishing as a top-13 fantasy TE every week other than 17. Kelce has finished no lower than second at the position in routes, targets, receptions and yardage each of the past three seasons. His touchdowns fell from 10 in 2018 to five in 2019, but his 7.3 OTD (second-highest) and nine end zone targets (fourth) suggest he was actually unlucky in that area. Kelce has never finished a season outside the top 10 in YPT and remains one of Patrick Mahomes' top targets. The 30-year-old is worth a look in Round 2.",
-      "otherLeagueDraftValue": 41.94
-    },
-    {
-      "name": "Darren Waller",
-      "auctionPrice": 4,
-      "totalPoints": 292.0,
-      "average": 18.25,
-      "bio": "Waller's breakout 2019 season marked one of the most improbable breakout campaigns you'll ever see. Waller was drafted in the sixth round of the 2015 draft as a 6-foot-6 wide receiver. He barely saw the field while dealing with addiction but got back on his feet as a tight end with the Raiders. An absolute force from the get-go, Waller finished no lower than fourth among tight ends in snaps, routes, targets, receptions, yardage or YPT. Waller was held to three touchdowns (3.9 OTD) but finished third in fantasy points. The 27-year-old is Derek Carr's top target and positioned well for another high-volume season. He's a top-five fantasy tight end.",
-      "otherLeagueDraftValue": 16.99
-    },
-    {
-      "name": "Logan Thomas",
-      "auctionPrice": 0,
-      "totalPoints": 168.0,
-      "average": 10.5,
-      "bio": "",
-      "otherLeagueDraftValue": 0.02
-    },
-    {
-      "name": "T.J. Hockenson",
-      "auctionPrice": 1,
-      "totalPoints": 161.0,
-      "average": 10.0625,
-      "bio": "It's rare for a rookie tight end to make much noise in fantasy, so Hockenson's 32-367-2 line after being selected eighth overall in the 2019 draft should not be viewed as a knock. The Iowa product showed his upside with a 6-131-1 showing in his NFL debut, but managed double-digit fantasy points in only one additional game and missed the final four games due to injury. The 23-year-old is a strong bet for more work in his second season and, as usual for second-year tight ends, will come fairly cheap in the double-digit rounds. Hockenson has the upside to become one of the next great all-around tight ends.",
-      "otherLeagueDraftValue": 1.87
-    },
-    {
-      "name": "Robert Tonyan",
-      "auctionPrice": 0,
-      "totalPoints": 157.0,
-      "average": 9.8125,
-      "bio": "",
-      "otherLeagueDraftValue": 0.52
-    },
-    {
-      "name": "Mark Andrews",
-      "auctionPrice": 17,
-      "totalPoints": 156.0,
-      "average": 11.142857142857142,
-      "bio": "A 2018 third-round pick, Andrews exited his rookie campaign seemingly set to become one of the league's next great tight ends. It's fair to say he delivered the goods in 2019. Despite ranking 40th at the position in snaps, Andrews handled a massive 25% target share for Baltimore's league-best offense en route to a TE5 fantasy campaign. Andrews' 11 end zone targets tied for most among tight ends and eighth in the entire league. That helped him to 10 touchdowns. Andrews' has ranked no lower than fifth in aDOT or YPR during his two pro seasons. Lamar Jackson's top target enters his age-24 season as a solid TE1 option.",
-      "otherLeagueDraftValue": 13.49
-    },
-    {
-      "name": "Mike Gesicki",
-      "auctionPrice": 0,
-      "totalPoints": 153.0,
-      "average": 10.2,
-      "bio": "It was a rough 2019 season for the Dolphins, but that didn't stop Gesicki from quietly taking a big leap forward. The 2018 second-round pick finished the season third among tight ends in pass routes and ranked no lower than 12th in targets, receptions, receiving yards or touchdowns. Gesicki's 11 end zone targets tied for most among tight ends and eighth in the entire league. His 58% catch rate was ugly, but his role as a seam-stretcher (10.1 aDOT) and shaky quarterback accuracy (22% off target rate) were the primary culprits. Gesicki has yet to drop a pass on 120 targets and was fantasy's TE12 in 2019. He's a candidate for another leap forward and a borderline TE1 option.",
-      "otherLeagueDraftValue": 0.25
-    },
-    {
-      "name": "Rob Gronkowski",
-      "auctionPrice": 8,
-      "totalPoints": 140.0,
-      "average": 8.75,
-      "bio": "Gronk is back! The longtime Patriots' superstar ended his retirement and was traded to the Buccaneers, where he'll reunite with his former quarterback Tom Brady. Gronkowski sat out last season after ending 2018 with his seventh fantasy finish of 11th or better in nine NFL seasons. When healthy, effectiveness has never been an issue for Gronkowski (he has never played a season in which he was lower than seventh among tight ends in yards per target or yards per reception), but durability has been an issue (he hasn't appeared in a full 16-game regular season since 2011).'Gronkowski is unlikely to re-emerge as an elite fantasy option, but he's in a good enough situation to allow mid-to-back-end TE1 numbers.",
-      "otherLeagueDraftValue": 2.75
-    },
-    {
-      "name": "Noah Fant",
-      "auctionPrice": 1,
-      "totalPoints": 138.0,
-      "average": 9.2,
-      "bio": "The Broncos selected Fant in the first round of last year's draft and proceeded to put him on the field for 68% of their offensive snaps. That's a healthy number for a 21-year-old rookie, as was Fant's TE16 fantasy campaign. The Iowa product was a game-changer with the ball in his hands, pacing 41 qualified tight ends with an 8.3 RAC. His 562 receiving yards rank sixth and his 8.9 YPT fifth among rookie tight ends since 2007. Fant's usage actually declined quite a bit in December, but there's little doubt he's a strong candidate for a big second-year leap as one of Drew Lock's top targets. Fant has elite upside and should be on your radar in the middle rounds.",
-      "otherLeagueDraftValue": 2.43
-    },
-    {
-      "name": "Dalton Schultz",
-      "auctionPrice": 0,
-      "totalPoints": 137.0,
-      "average": 8.5625,
-      "bio": "",
-      "otherLeagueDraftValue": 0.03
-    },
-    {
-      "name": "Hunter Henry",
-      "auctionPrice": 2,
-      "totalPoints": 136.0,
-      "average": 9.714285714285714,
-      "bio": "Henry is back with the Chargers after the team applied the franchise tag during the offseason. The team's 2016 second-round pick has yet to play a full 16-game season, missing all of 2018 and a total of seven games the other three seasons. That includes four in 2019, though Henry was productive enough when active to produce his first top-10 fantasy campaign. Henry has finished top-10 in YPT in all three of his NFL seasons and has been a force near the goal line, with 17 touchdowns and 25 end zone targets in 41 games. Henry's durability woes and the departure of Philip Rivers are concerns, but the 25-year-old will still be a back-end TE1 option when active.",
-      "otherLeagueDraftValue": 2.0
-    },
-    {
-      "name": "Hayden Hurst",
-      "auctionPrice": 0,
-      "totalPoints": 136.0,
-      "average": 8.5,
-      "bio": "Hurst was traded to the Falcons following two seasons as a situational player in Baltimore. Atlanta will look to the 2018 first-round pick as a replacement for Austin Hooper. Hurst posted a modest 30-349-2 receiving line off the bench last season, but his efficiency was great. He ranked sixth at tight end in both catch rate (77%) and YPT (8.9). Hurst has yet to eclipse a 58% snap share in 30 career games, but he figures to operate as a full-time, two-way tight end in a pass-heavy Atlanta offense that helped Hooper to back-to-back TE1 campaigns. Hurst is obviously a bit risky, but the 26-year-old is well-positioned for a breakout. Consider him a mid-range TE2.",
-      "otherLeagueDraftValue": 0.51
-    },
-    {
-      "name": "Evan Engram",
-      "auctionPrice": 6,
-      "totalPoints": 135.0,
-      "average": 8.4375,
-      "bio": "Engram is entering his fourth NFL season having missed 14 of 48 possible games due to injury, including five games in 2018 and eight last season. The injuries have held Engram without a top-12 fantasy campaign since 2017, but there's no doubt he's been a major force when healthy. Engram was one of six players who appeared in at least eight games and were targeted at least six times during 100% of those outings last season. The consistent usage helped him to five top-10 fantasy weeks in eight tries (the position's fourth-best rate). We have to knock him a bit for durability concerns, but Engram is still in his prime at age 25 and should be locked into lineups when active.",
-      "otherLeagueDraftValue": 0.57
-    },
-    {
-      "name": "Eric Ebron",
-      "auctionPrice": 0,
-      "totalPoints": 131.0,
-      "average": 8.733333333333333,
-      "bio": "Ebron signed with the Steelers after spending the first six seasons of his career in Detroit and Indianapolis. The 2014 first-round pick underachieved during his time with the Lions, but a breakout season in 2018 saw him post a 66-750-13 receiving line. He crashed back to earth last season thanks to predictable regression to the mean, but also due to the loss of Andrew Luck, posting a 31-375-3 line in 11 games. Now with Pittsburgh, the 27-year-old figures to work ahead of Vance McDonald as the team's top receiving tight end. Ebron is best-viewed as a mid-to-back-end TE2.",
-      "otherLeagueDraftValue": 0.98
-    },
-    {
-      "name": "Jimmy Graham",
-      "auctionPrice": 0,
-      "totalPoints": 130.0,
-      "average": 8.125,
-      "bio": "Graham signed with the Bears during the offseason following a pair of seasons with the division-rival Packers. The 33-year-old isn't the fantasy force he was during his prime years in New Orleans and Seattle and is coming off his worst statistical season since his rookie year. Graham played 55% of the snaps, handled a 12% target share and posted a 38-447-3 receiving line despite appearing in all 16 of Green Bay's regular-season games. Graham finished eighth at tight end in pass routes, but 21st in fantasy points. Graham figures to contribute as a seam-stretcher in Chicago, but he'll be a part-time player in an offense with a shaky quarterback situation. Consider him a back-end TE2.",
-      "otherLeagueDraftValue": 0.55
-    },
-    {
-      "name": "George Kittle",
-      "auctionPrice": 39,
-      "totalPoints": 128.0,
-      "average": 16.0,
-      "bio": "Kittle wasn't much of a factor as a pass-catcher during the 49ers' Super Bowl run (8-71-0 in three games), but don't let that overshadow what was another dominant regular season. Kittle followed up his breakout 2018 season with an 85-1053-5 receiving line in 14 games in 2019. Kittle has finished no lower than fourth in targets, receptions, yardage, RAC or fantasy points each of the past two seasons. One area where Kittle has underwhelmed is touchdowns (five each of the past two seasons) and his 10.8 OTD and 13 end zone targets during the span suggest it's not a fluke. Of course, there's still plenty of room to grow in that department, and Kittle has plenty of dominant years left at age 26. He's a fine third-round target.",
-      "otherLeagueDraftValue": 36.24
-    },
-    {
-      "name": "Jonnu Smith",
-      "auctionPrice": 0,
-      "totalPoints": 127.0,
-      "average": 8.466666666666667,
-      "bio": "With Delanie Walker out of the way, Smith enters his fourth NFL season finally locked in atop the Titans' depth chart. Granted it was on 43 targets, but Smith's 2019 season was highly efficient. He ranked no lower than second at the position in catch rate (81%), YPT (10.2) or RAC (7.9). The Titans appear committed to manufacturing touches for the versatile Smith, as 19% of his targets came on screens and he also handled four carries. Of course, the usage has yet to allow much fantasy success. Most of Smith's work has come near the line of scrimmage (5.7 aDOT) and very little has come near the end zone (eight touchdowns, six end zone targets in career). Smith is a back-end TE2.",
-      "otherLeagueDraftValue": 4.01
-    },
-    {
-      "name": "Jared Cook",
-      "auctionPrice": 0,
-      "totalPoints": 118.0,
-      "average": 7.866666666666666,
-      "bio": "After failing to post a single fantasy campaign better than 12th during his first eight NFL seasons, Cook has posted a pair of top-seven finishes (and with different teams) over the past two seasons. Cook missed a pair of games last season, but managed a TE7 campaign thanks to nine touchdowns (his 11 end zone targets tied for most among tight ends and eighth in the league) and elite efficiency (he posted the position's highest aDOT, YPR and YPT). Cook is now 33 years old, but his role as one of Drew Brees' primary targets remains secure. Consider him a borderline top-10 fantasy option.",
-      "otherLeagueDraftValue": 1.02
-    },
-    {
-      "name": "Tyler Higbee",
-      "auctionPrice": 0,
-      "totalPoints": 118.0,
-      "average": 7.866666666666666,
-      "bio": "If someone told you midway through the 2019 season that Higbee was a solid TE1 fantasy option going forward, you would've laughed. The 2016 fourth-round pick had totaled an 86-884-5 receiving line in 58 games through Week 12 of last season. He went on to produce a 43-522-2 line while averaging 11.4 targets per game the rest of the season. Higbee was the top-scoring fantasy TE by 23 points during the span. The 27-year-old signed a contract extension last year and Sean McVay's adjustment to more '12' personnel late last season suggests Higbee's emergence was no fluke. Higbee is best-viewed as mid-range TE1.",
-      "otherLeagueDraftValue": 0.06
-    },
-    {
-      "name": "Dallas Goedert",
-      "auctionPrice": 0,
-      "totalPoints": 113.0,
-      "average": 10.272727272727273,
-      "bio": "Goedert spent the 2019 season behind Zach Ertz on the depth chart and missed a game, but still managed a top-10 finish among tight ends in targets, receptions, yardage, touchdowns and fantasy points. A big reason for the high-end production was a massive number of injuries to Eagles' wide receivers and that shows up in Goedert's splits. The 2018 second-round pick posted five top-10 fantasy weeks, but four came after the team's Week 10 bye. Goedert appears to have a bright future, but the 25-year-old will struggle for TE1 numbers barring an Ertz injury. Goedert is, however, one of the best insurance policies in fantasy.",
-      "otherLeagueDraftValue": 0.07
-    },
-    {
-      "name": "Austin Hooper",
-      "auctionPrice": 0,
-      "totalPoints": 105.0,
-      "average": 8.076923076923077,
-      "bio": "Hooper signed with the Browns during the offseason following four seasons with the Falcons. The 2016 third-round pick has finished no lower than seventh among tight ends in routes, targets, receptions or receiving yards each of the past two seasons. He posted career-high marks in targets (96), receptions (75), receiving yards (787) and touchdowns (six) last season despite missing three games and was fantasy's top-scoring tight end prior to suffering an injury in Week 10. Hooper's stock takes hit as he trades Matt Ryan and Atlanta's pass-heavy offense for Baker Mayfield and a Browns offense that also include David Njoku. Hooper enters his age-25 season as a borderline top-10 fantasy option.",
-      "otherLeagueDraftValue": 0.79
-    },
-    {
-      "name": "Irv Smith Jr.",
-      "auctionPrice": 0,
-      "totalPoints": 90.0,
-      "average": 6.923076923076923,
-      "bio": "Smith is entering his second NFL season after posting a 36-311-2 receiving line as a rookie. The 2019 second-round pick played a healthy 587 snaps, but was a clear second to Kyle Rudolph (749 snaps) on the depth chart and was primarily utilized as short-area target (5.9 aDOT). Rudolph out-targeted Smith 49 to 48, though Smith is a strong bet to take over as the team's top receiving threat at the position in his second season. Smith is still extremely young (he's entering his age-22 season), but especially with Stefon Diggs gone, he's well-positioned for a step forward. Rudolph's presence will limit his ceiling, but Smith is a fine TE2 target.",
-      "otherLeagueDraftValue": 0.03
-    },
-    {
-      "name": "Dan Arnold",
-      "auctionPrice": 0,
-      "totalPoints": 90.0,
-      "average": 5.625,
-      "bio": "",
-      "otherLeagueDraftValue": 0.01
-    },
-    {
-      "name": "Gerald Everett",
-      "auctionPrice": 0,
-      "totalPoints": 85.0,
-      "average": 5.3125,
-      "bio": "",
-      "otherLeagueDraftValue": 0.01
-    },
-    {
-      "name": "Anthony Firkser",
-      "auctionPrice": 0,
-      "totalPoints": 81.0,
-      "average": 5.0625,
-      "bio": "",
-      "otherLeagueDraftValue": 0.02
-    },
-    {
-      "name": "Mo Alie-Cox",
-      "auctionPrice": 0,
-      "totalPoints": 79.0,
-      "average": 5.266666666666667,
-      "bio": "",
-      "otherLeagueDraftValue": 0.0
-    },
-    {
-      "name": "Jordan Akins",
-      "auctionPrice": 0,
-      "totalPoints": 76.0,
-      "average": 5.846153846153846,
-      "bio": "",
-      "otherLeagueDraftValue": 0.02
-    },
-    {
-      "name": "Tyler Eifert",
-      "auctionPrice": 0,
-      "totalPoints": 75.0,
-      "average": 5.0,
-      "bio": "Eifert signed with the Jaguars during the offseason after seven seasons with the Bengals. The 2013 first-round pick held up for 16 games last season for the first time in his career, but a situational role limited him to 44% of the snaps and 4.0 targets per game. Eifert finished TE19 in fantasy, which marked his first top-20 campaign since 2015. New Jaguars OC Jay Gruden makes heavy use of his tight ends (career 23% target share), which benefits Eifert and second-year TE Josh Oliver. Of course, we still need to be wary of Eifert's durability after he missed 52 of 80 possible games during the 2014-18 seasons. Eifert is a fringe TE2 at best.",
-      "otherLeagueDraftValue": 0.02
-    },
-    {
-      "name": "Trey Burton",
-      "auctionPrice": 0,
-      "totalPoints": 74.0,
-      "average": 5.6923076923076925,
-      "bio": "",
-      "otherLeagueDraftValue": 0.03
-    },
-    {
-      "name": "Drew Sample",
-      "auctionPrice": 0,
-      "totalPoints": 72.0,
-      "average": 4.5,
-      "bio": "",
-      "otherLeagueDraftValue": 0.01
-    },
-    {
-      "name": "Zach Ertz",
-      "auctionPrice": 0,
-      "totalPoints": 71.0,
-      "average": 6.454545454545454,
-      "bio": "Ertz had his hands full playing through injuries and double coverage last season, but the veteran tight end still managed his third consecutive campaign as a top-four fantasy tight end. Ertz hasn't finished lower than fifth in targets, sixth in receptions or seventh in yardage at the position since 2014. He's also ranked no lower than fourth in touchdowns and OTD each of the past three seasons. Third-year Dallas Goedert is looming, but Ertz enters his age-29 season as Carson Wentz's top target and remains a top-five fantasy tight end.",
-      "otherLeagueDraftValue": 0.11
-    },
-    {
-      "name": "Chris Herndon",
-      "auctionPrice": 0,
-      "totalPoints": 68.0,
-      "average": 4.25,
-      "bio": "Herndon is back on the fantasy radar following an injury-plagued 2019 campaign in which he was limited to 16 snaps. The Jets selected Herndon in the fourth round of the 2018 draft and quickly put him in position for a big role. The Miami product was on the field for 63% of New York's snaps and, following a slow start, was fantasy's No. 9 tight end from Week 6 on. His 10.3 aDOT was fifth-highest at the position and helped him to a strong 9.0 YPT (10th). Herndon's 502 receiving yards rank 12th, his catch rate 12th, his YPT fourth and his aDOT second among rookie tight ends since 2007. Herndon is an excellent post-hype target and positioned well for a breakout.",
-      "otherLeagueDraftValue": 0.01
-    },
-    {
-      "name": "Darren Fells",
-      "auctionPrice": 0,
-      "totalPoints": 68.0,
-      "average": 4.25,
-      "bio": "Fells re-signed with Houston during the offseason after producing the elusive 'age-33 breakout season' in 2019. Fells found the end zone seven times, which was third-most at the position. Fells was on the field often (his 704 snaps ranked 12th), but wasn't targeted much (46 targets) and benefited from unsustainable fortune in the touchdown department (3.7 OTD, six end zone targets). Fells also did a lot of his damage early on, as he delivered four top-10 fantasy weeks through Week 8, but none better than 15th from that point on. He remains well off the fantasy radar, especially with Jordan Thomas, Kahale Warring and Jordan Akins looming.",
-      "otherLeagueDraftValue": 0.01
-    },
-    {
-      "name": "Jordan Reed",
-      "auctionPrice": 0,
-      "totalPoints": 66.0,
-      "average": 6.6,
-      "bio": "",
-      "otherLeagueDraftValue": 0.01
-    },
-    {
-      "name": "Richard Rodgers",
-      "auctionPrice": 0,
-      "totalPoints": 65.0,
-      "average": 4.642857142857143,
-      "bio": "",
-      "otherLeagueDraftValue": 0.01
-    },
-    {
-      "name": "Kyle Rudolph",
-      "auctionPrice": 0,
-      "totalPoints": 61.0,
-      "average": 5.083333333333333,
-      "bio": "Minnesota placed Rudolph on the trade block last offseason, but the situation was resolved with a contract extension and the veteran tight end finishing eighth among tight ends in snaps and fourth in touchdowns (six). Of course, sharing with Irv Smith Jr. in a run-heavy offense also had its disadvantages. Rudolph's catch (39) and yardage (367) totals were both his lowest since 2014. Rudolph remains a reliable short-area target, but he's now 30 years old and figures to lose more looks to Smith in 2020. Rudolph is no more than a fringe TE2.",
-      "otherLeagueDraftValue": 0.11
-    },
-    {
-      "name": "Cameron Brate",
-      "auctionPrice": 0,
-      "totalPoints": 61.0,
-      "average": 3.8125,
-      "bio": "Brate might be on the TE1 radar on other rosters, but the long-time situational target continues to trend in the wrong direction in Tampa Bay. Brate posted a pair of top-10 fantasy campaigns during the 2016-17 seasons, but fell to 19th in 2018 and 24th last season. Brate has been very touchdown-reliant, having ranked no lower than eighth at the position in TD rate each of the past five seasons. Brate's 269 routes last season were his fewest since 2015 and he's unlikely to rebound with TE-unfriendly coach Bruce Arians and O.J. Howard and Rob Gronkowski in the fold. Brate is well off the fantasy radar.",
-      "otherLeagueDraftValue": 0.02
-    },
-    {
-      "name": "Dawson Knox",
-      "auctionPrice": 0,
-      "totalPoints": 60.0,
-      "average": 5.0,
-      "bio": "The Bills selected Knox in the third round of the 2019 draft and the Ole Miss product quickly earned his way to a significant offensive role. Knox played 64% of the offensive snaps and produced a 28-388-2 receiving line on 50 targets prior to resting in Week 17. The combination of plenty of downfield routes (his 9.2 aDOT ranked sixth) and Josh Allen's inaccuracy (20% off-target rate ranked ninth) led to an ugly 56% catch rate (second-worst), but Knox still managed a respectable 7.8 YPT (14th-best). The 23-year-old is an obvious candidate for a step forward in his second season, but with Stefon Diggs added to Buffalo's run-heavy offense, Knox is a borderline TE2 at best.",
-      "otherLeagueDraftValue": 0.01
-    },
-    {
-      "name": "Jacob Hollister",
-      "auctionPrice": 0,
-      "totalPoints": 58.0,
-      "average": 3.625,
-      "bio": "",
-      "otherLeagueDraftValue": 0.0
-    },
-    {
-      "name": "Cole Kmet",
-      "auctionPrice": 0,
-      "totalPoints": 57.0,
-      "average": 3.5625,
-      "bio": "The Bears selected Kmet with the 43rd pick of April's draft. The Notre Dame product is a solid receiver and capable blocker who also happens to be one of the youngest tight ends in this year's rookie class (he turned 21 in March). He has outstanding size (6-foot-6, 262 pounds), as well as good hands and balls skills. He has drawn Austin Hooper and Tyler Higbee comparisons as a player who figures to develop into a pass-catching in-line tight end. Like most (OK, all) young tight ends, it will take Kmet some time to reach TE1 territory, but he'll be a strong dynasty stash. Kmet has almost zero 2020 value behind Jimmy Graham.",
-      "otherLeagueDraftValue": 0.0
-    },
-    {
-      "name": "Jack Doyle",
-      "auctionPrice": 0,
-      "totalPoints": 57.0,
-      "average": 4.071428571428571,
-      "bio": "With Eric Ebron out of the picture, Doyle has regained his status as the Colts' clear top tight end. We got a glimpse of what that could look like late last season as Doyle tied for the team lead with 31 targets (20% share) once Ebron went on IR after Week 12. Doyle was held to two top-10 fantasy weeks and one finish better than eighth on the season, but there are reasons for optimism. Coach Frank Reich's tight end units have never combined for a target share below 23% in six seasons as a coach/OC. Also, new QB Philip Rivers made heavy usage of Antonio Gates and Hunter Henry in recent years with the Chargers. Doyle, who ranked sixth at tight end with eight end zone targets last season, should be viewed as a fringe top-15 fantasy TE in his age-30 season.",
-      "otherLeagueDraftValue": 0.02
-    },
-    {
-      "name": "Harrison Bryant",
-      "auctionPrice": 0,
-      "totalPoints": 55.0,
-      "average": 3.6666666666666665,
-      "bio": "The Browns selected Bryant in the fourth round of April's draft. Bryant's numbers were off the charts at Florida Atlantic last season, as he averaged a class-best 3.1 yards per route run while posting a 65-1,004-7 receiving line on 99 targets. Bryant is a terrific receiver, and that figures to be his primary focus in the pros, but he's not a zero as a blocker, which could lead to the coveted every-down role. Bryant's hands are a slight concern, and he didn't show well athletically at the combine, but his receiving prowess makes him an intriguing prospect. He won't be fantasy relevant for a long time with Austin Hooper and David Njoku ahead of him in Cleveland.",
-      "otherLeagueDraftValue": 0.01
-    },
-    {
-      "name": "Will Dissly",
-      "auctionPrice": 0,
-      "totalPoints": 51.0,
-      "average": 3.1875,
-      "bio": "Dissly is entering his third NFL season having managed only eight full games due to injury. The 2018 fourth-round pick has been very productive, producing at least 13 fantasy points in six of those eight games, but the injuries have obviously derailed his career to this point. The 24-year-old is recovering from a torn Achilles and it's very possible he won't be ready for Week 1. Seattle signed Greg Olsen during the offseason, so Dissly may struggle for consistent fantasy production at least until late in the 2020 season. He should not be drafted unless cleared earlier than expected.",
-      "otherLeagueDraftValue": 0.0
-    },
-    {
-      "name": "Greg Olsen",
-      "auctionPrice": 0,
-      "totalPoints": 50.0,
-      "average": 4.545454545454546,
-      "bio": "Olsen signed with the Seahawks during the offseason following 13 seasons with the Bears and Panthers. The veteran tight end missed roughly half of both the 2017 and 2018 seasons before getting back on track in 2019. Despite missing two more games, Olsen finished sixth at the position in routes and 11th in targets, receptions, yardage and OTD. He was TE13 in fantasy, though it could've been better if not for bad touchdown luck (2 TD, 4.7 OTD). Olsen is now 35 and, while his move to Seattle could allow early-season fantasy relevance, it is expected that Will Dissly will return to the lineup at some point this calendar year. Olsen is only worth a late pick in deeper leagues.",
-      "otherLeagueDraftValue": 0.24
-    },
-    {
-      "name": "Durham Smythe",
-      "auctionPrice": 0,
-      "totalPoints": 50.0,
-      "average": 3.3333333333333335,
-      "bio": "",
-      "otherLeagueDraftValue": 0.0
-    },
-    {
-      "name": "James O'Shaughnessy",
-      "auctionPrice": 0,
-      "totalPoints": 49.0,
-      "average": 3.2666666666666666,
-      "bio": "",
-      "otherLeagueDraftValue": 0.0
-    },
-    {
-      "name": "David Njoku",
-      "auctionPrice": 0,
-      "totalPoints": 46.0,
-      "average": 3.5384615384615383,
-      "bio": "Njoku was expected to emerge after Cleveland selected him in the first round of the 2017 draft. He appears to be on track after posting a 56-639-4 receiving line (TE9 in fantasy) in 2018, but injuries and a demotion courtesy of Freddie Kitchens led to a grand total of 10 targets in four games last season. It's possible tight end-friendly new head coach Kevin Stefanski can get Njoku's career back on track, but Cleveland's heavy investment in Austin Hooper is crushing for Njoku's fantasy upside. The 24-year-old is a long shot for anything more than a situational role and not worth drafting in most formats.",
-      "otherLeagueDraftValue": 0.0
-    },
-    {
-      "name": "Ross Dwelley",
-      "auctionPrice": 0,
-      "totalPoints": 44.0,
-      "average": 2.75,
-      "bio": "",
-      "otherLeagueDraftValue": 0.0
-    },
-    {
-      "name": "Tyler Conklin",
-      "auctionPrice": 0,
-      "totalPoints": 42.0,
-      "average": 2.625,
-      "bio": "",
-      "otherLeagueDraftValue": 0.0
-    },
-    {
-      "name": "Donald Parham Jr.",
-      "auctionPrice": 0,
-      "totalPoints": 38.0,
-      "average": 2.923076923076923,
-      "bio": "",
-      "otherLeagueDraftValue": 0.0
-    }
-  ]
-}
+[
+  {
+    "name": "Travis Kelce",
+    "position": "TE",
+    "auctionPrice": 32,
+    "totalPoints": 325.0,
+    "average": 21.666666666666668,
+    "bio": "Kelce enters the 2020 season attempting to pace all tight ends in fantasy points for the fifth consecutive season. Is that good? It seems good. Kelce continued his dominance last season by finishing as a top-13 fantasy TE every week other than 17. Kelce has finished no lower than second at the position in routes, targets, receptions and yardage each of the past three seasons. His touchdowns fell from 10 in 2018 to five in 2019, but his 7.3 OTD (second-highest) and nine end zone targets (fourth) suggest he was actually unlucky in that area. Kelce has never finished a season outside the top 10 in YPT and remains one of Patrick Mahomes' top targets. The 30-year-old is worth a look in Round 2.",
+    "otherLeagueDraftValue": 41.94
+  },
+  {
+    "name": "Darren Waller",
+    "position": "TE",
+    "auctionPrice": 4,
+    "totalPoints": 292.0,
+    "average": 18.25,
+    "bio": "Waller's breakout 2019 season marked one of the most improbable breakout campaigns you'll ever see. Waller was drafted in the sixth round of the 2015 draft as a 6-foot-6 wide receiver. He barely saw the field while dealing with addiction but got back on his feet as a tight end with the Raiders. An absolute force from the get-go, Waller finished no lower than fourth among tight ends in snaps, routes, targets, receptions, yardage or YPT. Waller was held to three touchdowns (3.9 OTD) but finished third in fantasy points. The 27-year-old is Derek Carr's top target and positioned well for another high-volume season. He's a top-five fantasy tight end.",
+    "otherLeagueDraftValue": 16.99
+  },
+  {
+    "name": "Logan Thomas",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 168.0,
+    "average": 10.5,
+    "bio": "",
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "T.J. Hockenson",
+    "position": "TE",
+    "auctionPrice": 1,
+    "totalPoints": 161.0,
+    "average": 10.0625,
+    "bio": "It's rare for a rookie tight end to make much noise in fantasy, so Hockenson's 32-367-2 line after being selected eighth overall in the 2019 draft should not be viewed as a knock. The Iowa product showed his upside with a 6-131-1 showing in his NFL debut, but managed double-digit fantasy points in only one additional game and missed the final four games due to injury. The 23-year-old is a strong bet for more work in his second season and, as usual for second-year tight ends, will come fairly cheap in the double-digit rounds. Hockenson has the upside to become one of the next great all-around tight ends.",
+    "otherLeagueDraftValue": 1.87
+  },
+  {
+    "name": "Robert Tonyan",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 157.0,
+    "average": 9.8125,
+    "bio": "",
+    "otherLeagueDraftValue": 0.52
+  },
+  {
+    "name": "Mark Andrews",
+    "position": "TE",
+    "auctionPrice": 17,
+    "totalPoints": 156.0,
+    "average": 11.142857142857142,
+    "bio": "A 2018 third-round pick, Andrews exited his rookie campaign seemingly set to become one of the league's next great tight ends. It's fair to say he delivered the goods in 2019. Despite ranking 40th at the position in snaps, Andrews handled a massive 25% target share for Baltimore's league-best offense en route to a TE5 fantasy campaign. Andrews' 11 end zone targets tied for most among tight ends and eighth in the entire league. That helped him to 10 touchdowns. Andrews' has ranked no lower than fifth in aDOT or YPR during his two pro seasons. Lamar Jackson's top target enters his age-24 season as a solid TE1 option.",
+    "otherLeagueDraftValue": 13.49
+  },
+  {
+    "name": "Mike Gesicki",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 153.0,
+    "average": 10.2,
+    "bio": "It was a rough 2019 season for the Dolphins, but that didn't stop Gesicki from quietly taking a big leap forward. The 2018 second-round pick finished the season third among tight ends in pass routes and ranked no lower than 12th in targets, receptions, receiving yards or touchdowns. Gesicki's 11 end zone targets tied for most among tight ends and eighth in the entire league. His 58% catch rate was ugly, but his role as a seam-stretcher (10.1 aDOT) and shaky quarterback accuracy (22% off target rate) were the primary culprits. Gesicki has yet to drop a pass on 120 targets and was fantasy's TE12 in 2019. He's a candidate for another leap forward and a borderline TE1 option.",
+    "otherLeagueDraftValue": 0.25
+  },
+  {
+    "name": "Rob Gronkowski",
+    "position": "TE",
+    "auctionPrice": 8,
+    "totalPoints": 140.0,
+    "average": 8.75,
+    "bio": "Gronk is back! The longtime Patriots' superstar ended his retirement and was traded to the Buccaneers, where he'll reunite with his former quarterback Tom Brady. Gronkowski sat out last season after ending 2018 with his seventh fantasy finish of 11th or better in nine NFL seasons. When healthy, effectiveness has never been an issue for Gronkowski (he has never played a season in which he was lower than seventh among tight ends in yards per target or yards per reception), but durability has been an issue (he hasn't appeared in a full 16-game regular season since 2011).'Gronkowski is unlikely to re-emerge as an elite fantasy option, but he's in a good enough situation to allow mid-to-back-end TE1 numbers.",
+    "otherLeagueDraftValue": 2.75
+  },
+  {
+    "name": "Noah Fant",
+    "position": "TE",
+    "auctionPrice": 1,
+    "totalPoints": 138.0,
+    "average": 9.2,
+    "bio": "The Broncos selected Fant in the first round of last year's draft and proceeded to put him on the field for 68% of their offensive snaps. That's a healthy number for a 21-year-old rookie, as was Fant's TE16 fantasy campaign. The Iowa product was a game-changer with the ball in his hands, pacing 41 qualified tight ends with an 8.3 RAC. His 562 receiving yards rank sixth and his 8.9 YPT fifth among rookie tight ends since 2007. Fant's usage actually declined quite a bit in December, but there's little doubt he's a strong candidate for a big second-year leap as one of Drew Lock's top targets. Fant has elite upside and should be on your radar in the middle rounds.",
+    "otherLeagueDraftValue": 2.43
+  },
+  {
+    "name": "Dalton Schultz",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 137.0,
+    "average": 8.5625,
+    "bio": "",
+    "otherLeagueDraftValue": 0.03
+  },
+  {
+    "name": "Hunter Henry",
+    "position": "TE",
+    "auctionPrice": 2,
+    "totalPoints": 136.0,
+    "average": 9.714285714285714,
+    "bio": "Henry is back with the Chargers after the team applied the franchise tag during the offseason. The team's 2016 second-round pick has yet to play a full 16-game season, missing all of 2018 and a total of seven games the other three seasons. That includes four in 2019, though Henry was productive enough when active to produce his first top-10 fantasy campaign. Henry has finished top-10 in YPT in all three of his NFL seasons and has been a force near the goal line, with 17 touchdowns and 25 end zone targets in 41 games. Henry's durability woes and the departure of Philip Rivers are concerns, but the 25-year-old will still be a back-end TE1 option when active.",
+    "otherLeagueDraftValue": 2.0
+  },
+  {
+    "name": "Hayden Hurst",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 136.0,
+    "average": 8.5,
+    "bio": "Hurst was traded to the Falcons following two seasons as a situational player in Baltimore. Atlanta will look to the 2018 first-round pick as a replacement for Austin Hooper. Hurst posted a modest 30-349-2 receiving line off the bench last season, but his efficiency was great. He ranked sixth at tight end in both catch rate (77%) and YPT (8.9). Hurst has yet to eclipse a 58% snap share in 30 career games, but he figures to operate as a full-time, two-way tight end in a pass-heavy Atlanta offense that helped Hooper to back-to-back TE1 campaigns. Hurst is obviously a bit risky, but the 26-year-old is well-positioned for a breakout. Consider him a mid-range TE2.",
+    "otherLeagueDraftValue": 0.51
+  },
+  {
+    "name": "Evan Engram",
+    "position": "TE",
+    "auctionPrice": 6,
+    "totalPoints": 135.0,
+    "average": 8.4375,
+    "bio": "Engram is entering his fourth NFL season having missed 14 of 48 possible games due to injury, including five games in 2018 and eight last season. The injuries have held Engram without a top-12 fantasy campaign since 2017, but there's no doubt he's been a major force when healthy. Engram was one of six players who appeared in at least eight games and were targeted at least six times during 100% of those outings last season. The consistent usage helped him to five top-10 fantasy weeks in eight tries (the position's fourth-best rate). We have to knock him a bit for durability concerns, but Engram is still in his prime at age 25 and should be locked into lineups when active.",
+    "otherLeagueDraftValue": 0.57
+  },
+  {
+    "name": "Eric Ebron",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 131.0,
+    "average": 8.733333333333333,
+    "bio": "Ebron signed with the Steelers after spending the first six seasons of his career in Detroit and Indianapolis. The 2014 first-round pick underachieved during his time with the Lions, but a breakout season in 2018 saw him post a 66-750-13 receiving line. He crashed back to earth last season thanks to predictable regression to the mean, but also due to the loss of Andrew Luck, posting a 31-375-3 line in 11 games. Now with Pittsburgh, the 27-year-old figures to work ahead of Vance McDonald as the team's top receiving tight end. Ebron is best-viewed as a mid-to-back-end TE2.",
+    "otherLeagueDraftValue": 0.98
+  },
+  {
+    "name": "Jimmy Graham",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 130.0,
+    "average": 8.125,
+    "bio": "Graham signed with the Bears during the offseason following a pair of seasons with the division-rival Packers. The 33-year-old isn't the fantasy force he was during his prime years in New Orleans and Seattle and is coming off his worst statistical season since his rookie year. Graham played 55% of the snaps, handled a 12% target share and posted a 38-447-3 receiving line despite appearing in all 16 of Green Bay's regular-season games. Graham finished eighth at tight end in pass routes, but 21st in fantasy points. Graham figures to contribute as a seam-stretcher in Chicago, but he'll be a part-time player in an offense with a shaky quarterback situation. Consider him a back-end TE2.",
+    "otherLeagueDraftValue": 0.55
+  },
+  {
+    "name": "George Kittle",
+    "position": "TE",
+    "auctionPrice": 39,
+    "totalPoints": 128.0,
+    "average": 16.0,
+    "bio": "Kittle wasn't much of a factor as a pass-catcher during the 49ers' Super Bowl run (8-71-0 in three games), but don't let that overshadow what was another dominant regular season. Kittle followed up his breakout 2018 season with an 85-1053-5 receiving line in 14 games in 2019. Kittle has finished no lower than fourth in targets, receptions, yardage, RAC or fantasy points each of the past two seasons. One area where Kittle has underwhelmed is touchdowns (five each of the past two seasons) and his 10.8 OTD and 13 end zone targets during the span suggest it's not a fluke. Of course, there's still plenty of room to grow in that department, and Kittle has plenty of dominant years left at age 26. He's a fine third-round target.",
+    "otherLeagueDraftValue": 36.24
+  },
+  {
+    "name": "Jonnu Smith",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 127.0,
+    "average": 8.466666666666667,
+    "bio": "With Delanie Walker out of the way, Smith enters his fourth NFL season finally locked in atop the Titans' depth chart. Granted it was on 43 targets, but Smith's 2019 season was highly efficient. He ranked no lower than second at the position in catch rate (81%), YPT (10.2) or RAC (7.9). The Titans appear committed to manufacturing touches for the versatile Smith, as 19% of his targets came on screens and he also handled four carries. Of course, the usage has yet to allow much fantasy success. Most of Smith's work has come near the line of scrimmage (5.7 aDOT) and very little has come near the end zone (eight touchdowns, six end zone targets in career). Smith is a back-end TE2.",
+    "otherLeagueDraftValue": 4.01
+  },
+  {
+    "name": "Jared Cook",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 118.0,
+    "average": 7.866666666666666,
+    "bio": "After failing to post a single fantasy campaign better than 12th during his first eight NFL seasons, Cook has posted a pair of top-seven finishes (and with different teams) over the past two seasons. Cook missed a pair of games last season, but managed a TE7 campaign thanks to nine touchdowns (his 11 end zone targets tied for most among tight ends and eighth in the league) and elite efficiency (he posted the position's highest aDOT, YPR and YPT). Cook is now 33 years old, but his role as one of Drew Brees' primary targets remains secure. Consider him a borderline top-10 fantasy option.",
+    "otherLeagueDraftValue": 1.02
+  },
+  {
+    "name": "Tyler Higbee",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 118.0,
+    "average": 7.866666666666666,
+    "bio": "If someone told you midway through the 2019 season that Higbee was a solid TE1 fantasy option going forward, you would've laughed. The 2016 fourth-round pick had totaled an 86-884-5 receiving line in 58 games through Week 12 of last season. He went on to produce a 43-522-2 line while averaging 11.4 targets per game the rest of the season. Higbee was the top-scoring fantasy TE by 23 points during the span. The 27-year-old signed a contract extension last year and Sean McVay's adjustment to more '12' personnel late last season suggests Higbee's emergence was no fluke. Higbee is best-viewed as mid-range TE1.",
+    "otherLeagueDraftValue": 0.06
+  },
+  {
+    "name": "Dallas Goedert",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 113.0,
+    "average": 10.272727272727273,
+    "bio": "Goedert spent the 2019 season behind Zach Ertz on the depth chart and missed a game, but still managed a top-10 finish among tight ends in targets, receptions, yardage, touchdowns and fantasy points. A big reason for the high-end production was a massive number of injuries to Eagles' wide receivers and that shows up in Goedert's splits. The 2018 second-round pick posted five top-10 fantasy weeks, but four came after the team's Week 10 bye. Goedert appears to have a bright future, but the 25-year-old will struggle for TE1 numbers barring an Ertz injury. Goedert is, however, one of the best insurance policies in fantasy.",
+    "otherLeagueDraftValue": 0.07
+  },
+  {
+    "name": "Austin Hooper",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 105.0,
+    "average": 8.076923076923077,
+    "bio": "Hooper signed with the Browns during the offseason following four seasons with the Falcons. The 2016 third-round pick has finished no lower than seventh among tight ends in routes, targets, receptions or receiving yards each of the past two seasons. He posted career-high marks in targets (96), receptions (75), receiving yards (787) and touchdowns (six) last season despite missing three games and was fantasy's top-scoring tight end prior to suffering an injury in Week 10. Hooper's stock takes hit as he trades Matt Ryan and Atlanta's pass-heavy offense for Baker Mayfield and a Browns offense that also include David Njoku. Hooper enters his age-25 season as a borderline top-10 fantasy option.",
+    "otherLeagueDraftValue": 0.79
+  },
+  {
+    "name": "Irv Smith Jr.",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 90.0,
+    "average": 6.923076923076923,
+    "bio": "Smith is entering his second NFL season after posting a 36-311-2 receiving line as a rookie. The 2019 second-round pick played a healthy 587 snaps, but was a clear second to Kyle Rudolph (749 snaps) on the depth chart and was primarily utilized as short-area target (5.9 aDOT). Rudolph out-targeted Smith 49 to 48, though Smith is a strong bet to take over as the team's top receiving threat at the position in his second season. Smith is still extremely young (he's entering his age-22 season), but especially with Stefon Diggs gone, he's well-positioned for a step forward. Rudolph's presence will limit his ceiling, but Smith is a fine TE2 target.",
+    "otherLeagueDraftValue": 0.03
+  },
+  {
+    "name": "Dan Arnold",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 90.0,
+    "average": 5.625,
+    "bio": "",
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Gerald Everett",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 85.0,
+    "average": 5.3125,
+    "bio": "",
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Anthony Firkser",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 81.0,
+    "average": 5.0625,
+    "bio": "",
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Mo Alie-Cox",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 79.0,
+    "average": 5.266666666666667,
+    "bio": "",
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Jordan Akins",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 76.0,
+    "average": 5.846153846153846,
+    "bio": "",
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Tyler Eifert",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 75.0,
+    "average": 5.0,
+    "bio": "Eifert signed with the Jaguars during the offseason after seven seasons with the Bengals. The 2013 first-round pick held up for 16 games last season for the first time in his career, but a situational role limited him to 44% of the snaps and 4.0 targets per game. Eifert finished TE19 in fantasy, which marked his first top-20 campaign since 2015. New Jaguars OC Jay Gruden makes heavy use of his tight ends (career 23% target share), which benefits Eifert and second-year TE Josh Oliver. Of course, we still need to be wary of Eifert's durability after he missed 52 of 80 possible games during the 2014-18 seasons. Eifert is a fringe TE2 at best.",
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Trey Burton",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 74.0,
+    "average": 5.6923076923076925,
+    "bio": "",
+    "otherLeagueDraftValue": 0.03
+  },
+  {
+    "name": "Drew Sample",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 72.0,
+    "average": 4.5,
+    "bio": "",
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Zach Ertz",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 71.0,
+    "average": 6.454545454545454,
+    "bio": "Ertz had his hands full playing through injuries and double coverage last season, but the veteran tight end still managed his third consecutive campaign as a top-four fantasy tight end. Ertz hasn't finished lower than fifth in targets, sixth in receptions or seventh in yardage at the position since 2014. He's also ranked no lower than fourth in touchdowns and OTD each of the past three seasons. Third-year Dallas Goedert is looming, but Ertz enters his age-29 season as Carson Wentz's top target and remains a top-five fantasy tight end.",
+    "otherLeagueDraftValue": 0.11
+  },
+  {
+    "name": "Chris Herndon",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 68.0,
+    "average": 4.25,
+    "bio": "Herndon is back on the fantasy radar following an injury-plagued 2019 campaign in which he was limited to 16 snaps. The Jets selected Herndon in the fourth round of the 2018 draft and quickly put him in position for a big role. The Miami product was on the field for 63% of New York's snaps and, following a slow start, was fantasy's No. 9 tight end from Week 6 on. His 10.3 aDOT was fifth-highest at the position and helped him to a strong 9.0 YPT (10th). Herndon's 502 receiving yards rank 12th, his catch rate 12th, his YPT fourth and his aDOT second among rookie tight ends since 2007. Herndon is an excellent post-hype target and positioned well for a breakout.",
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Darren Fells",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 68.0,
+    "average": 4.25,
+    "bio": "Fells re-signed with Houston during the offseason after producing the elusive 'age-33 breakout season' in 2019. Fells found the end zone seven times, which was third-most at the position. Fells was on the field often (his 704 snaps ranked 12th), but wasn't targeted much (46 targets) and benefited from unsustainable fortune in the touchdown department (3.7 OTD, six end zone targets). Fells also did a lot of his damage early on, as he delivered four top-10 fantasy weeks through Week 8, but none better than 15th from that point on. He remains well off the fantasy radar, especially with Jordan Thomas, Kahale Warring and Jordan Akins looming.",
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Jordan Reed",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 66.0,
+    "average": 6.6,
+    "bio": "",
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Richard Rodgers",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 65.0,
+    "average": 4.642857142857143,
+    "bio": "",
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Kyle Rudolph",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 61.0,
+    "average": 5.083333333333333,
+    "bio": "Minnesota placed Rudolph on the trade block last offseason, but the situation was resolved with a contract extension and the veteran tight end finishing eighth among tight ends in snaps and fourth in touchdowns (six). Of course, sharing with Irv Smith Jr. in a run-heavy offense also had its disadvantages. Rudolph's catch (39) and yardage (367) totals were both his lowest since 2014. Rudolph remains a reliable short-area target, but he's now 30 years old and figures to lose more looks to Smith in 2020. Rudolph is no more than a fringe TE2.",
+    "otherLeagueDraftValue": 0.11
+  },
+  {
+    "name": "Cameron Brate",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 61.0,
+    "average": 3.8125,
+    "bio": "Brate might be on the TE1 radar on other rosters, but the long-time situational target continues to trend in the wrong direction in Tampa Bay. Brate posted a pair of top-10 fantasy campaigns during the 2016-17 seasons, but fell to 19th in 2018 and 24th last season. Brate has been very touchdown-reliant, having ranked no lower than eighth at the position in TD rate each of the past five seasons. Brate's 269 routes last season were his fewest since 2015 and he's unlikely to rebound with TE-unfriendly coach Bruce Arians and O.J. Howard and Rob Gronkowski in the fold. Brate is well off the fantasy radar.",
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Dawson Knox",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 60.0,
+    "average": 5.0,
+    "bio": "The Bills selected Knox in the third round of the 2019 draft and the Ole Miss product quickly earned his way to a significant offensive role. Knox played 64% of the offensive snaps and produced a 28-388-2 receiving line on 50 targets prior to resting in Week 17. The combination of plenty of downfield routes (his 9.2 aDOT ranked sixth) and Josh Allen's inaccuracy (20% off-target rate ranked ninth) led to an ugly 56% catch rate (second-worst), but Knox still managed a respectable 7.8 YPT (14th-best). The 23-year-old is an obvious candidate for a step forward in his second season, but with Stefon Diggs added to Buffalo's run-heavy offense, Knox is a borderline TE2 at best.",
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Jacob Hollister",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 58.0,
+    "average": 3.625,
+    "bio": "",
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Cole Kmet",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 57.0,
+    "average": 3.5625,
+    "bio": "The Bears selected Kmet with the 43rd pick of April's draft. The Notre Dame product is a solid receiver and capable blocker who also happens to be one of the youngest tight ends in this year's rookie class (he turned 21 in March). He has outstanding size (6-foot-6, 262 pounds), as well as good hands and balls skills. He has drawn Austin Hooper and Tyler Higbee comparisons as a player who figures to develop into a pass-catching in-line tight end. Like most (OK, all) young tight ends, it will take Kmet some time to reach TE1 territory, but he'll be a strong dynasty stash. Kmet has almost zero 2020 value behind Jimmy Graham.",
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Jack Doyle",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 57.0,
+    "average": 4.071428571428571,
+    "bio": "With Eric Ebron out of the picture, Doyle has regained his status as the Colts' clear top tight end. We got a glimpse of what that could look like late last season as Doyle tied for the team lead with 31 targets (20% share) once Ebron went on IR after Week 12. Doyle was held to two top-10 fantasy weeks and one finish better than eighth on the season, but there are reasons for optimism. Coach Frank Reich's tight end units have never combined for a target share below 23% in six seasons as a coach/OC. Also, new QB Philip Rivers made heavy usage of Antonio Gates and Hunter Henry in recent years with the Chargers. Doyle, who ranked sixth at tight end with eight end zone targets last season, should be viewed as a fringe top-15 fantasy TE in his age-30 season.",
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Harrison Bryant",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 55.0,
+    "average": 3.6666666666666665,
+    "bio": "The Browns selected Bryant in the fourth round of April's draft. Bryant's numbers were off the charts at Florida Atlantic last season, as he averaged a class-best 3.1 yards per route run while posting a 65-1,004-7 receiving line on 99 targets. Bryant is a terrific receiver, and that figures to be his primary focus in the pros, but he's not a zero as a blocker, which could lead to the coveted every-down role. Bryant's hands are a slight concern, and he didn't show well athletically at the combine, but his receiving prowess makes him an intriguing prospect. He won't be fantasy relevant for a long time with Austin Hooper and David Njoku ahead of him in Cleveland.",
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Will Dissly",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 51.0,
+    "average": 3.1875,
+    "bio": "Dissly is entering his third NFL season having managed only eight full games due to injury. The 2018 fourth-round pick has been very productive, producing at least 13 fantasy points in six of those eight games, but the injuries have obviously derailed his career to this point. The 24-year-old is recovering from a torn Achilles and it's very possible he won't be ready for Week 1. Seattle signed Greg Olsen during the offseason, so Dissly may struggle for consistent fantasy production at least until late in the 2020 season. He should not be drafted unless cleared earlier than expected.",
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Greg Olsen",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 50.0,
+    "average": 4.545454545454546,
+    "bio": "Olsen signed with the Seahawks during the offseason following 13 seasons with the Bears and Panthers. The veteran tight end missed roughly half of both the 2017 and 2018 seasons before getting back on track in 2019. Despite missing two more games, Olsen finished sixth at the position in routes and 11th in targets, receptions, yardage and OTD. He was TE13 in fantasy, though it could've been better if not for bad touchdown luck (2 TD, 4.7 OTD). Olsen is now 35 and, while his move to Seattle could allow early-season fantasy relevance, it is expected that Will Dissly will return to the lineup at some point this calendar year. Olsen is only worth a late pick in deeper leagues.",
+    "otherLeagueDraftValue": 0.24
+  },
+  {
+    "name": "Durham Smythe",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 50.0,
+    "average": 3.3333333333333335,
+    "bio": "",
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "James O'Shaughnessy",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 49.0,
+    "average": 3.2666666666666666,
+    "bio": "",
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "David Njoku",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 46.0,
+    "average": 3.5384615384615383,
+    "bio": "Njoku was expected to emerge after Cleveland selected him in the first round of the 2017 draft. He appears to be on track after posting a 56-639-4 receiving line (TE9 in fantasy) in 2018, but injuries and a demotion courtesy of Freddie Kitchens led to a grand total of 10 targets in four games last season. It's possible tight end-friendly new head coach Kevin Stefanski can get Njoku's career back on track, but Cleveland's heavy investment in Austin Hooper is crushing for Njoku's fantasy upside. The 24-year-old is a long shot for anything more than a situational role and not worth drafting in most formats.",
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Ross Dwelley",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 44.0,
+    "average": 2.75,
+    "bio": "",
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Tyler Conklin",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 42.0,
+    "average": 2.625,
+    "bio": "",
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Donald Parham Jr.",
+    "position": "TE",
+    "auctionPrice": 0,
+    "totalPoints": 38.0,
+    "average": 2.923076923076923,
+    "bio": "",
+    "otherLeagueDraftValue": 0.0
+  }
+]

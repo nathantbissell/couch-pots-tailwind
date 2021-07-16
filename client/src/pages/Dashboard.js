@@ -65,7 +65,7 @@ function Dashboard() {
 
             {/* Cards */}
             <Players />
-            <DashboardCard01 />
+            {/* <DashboardCard01 /> */}
           </div>
         </main>
 

@@ -17,7 +17,12 @@ export default function Players() {
   return (
     <div className="grid grid-cols-12 gap-6">
       {data.players.map((player) => (
-        <DashboardCardBasic name={player.name} position={player.position} />
+        <DashboardCardBasic
+          name={player.name}
+          position={player.position}
+          auctionPrice={player.auctionPrice}
+          totalPoints={player.totalPoints}
+        />
       ))}
     </div>
   );

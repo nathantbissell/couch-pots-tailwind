@@ -54,6 +54,14 @@ function DashboardCardBasic(props) {
             {props.position}
           </div>
         </div>
+        <div className="flex items-start">
+          <div className="text-md font-semibold text-grey-800 mr-2 mb-10">
+            {props.auctionPrice}
+          </div>
+          <div className="text-md font-semibold text-grey-800 mr-2 mb-10">
+            {props.totalPoints}
+          </div>
+        </div>
       </div>
       <div></div>
     </div>

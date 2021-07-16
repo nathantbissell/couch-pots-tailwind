@@ -4,7 +4,6 @@ const { Schema } = mongoose;
 const cors = require("cors");
 const app = express();
 app.use(express.json());
-
 const playerRoutes = require("./routes/player_routes");
 app.use(playerRoutes);
 const corsOptions = {
@@ -15,7 +14,7 @@ const corsOptions = {
 app.use(cors(corsOptions));
 
 var connectionString =
-  "mongodb+srv://admin:admin123@couchpots.q4sd4.mongodb.net/player-names?retryWrites=true&w=majority";
+  "mongodb+srv://admin:admin123@couchpots.q4sd4.mongodb.net/nfl?retryWrites=true&w=majority";
 
 mongoose.Promise = global.Promise;
 mongoose.connect(connectionString, {

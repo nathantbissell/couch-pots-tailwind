@@ -1,404 +1,452 @@
-{
-  "players": [
-    {
-      "name": "Derrick Henry",
-      "auctionPrice": 45,
-      "totalPoints": 388.0,
-      "average": 24.25,
-      "bio": "Henry returns as the feature back in Tennessee after pacing the NFL in carries (303), rushing yards (1,540) and rushing touchdowns (16) in 2019. Henry has been an absolute force as a rusher, ranking no lower than third in YAC each of the past three seasons. His heavy recent workload is a concern, but the good news is that he's 25 years old and had not cleared 215 carries in a season prior to 2019. Henry's minimal workload as a receiver (career-high 18 receptions last season) will continue to limit his fantasy output, so coupled with a probable dip in rushing production, he should be valued as a back-end RB1.",
-      "otherLeagueDraftValue": 57.32
-    },
-    {
-      "name": "Dalvin Cook",
-      "auctionPrice": 48,
-      "totalPoints": 378.0,
-      "average": 27.0,
-      "bio": "Cook's career has thus far been marred by injuries, but we saw a glimpse of his ceiling during a breakout 2019 campaign. Through Week 14, Cook led the league in rushing touchdowns and trailed only Christian McCaffrey in fantasy points. Cook missed two games and chunks of others but still finished no lower than ninth among backs in carries, receptions, touches, scrimmage yards and touchdowns. Cook's 15 carries inside the 5 were third most in the league, and he scored at least one touchdown in 11 of 14 games. Cook has now missed 19 games because of injury in three seasons, but there's no doubt the 24-year-old is positioned well as run-heavy Minnesota's primary back. He's a strong RB1 despite the durability concerns.",
-      "otherLeagueDraftValue": 58.46
-    },
-    {
-      "name": "Alvin Kamara",
-      "auctionPrice": 51,
-      "totalPoints": 373.0,
-      "average": 24.866666666666667,
-      "bio": "Kamara is coming off an up-and-down 2019 campaign, but the 24-year-old remains the main man in the New Orleans' backfield. Kamara missed a pair of games but otherwise played a similar role to 2018, handling 12.2 carries and 7.0 targets per game. Kamara ended the season with a YPC above 4.5 and exactly 81 catches for the third consecutive season. A lack of usage near the goal line (7.1 OTD, 6 TDs) limited his fantasy production, though he did finish strongly with four of those scores coming during Weeks 16-17. Kamara should have little trouble pushing for 20 touches per game in the Saints' Drew Brees-led, high-scoring offense. He remains a solid RB1.",
-      "otherLeagueDraftValue": 60.83
-    },
-    {
-      "name": "David Montgomery",
-      "auctionPrice": 6,
-      "totalPoints": 268.0,
-      "average": 17.866666666666667,
-      "bio": "Montgomery's rookie season didn't go as planned, but the 2019 third-round pick remains atop the Chicago depth chart. The Iowa State product wasn't short on volume in his first season, ranking 12th among backs in touches and sixth in carries inside the 5 (14). The problem was a combination of poor rushing efficiency (3.7 YPC, 1.6 YAC) and a lack of volume and effectiveness as a pass-catcher (185 yards on 37 targets). The end result was two top-15 fantasy weeks and a 24th-place finish by season's end. Montgomery will continue to defer passing-down work to Tarik Cohen but is certainly a breakout candidate in his second season. Montgomery is a flex option with RB2 upside.",
-      "otherLeagueDraftValue": 22.79
-    },
-    {
-      "name": "Aaron Jones",
-      "auctionPrice": 32,
-      "totalPoints": 266.0,
-      "average": 19.0,
-      "bio": "It's fair to say Jones was finally 'freed' in 2019. Green Bay's lead back set career-high marks in nearly every category, exploding for 1,558 yards (seventh most among RBs) and a league-high 19 touchdowns from scrimmage. Jones posted more duds than you'd expect from a top fantasy back (five weekly finishes outside the top 30), but still managed the second-most points at the position. Jones is a near lock for major touchdown regression this season, as his 19 TDs were nearly double his 10.8 OTD. Still, his strong efficiency and role as lead back in the Packers' offense is enough to allow the 25-year-old Jones solid RB1 numbers.",
-      "otherLeagueDraftValue": 51.85
-    },
-    {
-      "name": "Jonathan Taylor",
-      "auctionPrice": 19,
-      "totalPoints": 263.0,
-      "average": 17.533333333333335,
-      "bio": "The Colts surprisingly nabbed Taylor with the 41st pick of April's draft. An outstanding prospect purely from a rushing standpoint, the Wisconsin product paced this year's rookie class in carries, rushing yards and rushing touchdowns and ranked fourth with a 3.7 YAC in 2019. Taylor also crushed it at February's combine, running a position-best 4.39 40 and a solid 7.01 three cone despite a hefty 5-foot-10, 226-pound frame. The main concerns here are fumbles (18) and pass-catching ability (nine drops on 68 targets). Taylor has RB1 upside down the road, but his short-term fantasy value will suffer with incumbent early-down back Marlon Mack and passing-down specialist Nyheim Hines in the fold. Taylor is worth grabbing in the middle rounds, but it might take some time before he's a reliable fantasy starter.",
-      "otherLeagueDraftValue": 9.77
-    },
-    {
-      "name": "James Robinson",
-      "auctionPrice": 0,
-      "totalPoints": 254.0,
-      "average": 18.142857142857142,
-      "bio": "",
-      "otherLeagueDraftValue": 24.71
-    },
-    {
-      "name": "Nick Chubb",
-      "auctionPrice": 58,
-      "totalPoints": 231.0,
-      "average": 19.25,
-      "bio": "Chubb has emerged as one of the league's most-effective rushers since being selected in the second round of the 2018 draft. He ranks first in YPC (5.1) and second in YAC (2.3) among 25 backs with at least 300 carries during that span. Chubb was fantasy's No. 8 scoring back in 2019, thanks to the fourth-most touches and second-most total yardage at the position. However, we can't ignore that Chubb's usage and fantasy production dipped once Kareem Hunt returned from suspension (RB6 before, RB15 after). Hunt will be in the mix from the get-go in 2020, which will certainly limit Chubb's output. Consider Chubb a borderline top-10 RB with more value in non-PPR leagues.",
-      "otherLeagueDraftValue": 5.3
-    },
-    {
-      "name": "Josh Jacobs",
-      "auctionPrice": 35,
-      "totalPoints": 227.0,
-      "average": 15.133333333333333,
-      "bio": "Jacobs returns as the feature back for the Raiders following an extremely impressive rookie campaign. The 2019 first-round pick averaged a healthy 4.75 YPC on 242 attempts and ranked fourth among backs with a 2.25 YAC. Jacobs flashed with four top-10 fantasy weeks but missed three games because of injury, and his output was capped by a limited role as a receiver (27 targets). Coach Jon Gruden has consistently expressed a desire to target Jacobs more often, which adds some optimism that Jacobs can become a workhorse back. Of course, until that actually happens, the 22-year-old is best valued as a fringe top-12 fantasy back.",
-      "otherLeagueDraftValue": 44.18
-    },
-    {
-      "name": "Ezekiel Elliott",
-      "auctionPrice": 70,
-      "totalPoints": 224.0,
-      "average": 14.933333333333334,
-      "bio": "Elliott returns as the clear feature back in Dallas. Since entering the league in 2016, the Ohio State product leads the NFL in carries (1,169) and rushing yards (5,405), and sits second in rushing touchdowns (40). Elliott obviously plays a substantial role as a ball carrier -- and his goal-line work increased last season -- but it was a bit surprising to see his targets fall from 6.3 to 4.4 per game last season. Of course, Elliott's role still allowed him a top-3 finish in touches, yards and fantasy points. The 25-year-old is positioned for a similar role in 2020 behind a strong offensive line and should be off the board in the middle of the first round of drafts.",
-      "otherLeagueDraftValue": 47.2
-    },
-    {
-      "name": "Kareem Hunt",
-      "auctionPrice": 2,
-      "totalPoints": 206.0,
-      "average": 12.875,
-      "bio": "Hunt returns to Cleveland, where he'll operate as a change-of-pace rusher and primary receiving back behind Nick Chubb. Hunt was, of course, one of fantasy's top backs prior to off-field issues leading to roughly one year out of the league. He returned in Week 10 last season and played a substantial role from that point on. Hunt was on the field for 60% of the snaps, handling 5.4 carries and 5.5 targets per game. Hunt was fantasy's No. 17 RB during the stretch and trailed Chubb by only three fantasy points during that span. Chubb will continue to handle most of the carries and goal-line work, but Hunt's role allows him standalone value, not to mention that he's arguably the most valuable insurance policy in fantasy.",
-      "otherLeagueDraftValue": 18.82
-    },
-    {
-      "name": "Antonio Gibson",
-      "auctionPrice": 3,
-      "totalPoints": 204.0,
-      "average": 14.571428571428571,
-      "bio": "Washington selected Gibson with the 66th pick of April's draft. Gibson appeared to be entering the league as more of an 'offensive weapon' than a wide receiver or running back, but he has settled in as the team's lead back, even drawing comparisons to Christian McCaffrey by head coach Ron Rivera. The Memphis product is big (6-foot, 228 pounds) and a terrific athlete with excellent power, speed (4.39 40-yard dash) and elusiveness. He's a terror with the ball in his hands, having averaged 8.4 yards per carry and 13.1 yards per target (11.9 RAC) in 2019. Experience is a concern here (33 carries and 66 targets in two FBS seasons), but it appears he's done enough to play a huge role as a rookie. Consider Gibson a flex option with upside.",
-      "otherLeagueDraftValue": 19.99
-    },
-    {
-      "name": "Melvin Gordon III",
-      "auctionPrice": 19,
-      "totalPoints": 201.0,
-      "average": 13.4,
-      "bio": "Gordon signed on as the Broncos' new lead back, following five seasons with the Chargers. Gordon is fresh off a season when he held out for a month before posting 162-612-8 rushing and 42-296-1 receiving lines. That was enough for the 12th-most fantasy points during that span. Gordon entered 2019 having finished the previous three seasons no lower than ninth in scrimmage yards, sixth in touchdowns and eighth in fantasy points among backs. In Denver's run-heavy offense, Gordon figures to share a chunk of the carries with Phillip Lindsay, but his bigger frame should garner him more goal-line work, and he's also the superior receiver. Gordon is a mid-to-back end RB2.",
-      "otherLeagueDraftValue": 5.21
-    },
-    {
-      "name": "Ronald Jones II",
-      "auctionPrice": 0,
-      "totalPoints": 198.0,
-      "average": 14.142857142857142,
-      "bio": "Following what was a disastrous rookie season in 2018, Jones added weight and got his career back on track with an impressive showing in 2019. After totaling 77 yards on 30 touches in 2018, Jones produced 1,003 yards and six touchdowns on 203 touches last season. Despite his second-round pedigree and superior play relative to his counterparts in the Tampa Bay backfield, Jones was limited to only 37% of the snaps and 47% of the designed runs. It's very possible we've yet to see the best of Jones, as he was drafted very young and is entering his age-23 season. However, following the offseason additions of Leonard Fournette, LeSean McCoy and Ke'Shawn Vaughn, Jones is not an appealing flex options. He should be on benches unless he earns clear lead duties.",
-      "otherLeagueDraftValue": 17.96
-    },
-    {
-      "name": "Mike Davis",
-      "auctionPrice": 0,
-      "totalPoints": 195.0,
-      "average": 13.0,
-      "bio": "",
-      "otherLeagueDraftValue": 0.2
-    },
-    {
-      "name": "Kenyan Drake",
-      "auctionPrice": 22,
-      "totalPoints": 193.0,
-      "average": 12.866666666666667,
-      "bio": "Drake received the transition tag from the Cardinals during the offseason and will return as the team's clear feature back. Traded from Miami to Arizona at the 2019 trade deadline, Drake went on to play 381 (79%) of 483 possible snaps during his eight games with the team. He handled 66% of the team's carries (15.4 per game) and 14% of the targets (4.4) during that span. That heavy usage allowed him the fourth-most fantasy points among RBs during that span. Arizona's offense should only improve in Kliff Kingsbury and Kyler Murray's second season, so Drake, who sports an impressive 4.8 career YPC, is very much in the RB1 discussion.",
-      "otherLeagueDraftValue": 8.55
-    },
-    {
-      "name": "D'Andre Swift",
-      "auctionPrice": 6,
-      "totalPoints": 184.0,
-      "average": 14.153846153846153,
-      "bio": "The Lions selected Swift with the 35th pick of April's draft. Swift was terrific in Georgia's pro-style offense, producing as both a rusher (440 carries) and receiver (73 receptions) during his three seasons. His efficiency was more solid than spectacular, and he lacks some explosiveness, but he makes up for it with reliability, decent speed (4.48 40-yard dash), quickness and pass-catching prowess. Swift has three-down upside but will begin his career competing for reps with Kerryon Johnson, who figures to focus primarily on ball-carrying, with Swift busier in passing situations. That's likely to limit Swift's fantasy output, but he certainly could flirt with RB2 numbers and is worth a midround pick.",
-      "otherLeagueDraftValue": 9.01
-    },
-    {
-      "name": "Miles Sanders",
-      "auctionPrice": 23,
-      "totalPoints": 179.0,
-      "average": 14.916666666666666,
-      "bio": "It took a while for him to get rolling, but Sanders certainly took command of lead-back duties in Philadelphia during the second half of his rookie season. Sanders put down a solid 179-818-3 rushing line, but where he truly stood out was as a receiver. Sanders' 50-509-3 line was fueled by 8.2 yards per target, which was second best at the position. Sanders didn't play more than 53% of the snaps in a game until Week 11, but he finished 15th among backs in fantasy points. The 23-year-old is primed for a larger share of the workload behind the Eagles' elite offensive line in 2020. Consider him a strong RB2 with upside for more.",
-      "otherLeagueDraftValue": 21.64
-    },
-    {
-      "name": "David Johnson",
-      "auctionPrice": 18,
-      "totalPoints": 178.0,
-      "average": 14.833333333333334,
-      "bio": "Johnson was one of the league's best backs during his first two seasons, but struggles with injuries and efficiency led to a benching last season and was followed by an offseason trade to Houston. The 28-year-old is well-positioned for a rebound campaign with passing-down specialist Duke Johnson as his only competition for touches. The question is: Is he up for it? Johnson averaged an ugly 3.6 YPC and 1.4 YAC during the past three seasons. He remains an effective receiver but figures to focus primarily on rushing the ball with Duke Johnson in the picture. Johnson can't be counted on as an elite fantasy asset, but he has a path to enough volume to allow midrange RB2 production.",
-      "otherLeagueDraftValue": 11.6
-    },
-    {
-      "name": "J.D. McKissic",
-      "auctionPrice": 0,
-      "totalPoints": 178.0,
-      "average": 11.125,
-      "bio": "McKissic signed with Washington and has a shot to open the 2020 season as the team's primary passing-down back. He could have some value in the deepest of PPR leagues, but his ceiling is very low considering he won't carry the ball much and will lose a lot of targets to rookie Antonio Gibson. Peyton Barber and perhaps Bryce Love are also in the mix.",
-      "otherLeagueDraftValue": 3.23
-    },
-    {
-      "name": "Nyheim Hines",
-      "auctionPrice": 0,
-      "totalPoints": 177.0,
-      "average": 11.0625,
-      "bio": "Marlon Mack and Jonathan Taylor are the Colts' primary ball carriers, but it's Hines who has been handling passing situations. The 2018 fourth-round pick ranked eighth among backs in routes and seventh in targets with Andrew Luck in 2018 before falling to 27th and 16th, respectively, with Jacoby Brissett last season. Hines' receiving efficiency has been a problem (career 5.3 YPT and nine drops), and his 190-pound frame hasn't allowed him much volume or efficiency as a rusher (3.7 YPC on 137 career carries) or in the scoring department (six career TDs). Perhaps Philip Rivers will inject some life into Hines' fantasy stock, but the third-year back will need to significantly improve his game. He's worth only a late flier in PPR.",
-      "otherLeagueDraftValue": 0.99
-    },
-    {
-      "name": "Chris Carson",
-      "auctionPrice": 23,
-      "totalPoints": 174.0,
-      "average": 14.5,
-      "bio": "Carson put together another solid season as Seattle's lead back in 2019 and returns atop the depth chart for 2020. The 2017 seventh-round pick has missed a total of three games over the past two seasons but finished fifth in rushing yards during both campaigns. Carson has been of value near the goal line (18 touchdowns) and in terms of efficiency (2.26 YAC is fourth best) during that span. Seattle ramped up Carson's passing-game workload last season, which gives him a better shot at his third-consecutive top-15 fantasy campaign, but the 25-year-old will need to fend off Rashaad Penny and rookie DeeJay Dallas for snaps. Consider Carson a fine RB2 target.",
-      "otherLeagueDraftValue": 32.18
-    },
-    {
-      "name": "Clyde Edwards-Helaire",
-      "auctionPrice": 0,
-      "totalPoints": 174.0,
-      "average": 13.384615384615385,
-      "bio": "Edwards-Helaire is in running back paradise after Andy Reid and the Chiefs selected him with the 32nd pick of April's draft. The LSU product isn't particularly fast (4.60 40-yard dash) and is on the small side at 5-foot-7, 207 pounds, but he sports elite elusiveness and tackle-breaking ability. Edwards-Helaire also paced this year's rookie class in targets (65), receptions (55) and receiving yards (453) last season. He has three-down upside, though it's possible his frame could cost him goal-line touches.  Edwards-Helaire's short-term production got a big boost when potential counterpart Damien Williams opted out for the season, which positions the rookie as the clear feature back in the Chiefs' high-scoring, Patrick Mahomes-led offense. He's immediately in the RB1 mix.",
-      "otherLeagueDraftValue": 10.58
-    },
-    {
-      "name": "J.K. Dobbins",
-      "auctionPrice": 3,
-      "totalPoints": 172.0,
-      "average": 11.466666666666667,
-      "bio": "Baltimore grabbed its lead running back of the future by selecting Dobbins with a second-round pick in April's draft. Dobbins is an outstanding athlete with terrific speed, balance and playmaking ability. He sports a 5-foot-9, 209-pound frame and is a three-down option with the ability to contribute as an impact rusher and receiver. In his final season at Ohio State, Dobbins' 2,003 rushing yards and 21 touchdowns tied for tops in this year's rookie class. His 3.5 YAC was sixth. Landing in Baltimore's high-scoring offense sets up Dobbins with a massive long-term ceiling, but he's likely to be utilized as a change-of-pace back in the short term, with Mark Ingram, Gus Edwards and second-year Justice Hill also on the roster. Dobbins won't have much early-season fantasy value but will be a strong end-of-bench stash during the 2020 season.",
-      "otherLeagueDraftValue": 0.47
-    },
-    {
-      "name": "James Conner",
-      "auctionPrice": 25,
-      "totalPoints": 168.0,
-      "average": 12.923076923076923,
-      "bio": "Conner returns as the lead back in Pittsburgh, but durability has become a significant concern for a player who has missed at least two games in each of his three NFL seasons. Despite missing three games in 2018, Conner broke out with 1,462 yards and 13 TDs on 269 touches en route to finishing sixth among running backs in fantasy points. He sat ninth at the position through Week 8 last season, but injuries limited him to 54 snaps the rest of the season. A return to full health by Conner and Ben Roethlisberger very well could lead to a bounce-back campaign for the 25-year-old, though he'll need to fend off Benny Snell Jr., Jaylen Samuels and rookie Anthony McFarland Jr. for touches. Consider Conner a flex option.",
-      "otherLeagueDraftValue": 36.07
-    },
-    {
-      "name": "Myles Gaskin",
-      "auctionPrice": 0,
-      "totalPoints": 159.0,
-      "average": 15.9,
-      "bio": "",
-      "otherLeagueDraftValue": 22.3
-    },
-    {
-      "name": "Todd Gurley II",
-      "auctionPrice": 19,
-      "totalPoints": 156.0,
-      "average": 10.4,
-      "bio": "Gurley is now the lead back in Atlanta following five seasons with the Rams. The Georgia product was a top-three fantasy RB in both 2017 and 2018, but he handled a lesser workload and struggled badly with efficiency in 2019 while dealing with knee and ankle concerns. After averaging 4.89 YPC (2.11 YAC) on 256 carries and 7.4 yards per target on 78 targets in 14 games in 2018, Gurley's numbers plummeted to 3.84 YPC (1.81 YAC) on 223 carries and 4.2 YPT on 49 targets in 15 games last season. Gurley still managed a 14th-place finish in fantasy points (his fifth top-15 in as many tries), thanks to 14 touchdowns. Gurley's durability is a big concern, but he has little competition for touches in a good offense. He's a fine RB2 target.",
-      "otherLeagueDraftValue": 14.26
-    },
-    {
-      "name": "Austin Ekeler",
-      "auctionPrice": 50,
-      "totalPoints": 154.0,
-      "average": 15.4,
-      "bio": "Ekeler received a contract extension, and former running mate Melvin Gordon is now in Denver, which locks in the former as the Chargers' lead back in 2020. Ekeler took his game to a new level last season, especially as a receiver, ranking no lower than second among backs in targets, receptions, yards and touchdowns. Despite Gordon playing a substantial role in 12 games, Ekeler was fantasy's No. 4 scoring back. Ekeler's small frame will limit his carries and goal-line work (he's never cleared 132 carries or three rushing touchdowns in a season), and he's unlikely to repeat a 91-992-8 receiving line with Tyrod Taylor and Justin Herbert under center. Expect a step back for Ekeler, though his role can still allow borderline RB1 production in PPR.",
-      "otherLeagueDraftValue": 2.53
-    },
-    {
-      "name": "Chase Edmonds",
-      "auctionPrice": 0,
-      "totalPoints": 148.0,
-      "average": 9.25,
-      "bio": "Edmonds is expected to enter the 2020 season as Kenyan Drake's primary backup. The third-year back has operated as a reserve in 28 of 29 career games, but the one exception was an explosive Week 7 effort against the Giants last season in which he put up 150 yards and three scores on 29 touches. Edmonds went on to touch the ball nine times the rest of the season while dealing with injuries and the emergence of Drake. Edmonds' backup status is all but secured with David Johnson no longer in the mix (seventh-round pick Eno Benjamin is his chief competition), so though the 24-year-old has no stand-alone value, he's valuable insurance and thus worth a stash in deeper leagues.",
-      "otherLeagueDraftValue": 3.12
-    },
-    {
-      "name": "Jeff Wilson Jr.",
-      "auctionPrice": 0,
-      "totalPoints": 145.0,
-      "average": 12.083333333333334,
-      "bio": "",
-      "otherLeagueDraftValue": 0.02
-    },
-    {
-      "name": "Giovani Bernard",
-      "auctionPrice": 0,
-      "totalPoints": 143.0,
-      "average": 8.9375,
-      "bio": "Bernard is a change-of-pace and passing-down complement to Joe Mixon in Cincinnati. The 28-year-old has been a solid presence throughout his seven-year NFL career, but his fantasy contributions have declined significantly the past four seasons. A top-20 back in both targets and fantasy points in his first three seasons, Bernard ranked 32nd in targets in 2020 and has one top-40 fantasy season in the past four campaigns. Bernard would need a Mixon injury to approach fantasy relevance, and even then, he's likely to operate in a timeshare.",
-      "otherLeagueDraftValue": 0.33
-    },
-    {
-      "name": "Devin Singletary",
-      "auctionPrice": 6,
-      "totalPoints": 136.0,
-      "average": 8.5,
-      "bio": "An injury may have limited Singletary's early-season contributions during his rookie campaign, but the 2019 third-round pick quickly overtook Frank Gore upon his return. During Weeks 8-16, Singletary handled a generous 14.9 carries and 4.0 targets per game. He was held to three touchdowns but was ninth among RBs in scrimmage yards, while playing 74% of the snaps during that span. Though he struggled after contact, Singletary's 5.1 YPC was sixth best among backs. Singletary is expected to work as the lead back again this season, but his 5-foot-7, 203-pound frame will limit his volume. Expect rookie Zack Moss to be heavily involved, along with Josh Allen, at the goal line. Singletary may struggle to clear a half-dozen touchdowns but will get enough work to flirt with top-20 production.",
-      "otherLeagueDraftValue": 2.27
-    },
-    {
-      "name": "Wayne Gallman",
-      "auctionPrice": 0,
-      "totalPoints": 130.0,
-      "average": 8.666666666666666,
-      "bio": "",
-      "otherLeagueDraftValue": 0.16
-    },
-    {
-      "name": "Leonard Fournette",
-      "auctionPrice": 33,
-      "totalPoints": 128.0,
-      "average": 9.846153846153847,
-      "bio": "Fournette signed with Tampa Bay after being cut by the Jaguars. At least from a fantasy perspective, Fournette finally lived up to his first-round pedigree during a breakout 2019 season and emerged as one of the league's rare workhorse running backs. During 15 active weeks, Fournette played 88% of the snaps, handling 87% of the carries and 19% of the targets. Fournette finished no lower than seventh among backs in carries, targets, receptions, touches, yards and fantasy points. Fournette's season would've been even more impressive had it not been for some atrocious touchdown luck. Despite a healthy 9.3 OTD (10th highest), Fournette scored three touchdowns. He may lead Tampa Bay in touches this season, but he won't be a workhorse with Ronald Jones and LeSean McCoy (among others) in the mix. Consider him a borderline flex option.",
-      "otherLeagueDraftValue": 1.48
-    },
-    {
-      "name": "Latavius Murray",
-      "auctionPrice": 0,
-      "totalPoints": 126.0,
-      "average": 8.4,
-      "bio": "Murray is now 30 years old, but he remains in a good spot as Alvin Kamara's backup in a high-scoring Saints' offense. In his first season in New Orleans, Murray was held to 98 touches and the 49th-most fantasy points among backs during the 14 weeks Kamara was also active. However, with Kamara sidelined during Weeks 7 and 8, Murray stepped in and racked up 307 yards and four touchdowns on 60 touches. He was fantasy's top-scoring RB in that span. Murray lacks stand-alone value but is obviously an elite insurance option.",
-      "otherLeagueDraftValue": 1.11
-    },
-    {
-      "name": "Gus Edwards",
-      "auctionPrice": 0,
-      "totalPoints": 125.0,
-      "average": 7.8125,
-      "bio": "Edwards was the second man up for carries behind Mark Ingram last season, but he could fall to third this season with second-round pick J.K. Dobbins in the mix. The backup gig was generous to Edwards in 2019, as it allowed him 133 carries in the league's highest-scoring offense. Edwards is a nonfactor in the passing game (he has 270 carries and 10 targets in two seasons), but his rushing efficiency has been nothing short of elite. In fact, Edwards' career 5.3 YPC is best among 40 backs with 200-plus carries since he entered the league as an undrafted free agent in 2018. Edwards can no longer be considered Ingram's clear backup, and even if Ingram misses time, Edwards would work in a timeshare with Dobbins and perhaps Justice Hill. Edwards is worth a pick only in deep non-PPR leagues.",
-      "otherLeagueDraftValue": 0.05
-    },
-    {
-      "name": "Darrell Henderson Jr.",
-      "auctionPrice": 0,
-      "totalPoints": 123.0,
-      "average": 8.2,
-      "bio": "Henderson will get a shot at earning lead-back duties in the Rams' backfield this season following the release of Todd Gurley. Henderson was initially expected to play a significant change-of-pace role behind Gurley last season but instead was limited to 39 carries and six targets on 89 snaps. The Rams selected Henderson in the third round of the 2019 draft after he averaged 8.9 YPC (seriously!) on 344 carries during his final two seasons at Memphis. Henderson has tremendous upside as a rusher, and his passing-down chops make him a candidate for weekly PPR value, but he'll be hard-pressed to separate himself from rookie Cam Akers (and perhaps Malcolm Brown) as the team's clear feature back. Nonetheless, Henderson is a second-year breakout candidate and borderline flex option.",
-      "otherLeagueDraftValue": 3.58
-    },
-    {
-      "name": "Jerick McKinnon",
-      "auctionPrice": 0,
-      "totalPoints": 117.0,
-      "average": 7.3125,
-      "bio": "McKinnon signed a pricy contract with San Francisco prior to the 2018 season but has yet to play a snap for the team due to injury. Following a contract restructure, McKinnon will attempt another comeback in 2020. Even prior to the injury struggles, the 5-foot-9, 212-pound McKinnon had never exceeded 159 carries in a season and averaged 3.59 YPC (worst among backs), including 1.50 after contact (second worst) on 309 carries during the 2016 and 2017 seasons. McKinnon's receiving volume has been terrific, but his efficiency has been weak (5.2 YPT). The 49ers' run-heavy offense is attractive, but McKinnon's lengthy absence and the presences of Raheem Mostert and Tevin Coleman make fantasy relevance a long shot.",
-      "otherLeagueDraftValue": 1.89
-    },
-    {
-      "name": "Jamaal Williams",
-      "auctionPrice": 0,
-      "totalPoints": 117.0,
-      "average": 8.357142857142858,
-      "bio": "Williams returns as a backup rusher and passing-down contributor in Green Bay, though he'll face more competition for work this season, with second-round pick AJ Dillon in the fold. In 13 full games last season, Williams was well behind Aaron Jones in carries (179 to 107) but was basically even in targets (46 to 45). Jones was a top-five fantasy RB in those 13 weeks, though it might surprise you to know that Williams was 24th. There are plenty of fantasy points to be had in the Packers' backfield, but Williams, who has yet to post a top-30 fantasy campaign, might not even be the team's lead back if Jones gets injured. He's barely worthy of a draft pick in most formats.",
-      "otherLeagueDraftValue": 1.03
-    },
-    {
-      "name": "Adrian Peterson",
-      "auctionPrice": 0,
-      "totalPoints": 114.0,
-      "average": 7.125,
-      "bio": "Peterson was released by Washington just prior to Week 1. Peterson ranked 17th among running backs with 898 rushing yards last season but didn't score much (five TDs) and was a nonfactor as a receiver (23 targets). Peterson is still an effective rusher at age 35, but the reigning No. 33 scoring fantasy back had zero top-10 fantasy weeks in 2019 and is a strong bet for a significant decrease in touches in 2020 regardless of landing spot. ",
-      "otherLeagueDraftValue": 1.01
-    },
-    {
-      "name": "Tony Pollard",
-      "auctionPrice": 0,
-      "totalPoints": 110.0,
-      "average": 6.875,
-      "bio": "Pollard remains Ezekiel Elliott's primary backup as he enters his second NFL season. The 2019 fourth-round pick generated some hype last offseason during Elliott's holdout but ended up touching the ball only 101 times during his rookie campaign. Pollard showed well ' he averaged 5.3 YPC, and his 2.7 YAC was tops in the league ' but didn't see the field much, with Elliott appearing in all 16 games. Pollard is unlikely to produce stand-alone value, but he has the size and skill set to take on a substantial chunk of Elliott's workload, should Elliott miss time. Stash Pollard on your bench.",
-      "otherLeagueDraftValue": 0.07
-    },
-    {
-      "name": "James White",
-      "auctionPrice": 0,
-      "totalPoints": 107.0,
-      "average": 7.642857142857143,
-      "bio": "White has finished as a top-20 fantasy RB each of the past two seasons, but he's a bit of a wild card now that old reliable Tom Brady is out of the picture. We can't bank on carries from White (he has never cleared 94 in a single season), but he has ranked no lower than sixth among backs in targets, catches, receiving yards and touchdown receptions each of the past two seasons. White is a strong bet to remain New England's primary passing-down back, but we can't assume Cam Newton or Jarrett Stidham will target him as often, and the safe bet would be to expect less scoring and a more run-heavy approach from the Patriots' offense. White still has PPR value, but he's more of a fringe flex with a limited ceiling.",
-      "otherLeagueDraftValue": 4.63
-    },
-    {
-      "name": "Damien Harris",
-      "auctionPrice": 0,
-      "totalPoints": 102.0,
-      "average": 10.2,
-      "bio": "Harris enters his second NFL season as part of a crowded New England backfield that includes Sony Michel, James White, Rex Burkhead and Brandon Bolden. A third-round pick last offseason, Harris was limited to five snaps during his rookie campaign. He lacks top-end speed (4.57 40-yard dash) but has decent size (5-foot-10, 216 pounds) and is a powerful, downhill runner with exceptional ball security (zero fumbles in 2018). He's also a good pass-catcher and blocker, which supplies him with three-down upside in the pros. Harris is buried in New England, but one injury could vault him into a big role. He's an end-of-bench stash at best.",
-      "otherLeagueDraftValue": 1.23
-    },
-    {
-      "name": "Cam Akers",
-      "auctionPrice": 0,
-      "totalPoints": 100.0,
-      "average": 7.6923076923076925,
-      "bio": "The Rams selected Akers with the 52nd pick of April's draft. The tough and elusive Akers measures in at 5-foot-10, 217 pounds with solid speed (4.47 40-yard dash) and good strength (20 bench reps). Despite lacking some big-play ability and having to do most of his damage after contact last season (5.0 YPC, 1.7 YBC), Akers posted one of the best YAC/forced missed tackle profiles in this year's rookie class. The Florida State product will open his career in a wide-open competition with second-year back Darrell Henderson and Malcolm Brown to replace Todd Gurley. He might not do much as a receiver, but if Akers is able to claim a majority of the carries and goal-line work, he could quickly join the RB2 discussion. Grab him in the middle rounds.",
-      "otherLeagueDraftValue": 0.04
-    },
-    {
-      "name": "Raheem Mostert",
-      "auctionPrice": 0,
-      "totalPoints": 100.0,
-      "average": 12.5,
-      "bio": "It's not often you see a running back break out in his fifth NFL campaign, but Mostert did exactly that down the stretch last season. Primarily a special-teams player throughout his career, Mostert put up 859 yards and scored 13 touchdowns on 133 touches during the 49ers' final nine games of 2019 (including the playoffs). An extremely efficient runner, Mostert is averaging 6.0 YPC on 178 regular-season carries for his career, which is easily best among 188 RBs with 150-plus carries. The concerns here are that Mostert plays a minimal pass-catching role (22 targets last season) and Kyle Shanahan is very unpredictable with his backfield rotation. As such, Mostert is best viewed as a flex with RB2 upside.",
-      "otherLeagueDraftValue": 1.12
-    },
-    {
-      "name": "Joe Mixon",
-      "auctionPrice": 28,
-      "totalPoints": 99.0,
-      "average": 16.5,
-      "bio": "Mixon enters his fourth NFL season as the clear feature back in Cincinnati. The role has allowed Mixon a top-seven finish in touches, top-11 finish in yards and eight-plus touchdowns each of the past two seasons. Despite the heavy usage, a limited role as a pass-catcher has left Mixon with fantasy finishes of 10th and 13th during that span. Mixon is one of the game's better talents at the position, but the Cincinnati offensive line remains a work in progress and his target share is unlikely to see a significant boost with A.J. Green back, Tee Higgins drafted and Giovani Bernard still in the fold. Consider Mixon a borderline top-10 RB.",
-      "otherLeagueDraftValue": 33.93
-    },
-    {
-      "name": "Malcolm Brown",
-      "auctionPrice": 0,
-      "totalPoints": 99.0,
-      "average": 6.1875,
-      "bio": "With Todd Gurley out of the picture in Los Angeles, Brown will compete with second-year Darrell Henderson and rookie Cam Akers for touches in the Rams' backfield. Brown is entering his sixth NFL season having yet to eclipse 69 carries or 11 targets in a campaign. Brown could factor in on early downs and near the goal line (he's 224 pounds and scored five touchdowns last season) but is a long shot for anything more than situational duties and is unlikely to factor in as a receiver. Consider him for your bench in deep leagues.",
-      "otherLeagueDraftValue": 0.34
-    },
-    {
-      "name": "Rex Burkhead",
-      "auctionPrice": 0,
-      "totalPoints": 96.0,
-      "average": 9.6,
-      "bio": "Burkhead returns to a crowded backfield in New England that includes Sony Michel, James White, Damien Harris and Brandon Bolden. Burkhead is entering his age-30 season having never cleared 74 carries or 38 targets in a season. His best fantasy finish was 39th in 2017. Burkhead would need multiple injuries to emerge as a reliable weekly fantasy starter, and even then, he might not be overly appealing with Tom Brady no longer under center. Burkhead is worth a look only in the deepest of leagues.",
-      "otherLeagueDraftValue": 0.35
-    },
-    {
-      "name": "Zack Moss",
-      "auctionPrice": 0,
-      "totalPoints": 92.0,
-      "average": 7.076923076923077,
-      "bio": "The Bills selected Moss with a third-round pick in April's draft. Moss is an elite prospect in two key areas: YAC (second-best in this year's rookie class in 2019) and forced missed tackles (second). The Utah product has terrific size (5-foot-9, 223 pounds) and the balance, toughness, quickness and receiving ability to emerge as one of the game's top backs, though speed is a major concern following his 4.65 40-yard dash at the combine. Moss joins Devin Singletary in the Bills' backfield. The two figure to limit each other's fantasy output, though the rookie has 20 pounds on his new teammate, which could vault him into a significant role on early downs and at the goal line. Moss could flirt with the flex radar and is a fine mid-round target.",
-      "otherLeagueDraftValue": 0.25
-    },
-    {
-      "name": "Frank Gore",
-      "auctionPrice": 0,
-      "totalPoints": 92.0,
-      "average": 6.133333333333334,
-      "bio": "",
-      "otherLeagueDraftValue": 0.24
-    }
-  ]
-}
+[
+  {
+    "name": "Derrick Henry",
+    "position": "RB",
+    "auctionPrice": 45,
+    "totalPoints": 388.0,
+    "average": 24.25,
+    "bio": "Henry returns as the feature back in Tennessee after pacing the NFL in carries (303), rushing yards (1,540) and rushing touchdowns (16) in 2019. Henry has been an absolute force as a rusher, ranking no lower than third in YAC each of the past three seasons. His heavy recent workload is a concern, but the good news is that he's 25 years old and had not cleared 215 carries in a season prior to 2019. Henry's minimal workload as a receiver (career-high 18 receptions last season) will continue to limit his fantasy output, so coupled with a probable dip in rushing production, he should be valued as a back-end RB1.",
+    "otherLeagueDraftValue": 57.32
+  },
+  {
+    "name": "Dalvin Cook",
+    "position": "RB",
+    "auctionPrice": 48,
+    "totalPoints": 378.0,
+    "average": 27.0,
+    "bio": "Cook's career has thus far been marred by injuries, but we saw a glimpse of his ceiling during a breakout 2019 campaign. Through Week 14, Cook led the league in rushing touchdowns and trailed only Christian McCaffrey in fantasy points. Cook missed two games and chunks of others but still finished no lower than ninth among backs in carries, receptions, touches, scrimmage yards and touchdowns. Cook's 15 carries inside the 5 were third most in the league, and he scored at least one touchdown in 11 of 14 games. Cook has now missed 19 games because of injury in three seasons, but there's no doubt the 24-year-old is positioned well as run-heavy Minnesota's primary back. He's a strong RB1 despite the durability concerns.",
+    "otherLeagueDraftValue": 58.46
+  },
+  {
+    "name": "Alvin Kamara",
+    "position": "RB",
+    "auctionPrice": 51,
+    "totalPoints": 373.0,
+    "average": 24.866666666666667,
+    "bio": "Kamara is coming off an up-and-down 2019 campaign, but the 24-year-old remains the main man in the New Orleans' backfield. Kamara missed a pair of games but otherwise played a similar role to 2018, handling 12.2 carries and 7.0 targets per game. Kamara ended the season with a YPC above 4.5 and exactly 81 catches for the third consecutive season. A lack of usage near the goal line (7.1 OTD, 6 TDs) limited his fantasy production, though he did finish strongly with four of those scores coming during Weeks 16-17. Kamara should have little trouble pushing for 20 touches per game in the Saints' Drew Brees-led, high-scoring offense. He remains a solid RB1.",
+    "otherLeagueDraftValue": 60.83
+  },
+  {
+    "name": "David Montgomery",
+    "position": "RB",
+    "auctionPrice": 6,
+    "totalPoints": 268.0,
+    "average": 17.866666666666667,
+    "bio": "Montgomery's rookie season didn't go as planned, but the 2019 third-round pick remains atop the Chicago depth chart. The Iowa State product wasn't short on volume in his first season, ranking 12th among backs in touches and sixth in carries inside the 5 (14). The problem was a combination of poor rushing efficiency (3.7 YPC, 1.6 YAC) and a lack of volume and effectiveness as a pass-catcher (185 yards on 37 targets). The end result was two top-15 fantasy weeks and a 24th-place finish by season's end. Montgomery will continue to defer passing-down work to Tarik Cohen but is certainly a breakout candidate in his second season. Montgomery is a flex option with RB2 upside.",
+    "otherLeagueDraftValue": 22.79
+  },
+  {
+    "name": "Aaron Jones",
+    "position": "RB",
+    "auctionPrice": 32,
+    "totalPoints": 266.0,
+    "average": 19.0,
+    "bio": "It's fair to say Jones was finally 'freed' in 2019. Green Bay's lead back set career-high marks in nearly every category, exploding for 1,558 yards (seventh most among RBs) and a league-high 19 touchdowns from scrimmage. Jones posted more duds than you'd expect from a top fantasy back (five weekly finishes outside the top 30), but still managed the second-most points at the position. Jones is a near lock for major touchdown regression this season, as his 19 TDs were nearly double his 10.8 OTD. Still, his strong efficiency and role as lead back in the Packers' offense is enough to allow the 25-year-old Jones solid RB1 numbers.",
+    "otherLeagueDraftValue": 51.85
+  },
+  {
+    "name": "Jonathan Taylor",
+    "position": "RB",
+    "auctionPrice": 19,
+    "totalPoints": 263.0,
+    "average": 17.533333333333335,
+    "bio": "The Colts surprisingly nabbed Taylor with the 41st pick of April's draft. An outstanding prospect purely from a rushing standpoint, the Wisconsin product paced this year's rookie class in carries, rushing yards and rushing touchdowns and ranked fourth with a 3.7 YAC in 2019. Taylor also crushed it at February's combine, running a position-best 4.39 40 and a solid 7.01 three cone despite a hefty 5-foot-10, 226-pound frame. The main concerns here are fumbles (18) and pass-catching ability (nine drops on 68 targets). Taylor has RB1 upside down the road, but his short-term fantasy value will suffer with incumbent early-down back Marlon Mack and passing-down specialist Nyheim Hines in the fold. Taylor is worth grabbing in the middle rounds, but it might take some time before he's a reliable fantasy starter.",
+    "otherLeagueDraftValue": 9.77
+  },
+  {
+    "name": "James Robinson",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 254.0,
+    "average": 18.142857142857142,
+    "bio": "",
+    "otherLeagueDraftValue": 24.71
+  },
+  {
+    "name": "Nick Chubb",
+    "position": "RB",
+    "auctionPrice": 58,
+    "totalPoints": 231.0,
+    "average": 19.25,
+    "bio": "Chubb has emerged as one of the league's most-effective rushers since being selected in the second round of the 2018 draft. He ranks first in YPC (5.1) and second in YAC (2.3) among 25 backs with at least 300 carries during that span. Chubb was fantasy's No. 8 scoring back in 2019, thanks to the fourth-most touches and second-most total yardage at the position. However, we can't ignore that Chubb's usage and fantasy production dipped once Kareem Hunt returned from suspension (RB6 before, RB15 after). Hunt will be in the mix from the get-go in 2020, which will certainly limit Chubb's output. Consider Chubb a borderline top-10 RB with more value in non-PPR leagues.",
+    "otherLeagueDraftValue": 5.3
+  },
+  {
+    "name": "Josh Jacobs",
+    "position": "RB",
+    "auctionPrice": 35,
+    "totalPoints": 227.0,
+    "average": 15.133333333333333,
+    "bio": "Jacobs returns as the feature back for the Raiders following an extremely impressive rookie campaign. The 2019 first-round pick averaged a healthy 4.75 YPC on 242 attempts and ranked fourth among backs with a 2.25 YAC. Jacobs flashed with four top-10 fantasy weeks but missed three games because of injury, and his output was capped by a limited role as a receiver (27 targets). Coach Jon Gruden has consistently expressed a desire to target Jacobs more often, which adds some optimism that Jacobs can become a workhorse back. Of course, until that actually happens, the 22-year-old is best valued as a fringe top-12 fantasy back.",
+    "otherLeagueDraftValue": 44.18
+  },
+  {
+    "name": "Ezekiel Elliott",
+    "position": "RB",
+    "auctionPrice": 70,
+    "totalPoints": 224.0,
+    "average": 14.933333333333334,
+    "bio": "Elliott returns as the clear feature back in Dallas. Since entering the league in 2016, the Ohio State product leads the NFL in carries (1,169) and rushing yards (5,405), and sits second in rushing touchdowns (40). Elliott obviously plays a substantial role as a ball carrier -- and his goal-line work increased last season -- but it was a bit surprising to see his targets fall from 6.3 to 4.4 per game last season. Of course, Elliott's role still allowed him a top-3 finish in touches, yards and fantasy points. The 25-year-old is positioned for a similar role in 2020 behind a strong offensive line and should be off the board in the middle of the first round of drafts.",
+    "otherLeagueDraftValue": 47.2
+  },
+  {
+    "name": "Kareem Hunt",
+    "position": "RB",
+    "auctionPrice": 2,
+    "totalPoints": 206.0,
+    "average": 12.875,
+    "bio": "Hunt returns to Cleveland, where he'll operate as a change-of-pace rusher and primary receiving back behind Nick Chubb. Hunt was, of course, one of fantasy's top backs prior to off-field issues leading to roughly one year out of the league. He returned in Week 10 last season and played a substantial role from that point on. Hunt was on the field for 60% of the snaps, handling 5.4 carries and 5.5 targets per game. Hunt was fantasy's No. 17 RB during the stretch and trailed Chubb by only three fantasy points during that span. Chubb will continue to handle most of the carries and goal-line work, but Hunt's role allows him standalone value, not to mention that he's arguably the most valuable insurance policy in fantasy.",
+    "otherLeagueDraftValue": 18.82
+  },
+  {
+    "name": "Antonio Gibson",
+    "position": "RB",
+    "auctionPrice": 3,
+    "totalPoints": 204.0,
+    "average": 14.571428571428571,
+    "bio": "Washington selected Gibson with the 66th pick of April's draft. Gibson appeared to be entering the league as more of an 'offensive weapon' than a wide receiver or running back, but he has settled in as the team's lead back, even drawing comparisons to Christian McCaffrey by head coach Ron Rivera. The Memphis product is big (6-foot, 228 pounds) and a terrific athlete with excellent power, speed (4.39 40-yard dash) and elusiveness. He's a terror with the ball in his hands, having averaged 8.4 yards per carry and 13.1 yards per target (11.9 RAC) in 2019. Experience is a concern here (33 carries and 66 targets in two FBS seasons), but it appears he's done enough to play a huge role as a rookie. Consider Gibson a flex option with upside.",
+    "otherLeagueDraftValue": 19.99
+  },
+  {
+    "name": "Melvin Gordon III",
+    "position": "RB",
+    "auctionPrice": 19,
+    "totalPoints": 201.0,
+    "average": 13.4,
+    "bio": "Gordon signed on as the Broncos' new lead back, following five seasons with the Chargers. Gordon is fresh off a season when he held out for a month before posting 162-612-8 rushing and 42-296-1 receiving lines. That was enough for the 12th-most fantasy points during that span. Gordon entered 2019 having finished the previous three seasons no lower than ninth in scrimmage yards, sixth in touchdowns and eighth in fantasy points among backs. In Denver's run-heavy offense, Gordon figures to share a chunk of the carries with Phillip Lindsay, but his bigger frame should garner him more goal-line work, and he's also the superior receiver. Gordon is a mid-to-back end RB2.",
+    "otherLeagueDraftValue": 5.21
+  },
+  {
+    "name": "Ronald Jones II",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 198.0,
+    "average": 14.142857142857142,
+    "bio": "Following what was a disastrous rookie season in 2018, Jones added weight and got his career back on track with an impressive showing in 2019. After totaling 77 yards on 30 touches in 2018, Jones produced 1,003 yards and six touchdowns on 203 touches last season. Despite his second-round pedigree and superior play relative to his counterparts in the Tampa Bay backfield, Jones was limited to only 37% of the snaps and 47% of the designed runs. It's very possible we've yet to see the best of Jones, as he was drafted very young and is entering his age-23 season. However, following the offseason additions of Leonard Fournette, LeSean McCoy and Ke'Shawn Vaughn, Jones is not an appealing flex options. He should be on benches unless he earns clear lead duties.",
+    "otherLeagueDraftValue": 17.96
+  },
+  {
+    "name": "Mike Davis",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 195.0,
+    "average": 13.0,
+    "bio": "",
+    "otherLeagueDraftValue": 0.2
+  },
+  {
+    "name": "Kenyan Drake",
+    "position": "RB",
+    "auctionPrice": 22,
+    "totalPoints": 193.0,
+    "average": 12.866666666666667,
+    "bio": "Drake received the transition tag from the Cardinals during the offseason and will return as the team's clear feature back. Traded from Miami to Arizona at the 2019 trade deadline, Drake went on to play 381 (79%) of 483 possible snaps during his eight games with the team. He handled 66% of the team's carries (15.4 per game) and 14% of the targets (4.4) during that span. That heavy usage allowed him the fourth-most fantasy points among RBs during that span. Arizona's offense should only improve in Kliff Kingsbury and Kyler Murray's second season, so Drake, who sports an impressive 4.8 career YPC, is very much in the RB1 discussion.",
+    "otherLeagueDraftValue": 8.55
+  },
+  {
+    "name": "D'Andre Swift",
+    "position": "RB",
+    "auctionPrice": 6,
+    "totalPoints": 184.0,
+    "average": 14.153846153846153,
+    "bio": "The Lions selected Swift with the 35th pick of April's draft. Swift was terrific in Georgia's pro-style offense, producing as both a rusher (440 carries) and receiver (73 receptions) during his three seasons. His efficiency was more solid than spectacular, and he lacks some explosiveness, but he makes up for it with reliability, decent speed (4.48 40-yard dash), quickness and pass-catching prowess. Swift has three-down upside but will begin his career competing for reps with Kerryon Johnson, who figures to focus primarily on ball-carrying, with Swift busier in passing situations. That's likely to limit Swift's fantasy output, but he certainly could flirt with RB2 numbers and is worth a midround pick.",
+    "otherLeagueDraftValue": 9.01
+  },
+  {
+    "name": "Miles Sanders",
+    "position": "RB",
+    "auctionPrice": 23,
+    "totalPoints": 179.0,
+    "average": 14.916666666666666,
+    "bio": "It took a while for him to get rolling, but Sanders certainly took command of lead-back duties in Philadelphia during the second half of his rookie season. Sanders put down a solid 179-818-3 rushing line, but where he truly stood out was as a receiver. Sanders' 50-509-3 line was fueled by 8.2 yards per target, which was second best at the position. Sanders didn't play more than 53% of the snaps in a game until Week 11, but he finished 15th among backs in fantasy points. The 23-year-old is primed for a larger share of the workload behind the Eagles' elite offensive line in 2020. Consider him a strong RB2 with upside for more.",
+    "otherLeagueDraftValue": 21.64
+  },
+  {
+    "name": "David Johnson",
+    "position": "RB",
+    "auctionPrice": 18,
+    "totalPoints": 178.0,
+    "average": 14.833333333333334,
+    "bio": "Johnson was one of the league's best backs during his first two seasons, but struggles with injuries and efficiency led to a benching last season and was followed by an offseason trade to Houston. The 28-year-old is well-positioned for a rebound campaign with passing-down specialist Duke Johnson as his only competition for touches. The question is: Is he up for it? Johnson averaged an ugly 3.6 YPC and 1.4 YAC during the past three seasons. He remains an effective receiver but figures to focus primarily on rushing the ball with Duke Johnson in the picture. Johnson can't be counted on as an elite fantasy asset, but he has a path to enough volume to allow midrange RB2 production.",
+    "otherLeagueDraftValue": 11.6
+  },
+  {
+    "name": "J.D. McKissic",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 178.0,
+    "average": 11.125,
+    "bio": "McKissic signed with Washington and has a shot to open the 2020 season as the team's primary passing-down back. He could have some value in the deepest of PPR leagues, but his ceiling is very low considering he won't carry the ball much and will lose a lot of targets to rookie Antonio Gibson. Peyton Barber and perhaps Bryce Love are also in the mix.",
+    "otherLeagueDraftValue": 3.23
+  },
+  {
+    "name": "Nyheim Hines",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 177.0,
+    "average": 11.0625,
+    "bio": "Marlon Mack and Jonathan Taylor are the Colts' primary ball carriers, but it's Hines who has been handling passing situations. The 2018 fourth-round pick ranked eighth among backs in routes and seventh in targets with Andrew Luck in 2018 before falling to 27th and 16th, respectively, with Jacoby Brissett last season. Hines' receiving efficiency has been a problem (career 5.3 YPT and nine drops), and his 190-pound frame hasn't allowed him much volume or efficiency as a rusher (3.7 YPC on 137 career carries) or in the scoring department (six career TDs). Perhaps Philip Rivers will inject some life into Hines' fantasy stock, but the third-year back will need to significantly improve his game. He's worth only a late flier in PPR.",
+    "otherLeagueDraftValue": 0.99
+  },
+  {
+    "name": "Chris Carson",
+    "position": "RB",
+    "auctionPrice": 23,
+    "totalPoints": 174.0,
+    "average": 14.5,
+    "bio": "Carson put together another solid season as Seattle's lead back in 2019 and returns atop the depth chart for 2020. The 2017 seventh-round pick has missed a total of three games over the past two seasons but finished fifth in rushing yards during both campaigns. Carson has been of value near the goal line (18 touchdowns) and in terms of efficiency (2.26 YAC is fourth best) during that span. Seattle ramped up Carson's passing-game workload last season, which gives him a better shot at his third-consecutive top-15 fantasy campaign, but the 25-year-old will need to fend off Rashaad Penny and rookie DeeJay Dallas for snaps. Consider Carson a fine RB2 target.",
+    "otherLeagueDraftValue": 32.18
+  },
+  {
+    "name": "Clyde Edwards-Helaire",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 174.0,
+    "average": 13.384615384615385,
+    "bio": "Edwards-Helaire is in running back paradise after Andy Reid and the Chiefs selected him with the 32nd pick of April's draft. The LSU product isn't particularly fast (4.60 40-yard dash) and is on the small side at 5-foot-7, 207 pounds, but he sports elite elusiveness and tackle-breaking ability. Edwards-Helaire also paced this year's rookie class in targets (65), receptions (55) and receiving yards (453) last season. He has three-down upside, though it's possible his frame could cost him goal-line touches.  Edwards-Helaire's short-term production got a big boost when potential counterpart Damien Williams opted out for the season, which positions the rookie as the clear feature back in the Chiefs' high-scoring, Patrick Mahomes-led offense. He's immediately in the RB1 mix.",
+    "otherLeagueDraftValue": 10.58
+  },
+  {
+    "name": "J.K. Dobbins",
+    "position": "RB",
+    "auctionPrice": 3,
+    "totalPoints": 172.0,
+    "average": 11.466666666666667,
+    "bio": "Baltimore grabbed its lead running back of the future by selecting Dobbins with a second-round pick in April's draft. Dobbins is an outstanding athlete with terrific speed, balance and playmaking ability. He sports a 5-foot-9, 209-pound frame and is a three-down option with the ability to contribute as an impact rusher and receiver. In his final season at Ohio State, Dobbins' 2,003 rushing yards and 21 touchdowns tied for tops in this year's rookie class. His 3.5 YAC was sixth. Landing in Baltimore's high-scoring offense sets up Dobbins with a massive long-term ceiling, but he's likely to be utilized as a change-of-pace back in the short term, with Mark Ingram, Gus Edwards and second-year Justice Hill also on the roster. Dobbins won't have much early-season fantasy value but will be a strong end-of-bench stash during the 2020 season.",
+    "otherLeagueDraftValue": 0.47
+  },
+  {
+    "name": "James Conner",
+    "position": "RB",
+    "auctionPrice": 25,
+    "totalPoints": 168.0,
+    "average": 12.923076923076923,
+    "bio": "Conner returns as the lead back in Pittsburgh, but durability has become a significant concern for a player who has missed at least two games in each of his three NFL seasons. Despite missing three games in 2018, Conner broke out with 1,462 yards and 13 TDs on 269 touches en route to finishing sixth among running backs in fantasy points. He sat ninth at the position through Week 8 last season, but injuries limited him to 54 snaps the rest of the season. A return to full health by Conner and Ben Roethlisberger very well could lead to a bounce-back campaign for the 25-year-old, though he'll need to fend off Benny Snell Jr., Jaylen Samuels and rookie Anthony McFarland Jr. for touches. Consider Conner a flex option.",
+    "otherLeagueDraftValue": 36.07
+  },
+  {
+    "name": "Myles Gaskin",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 159.0,
+    "average": 15.9,
+    "bio": "",
+    "otherLeagueDraftValue": 22.3
+  },
+  {
+    "name": "Todd Gurley II",
+    "position": "RB",
+    "auctionPrice": 19,
+    "totalPoints": 156.0,
+    "average": 10.4,
+    "bio": "Gurley is now the lead back in Atlanta following five seasons with the Rams. The Georgia product was a top-three fantasy RB in both 2017 and 2018, but he handled a lesser workload and struggled badly with efficiency in 2019 while dealing with knee and ankle concerns. After averaging 4.89 YPC (2.11 YAC) on 256 carries and 7.4 yards per target on 78 targets in 14 games in 2018, Gurley's numbers plummeted to 3.84 YPC (1.81 YAC) on 223 carries and 4.2 YPT on 49 targets in 15 games last season. Gurley still managed a 14th-place finish in fantasy points (his fifth top-15 in as many tries), thanks to 14 touchdowns. Gurley's durability is a big concern, but he has little competition for touches in a good offense. He's a fine RB2 target.",
+    "otherLeagueDraftValue": 14.26
+  },
+  {
+    "name": "Austin Ekeler",
+    "position": "RB",
+    "auctionPrice": 50,
+    "totalPoints": 154.0,
+    "average": 15.4,
+    "bio": "Ekeler received a contract extension, and former running mate Melvin Gordon is now in Denver, which locks in the former as the Chargers' lead back in 2020. Ekeler took his game to a new level last season, especially as a receiver, ranking no lower than second among backs in targets, receptions, yards and touchdowns. Despite Gordon playing a substantial role in 12 games, Ekeler was fantasy's No. 4 scoring back. Ekeler's small frame will limit his carries and goal-line work (he's never cleared 132 carries or three rushing touchdowns in a season), and he's unlikely to repeat a 91-992-8 receiving line with Tyrod Taylor and Justin Herbert under center. Expect a step back for Ekeler, though his role can still allow borderline RB1 production in PPR.",
+    "otherLeagueDraftValue": 2.53
+  },
+  {
+    "name": "Chase Edmonds",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 148.0,
+    "average": 9.25,
+    "bio": "Edmonds is expected to enter the 2020 season as Kenyan Drake's primary backup. The third-year back has operated as a reserve in 28 of 29 career games, but the one exception was an explosive Week 7 effort against the Giants last season in which he put up 150 yards and three scores on 29 touches. Edmonds went on to touch the ball nine times the rest of the season while dealing with injuries and the emergence of Drake. Edmonds' backup status is all but secured with David Johnson no longer in the mix (seventh-round pick Eno Benjamin is his chief competition), so though the 24-year-old has no stand-alone value, he's valuable insurance and thus worth a stash in deeper leagues.",
+    "otherLeagueDraftValue": 3.12
+  },
+  {
+    "name": "Jeff Wilson Jr.",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 145.0,
+    "average": 12.083333333333334,
+    "bio": "",
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Giovani Bernard",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 143.0,
+    "average": 8.9375,
+    "bio": "Bernard is a change-of-pace and passing-down complement to Joe Mixon in Cincinnati. The 28-year-old has been a solid presence throughout his seven-year NFL career, but his fantasy contributions have declined significantly the past four seasons. A top-20 back in both targets and fantasy points in his first three seasons, Bernard ranked 32nd in targets in 2020 and has one top-40 fantasy season in the past four campaigns. Bernard would need a Mixon injury to approach fantasy relevance, and even then, he's likely to operate in a timeshare.",
+    "otherLeagueDraftValue": 0.33
+  },
+  {
+    "name": "Devin Singletary",
+    "position": "RB",
+    "auctionPrice": 6,
+    "totalPoints": 136.0,
+    "average": 8.5,
+    "bio": "An injury may have limited Singletary's early-season contributions during his rookie campaign, but the 2019 third-round pick quickly overtook Frank Gore upon his return. During Weeks 8-16, Singletary handled a generous 14.9 carries and 4.0 targets per game. He was held to three touchdowns but was ninth among RBs in scrimmage yards, while playing 74% of the snaps during that span. Though he struggled after contact, Singletary's 5.1 YPC was sixth best among backs. Singletary is expected to work as the lead back again this season, but his 5-foot-7, 203-pound frame will limit his volume. Expect rookie Zack Moss to be heavily involved, along with Josh Allen, at the goal line. Singletary may struggle to clear a half-dozen touchdowns but will get enough work to flirt with top-20 production.",
+    "otherLeagueDraftValue": 2.27
+  },
+  {
+    "name": "Wayne Gallman",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 130.0,
+    "average": 8.666666666666666,
+    "bio": "",
+    "otherLeagueDraftValue": 0.16
+  },
+  {
+    "name": "Leonard Fournette",
+    "position": "RB",
+    "auctionPrice": 33,
+    "totalPoints": 128.0,
+    "average": 9.846153846153847,
+    "bio": "Fournette signed with Tampa Bay after being cut by the Jaguars. At least from a fantasy perspective, Fournette finally lived up to his first-round pedigree during a breakout 2019 season and emerged as one of the league's rare workhorse running backs. During 15 active weeks, Fournette played 88% of the snaps, handling 87% of the carries and 19% of the targets. Fournette finished no lower than seventh among backs in carries, targets, receptions, touches, yards and fantasy points. Fournette's season would've been even more impressive had it not been for some atrocious touchdown luck. Despite a healthy 9.3 OTD (10th highest), Fournette scored three touchdowns. He may lead Tampa Bay in touches this season, but he won't be a workhorse with Ronald Jones and LeSean McCoy (among others) in the mix. Consider him a borderline flex option.",
+    "otherLeagueDraftValue": 1.48
+  },
+  {
+    "name": "Latavius Murray",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 126.0,
+    "average": 8.4,
+    "bio": "Murray is now 30 years old, but he remains in a good spot as Alvin Kamara's backup in a high-scoring Saints' offense. In his first season in New Orleans, Murray was held to 98 touches and the 49th-most fantasy points among backs during the 14 weeks Kamara was also active. However, with Kamara sidelined during Weeks 7 and 8, Murray stepped in and racked up 307 yards and four touchdowns on 60 touches. He was fantasy's top-scoring RB in that span. Murray lacks stand-alone value but is obviously an elite insurance option.",
+    "otherLeagueDraftValue": 1.11
+  },
+  {
+    "name": "Gus Edwards",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 125.0,
+    "average": 7.8125,
+    "bio": "Edwards was the second man up for carries behind Mark Ingram last season, but he could fall to third this season with second-round pick J.K. Dobbins in the mix. The backup gig was generous to Edwards in 2019, as it allowed him 133 carries in the league's highest-scoring offense. Edwards is a nonfactor in the passing game (he has 270 carries and 10 targets in two seasons), but his rushing efficiency has been nothing short of elite. In fact, Edwards' career 5.3 YPC is best among 40 backs with 200-plus carries since he entered the league as an undrafted free agent in 2018. Edwards can no longer be considered Ingram's clear backup, and even if Ingram misses time, Edwards would work in a timeshare with Dobbins and perhaps Justice Hill. Edwards is worth a pick only in deep non-PPR leagues.",
+    "otherLeagueDraftValue": 0.05
+  },
+  {
+    "name": "Darrell Henderson Jr.",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 123.0,
+    "average": 8.2,
+    "bio": "Henderson will get a shot at earning lead-back duties in the Rams' backfield this season following the release of Todd Gurley. Henderson was initially expected to play a significant change-of-pace role behind Gurley last season but instead was limited to 39 carries and six targets on 89 snaps. The Rams selected Henderson in the third round of the 2019 draft after he averaged 8.9 YPC (seriously!) on 344 carries during his final two seasons at Memphis. Henderson has tremendous upside as a rusher, and his passing-down chops make him a candidate for weekly PPR value, but he'll be hard-pressed to separate himself from rookie Cam Akers (and perhaps Malcolm Brown) as the team's clear feature back. Nonetheless, Henderson is a second-year breakout candidate and borderline flex option.",
+    "otherLeagueDraftValue": 3.58
+  },
+  {
+    "name": "Jerick McKinnon",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 117.0,
+    "average": 7.3125,
+    "bio": "McKinnon signed a pricy contract with San Francisco prior to the 2018 season but has yet to play a snap for the team due to injury. Following a contract restructure, McKinnon will attempt another comeback in 2020. Even prior to the injury struggles, the 5-foot-9, 212-pound McKinnon had never exceeded 159 carries in a season and averaged 3.59 YPC (worst among backs), including 1.50 after contact (second worst) on 309 carries during the 2016 and 2017 seasons. McKinnon's receiving volume has been terrific, but his efficiency has been weak (5.2 YPT). The 49ers' run-heavy offense is attractive, but McKinnon's lengthy absence and the presences of Raheem Mostert and Tevin Coleman make fantasy relevance a long shot.",
+    "otherLeagueDraftValue": 1.89
+  },
+  {
+    "name": "Jamaal Williams",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 117.0,
+    "average": 8.357142857142858,
+    "bio": "Williams returns as a backup rusher and passing-down contributor in Green Bay, though he'll face more competition for work this season, with second-round pick AJ Dillon in the fold. In 13 full games last season, Williams was well behind Aaron Jones in carries (179 to 107) but was basically even in targets (46 to 45). Jones was a top-five fantasy RB in those 13 weeks, though it might surprise you to know that Williams was 24th. There are plenty of fantasy points to be had in the Packers' backfield, but Williams, who has yet to post a top-30 fantasy campaign, might not even be the team's lead back if Jones gets injured. He's barely worthy of a draft pick in most formats.",
+    "otherLeagueDraftValue": 1.03
+  },
+  {
+    "name": "Adrian Peterson",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 114.0,
+    "average": 7.125,
+    "bio": "Peterson was released by Washington just prior to Week 1. Peterson ranked 17th among running backs with 898 rushing yards last season but didn't score much (five TDs) and was a nonfactor as a receiver (23 targets). Peterson is still an effective rusher at age 35, but the reigning No. 33 scoring fantasy back had zero top-10 fantasy weeks in 2019 and is a strong bet for a significant decrease in touches in 2020 regardless of landing spot. ",
+    "otherLeagueDraftValue": 1.01
+  },
+  {
+    "name": "Tony Pollard",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 110.0,
+    "average": 6.875,
+    "bio": "Pollard remains Ezekiel Elliott's primary backup as he enters his second NFL season. The 2019 fourth-round pick generated some hype last offseason during Elliott's holdout but ended up touching the ball only 101 times during his rookie campaign. Pollard showed well ' he averaged 5.3 YPC, and his 2.7 YAC was tops in the league ' but didn't see the field much, with Elliott appearing in all 16 games. Pollard is unlikely to produce stand-alone value, but he has the size and skill set to take on a substantial chunk of Elliott's workload, should Elliott miss time. Stash Pollard on your bench.",
+    "otherLeagueDraftValue": 0.07
+  },
+  {
+    "name": "James White",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 107.0,
+    "average": 7.642857142857143,
+    "bio": "White has finished as a top-20 fantasy RB each of the past two seasons, but he's a bit of a wild card now that old reliable Tom Brady is out of the picture. We can't bank on carries from White (he has never cleared 94 in a single season), but he has ranked no lower than sixth among backs in targets, catches, receiving yards and touchdown receptions each of the past two seasons. White is a strong bet to remain New England's primary passing-down back, but we can't assume Cam Newton or Jarrett Stidham will target him as often, and the safe bet would be to expect less scoring and a more run-heavy approach from the Patriots' offense. White still has PPR value, but he's more of a fringe flex with a limited ceiling.",
+    "otherLeagueDraftValue": 4.63
+  },
+  {
+    "name": "Damien Harris",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 102.0,
+    "average": 10.2,
+    "bio": "Harris enters his second NFL season as part of a crowded New England backfield that includes Sony Michel, James White, Rex Burkhead and Brandon Bolden. A third-round pick last offseason, Harris was limited to five snaps during his rookie campaign. He lacks top-end speed (4.57 40-yard dash) but has decent size (5-foot-10, 216 pounds) and is a powerful, downhill runner with exceptional ball security (zero fumbles in 2018). He's also a good pass-catcher and blocker, which supplies him with three-down upside in the pros. Harris is buried in New England, but one injury could vault him into a big role. He's an end-of-bench stash at best.",
+    "otherLeagueDraftValue": 1.23
+  },
+  {
+    "name": "Cam Akers",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 100.0,
+    "average": 7.6923076923076925,
+    "bio": "The Rams selected Akers with the 52nd pick of April's draft. The tough and elusive Akers measures in at 5-foot-10, 217 pounds with solid speed (4.47 40-yard dash) and good strength (20 bench reps). Despite lacking some big-play ability and having to do most of his damage after contact last season (5.0 YPC, 1.7 YBC), Akers posted one of the best YAC/forced missed tackle profiles in this year's rookie class. The Florida State product will open his career in a wide-open competition with second-year back Darrell Henderson and Malcolm Brown to replace Todd Gurley. He might not do much as a receiver, but if Akers is able to claim a majority of the carries and goal-line work, he could quickly join the RB2 discussion. Grab him in the middle rounds.",
+    "otherLeagueDraftValue": 0.04
+  },
+  {
+    "name": "Raheem Mostert",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 100.0,
+    "average": 12.5,
+    "bio": "It's not often you see a running back break out in his fifth NFL campaign, but Mostert did exactly that down the stretch last season. Primarily a special-teams player throughout his career, Mostert put up 859 yards and scored 13 touchdowns on 133 touches during the 49ers' final nine games of 2019 (including the playoffs). An extremely efficient runner, Mostert is averaging 6.0 YPC on 178 regular-season carries for his career, which is easily best among 188 RBs with 150-plus carries. The concerns here are that Mostert plays a minimal pass-catching role (22 targets last season) and Kyle Shanahan is very unpredictable with his backfield rotation. As such, Mostert is best viewed as a flex with RB2 upside.",
+    "otherLeagueDraftValue": 1.12
+  },
+  {
+    "name": "Joe Mixon",
+    "position": "RB",
+    "auctionPrice": 28,
+    "totalPoints": 99.0,
+    "average": 16.5,
+    "bio": "Mixon enters his fourth NFL season as the clear feature back in Cincinnati. The role has allowed Mixon a top-seven finish in touches, top-11 finish in yards and eight-plus touchdowns each of the past two seasons. Despite the heavy usage, a limited role as a pass-catcher has left Mixon with fantasy finishes of 10th and 13th during that span. Mixon is one of the game's better talents at the position, but the Cincinnati offensive line remains a work in progress and his target share is unlikely to see a significant boost with A.J. Green back, Tee Higgins drafted and Giovani Bernard still in the fold. Consider Mixon a borderline top-10 RB.",
+    "otherLeagueDraftValue": 33.93
+  },
+  {
+    "name": "Malcolm Brown",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 99.0,
+    "average": 6.1875,
+    "bio": "With Todd Gurley out of the picture in Los Angeles, Brown will compete with second-year Darrell Henderson and rookie Cam Akers for touches in the Rams' backfield. Brown is entering his sixth NFL season having yet to eclipse 69 carries or 11 targets in a campaign. Brown could factor in on early downs and near the goal line (he's 224 pounds and scored five touchdowns last season) but is a long shot for anything more than situational duties and is unlikely to factor in as a receiver. Consider him for your bench in deep leagues.",
+    "otherLeagueDraftValue": 0.34
+  },
+  {
+    "name": "Rex Burkhead",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 96.0,
+    "average": 9.6,
+    "bio": "Burkhead returns to a crowded backfield in New England that includes Sony Michel, James White, Damien Harris and Brandon Bolden. Burkhead is entering his age-30 season having never cleared 74 carries or 38 targets in a season. His best fantasy finish was 39th in 2017. Burkhead would need multiple injuries to emerge as a reliable weekly fantasy starter, and even then, he might not be overly appealing with Tom Brady no longer under center. Burkhead is worth a look only in the deepest of leagues.",
+    "otherLeagueDraftValue": 0.35
+  },
+  {
+    "name": "Zack Moss",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 92.0,
+    "average": 7.076923076923077,
+    "bio": "The Bills selected Moss with a third-round pick in April's draft. Moss is an elite prospect in two key areas: YAC (second-best in this year's rookie class in 2019) and forced missed tackles (second). The Utah product has terrific size (5-foot-9, 223 pounds) and the balance, toughness, quickness and receiving ability to emerge as one of the game's top backs, though speed is a major concern following his 4.65 40-yard dash at the combine. Moss joins Devin Singletary in the Bills' backfield. The two figure to limit each other's fantasy output, though the rookie has 20 pounds on his new teammate, which could vault him into a significant role on early downs and at the goal line. Moss could flirt with the flex radar and is a fine mid-round target.",
+    "otherLeagueDraftValue": 0.25
+  },
+  {
+    "name": "Frank Gore",
+    "position": "RB",
+    "auctionPrice": 0,
+    "totalPoints": 92.0,
+    "average": 6.133333333333334,
+    "bio": "",
+    "otherLeagueDraftValue": 0.24
+  }
+]

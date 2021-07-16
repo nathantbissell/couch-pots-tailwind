@@ -1,404 +1,452 @@
-{
-  "players": [
-    {
-      "name": "Davante Adams",
-      "auctionPrice": 49,
-      "totalPoints": 375.0,
-      "average": 26.785714285714285,
-      "bio": "Adams is back as Aaron Rodgers' unquestioned No. 1 target -- a role that has allowed him to post four consecutive seasons as a top-10 WR in fantasy points per game. Adams handled a career-high 31% target share and was fantasy's No. 2-scoring WR during the 12 weeks in which he was active last season. He finished as a top-five WR in 42% of those outings, which trailed only Michael Thomas. The only concern here is durability as Adams has missed at least one regular-season game due to injury in each of the past three seasons, including four 2019 absences. We'll need to dock him slightly for that, but the 27-year-old's massive usage locks him into the top-end WR1 mix.",
-      "otherLeagueDraftValue": 52.95
-    },
-    {
-      "name": "Stefon Diggs",
-      "auctionPrice": 25,
-      "totalPoints": 350.0,
-      "average": 21.875,
-      "bio": "Diggs was traded to Buffalo during the offseason and will now operate as the Bills' top target. The 26-year-old posted a trio of top-25 fantasy campaigns during his final three seasons in Minnesota, but now moves to a low-volume, run-first Buffalo offense led by the inefficient and scramble-heavy Josh Allen. That figures to lead to a decrease in production for Diggs, which is a concern considering he was only the WR24 last season -- despite Kirk Cousins' extremely efficient campaign and with Adam Thielen sidelined. Diggs, who has never appeared in all 16 games of a regular season, is likely to be over-drafted and is best viewed as only a WR3.",
-      "otherLeagueDraftValue": 30.6
-    },
-    {
-      "name": "Tyreek Hill",
-      "auctionPrice": 50,
-      "totalPoints": 329.0,
-      "average": 21.933333333333334,
-      "bio": "Hill heads into his fifth NFL season having never finished lower than fourth among WRs in fantasy points per snap. Last season, the speedster missed four games because of injury and saw a slight dip in usage. Still, he remained a dominant fantasy force when active, posting a top-10 week during one-third of his outings (the league's fifth-highest rate). Hill has scored 36 touchdowns in 59 regular-season games and trails only Travis Kelce in target priority on Andy Reid's high-scoring, pass-heavy Chiefs offense led by Patrick Mahomes. Hill is a solid WR1 with added value in non-PPR formats.",
-      "otherLeagueDraftValue": 23.21
-    },
-    {
-      "name": "DeAndre Hopkins",
-      "auctionPrice": 53,
-      "totalPoints": 313.0,
-      "average": 19.5625,
-      "bio": "Hopkins was traded to the Cardinals during the offseason and will now operate as Kyler Murray's go-to target. A top-five fantasy WR in four of the past five seasons, Hopkins has averaged 10.5 targets per game during that span, which is a mark he should still be able to approach with Arizona. Murray is far from a finished product, but the Cardinals' offense finished 2019 strong with three-plus touchdowns in eight of their final 11 games -- and that was without one of the game's best receivers. At age 28, Hopkins remains an elite fantasy option and should be selected near the first/second-round turn.",
-      "otherLeagueDraftValue": 48.33
-    },
-    {
-      "name": "Calvin Ridley",
-      "auctionPrice": 21,
-      "totalPoints": 309.0,
-      "average": 20.6,
-      "bio": "Ridley enters his third NFL season as Atlanta's No. 2 wide receiver behind Julio Jones. The 2018 first-round pick impressed during his first two campaigns, catching 69% of his passes and averaging a healthy 8.0 YPT. Ridley took a step forward last season and actually had one of the highest floors in fantasy, finishing 27th or better during nine of his 13 outings. He sat 14th at the position in fantasy points prior to Week 14's season-ending abdomen injury. Especially with Mohamed Sanu and Austin Hooper gone, Ridley's role as Matt Ryan's No. 2 target is safe. The 25-year-old is a fringe top-20 fantasy receiver.",
-      "otherLeagueDraftValue": 27.05
-    },
-    {
-      "name": "Justin Jefferson",
-      "auctionPrice": 1,
-      "totalPoints": 299.0,
-      "average": 18.6875,
-      "bio": "Minnesota used the 22nd pick of April's draft to select Jefferson ' the de facto replacement for Stefon Diggs. Jefferson is 6-foot-1, 202 pounds with outstanding ball skills and contested-catch ability. The former LSU Tiger also has decent wheels (4.43 40), though he doesn't stand out in terms of perimeter separation or against press, which helps explain why he aligned in the slot 90% of the time in 2019. With only Adam Thielen ahead of him on the depth chart, Jefferson won't be short of playing time as a rookie, which isn't new for the player who paced the FBS with 111 receptions in 2019. Jefferson's 83% catch rate and 18 touchdowns were best in this year's rookie class. Jefferson's short-term upside will be limited by Minnesota's run-heavy offense, but he's still worth a late-round pick.",
-      "otherLeagueDraftValue": 3.3
-    },
-    {
-      "name": "DK Metcalf",
-      "auctionPrice": 19,
-      "totalPoints": 285.0,
-      "average": 17.8125,
-      "bio": "Metcalf is entering his second NFL season, following an impressive rookie campaign in which he played on 83% of Seattle's snaps and was responsible for 30% of the team's air yards. Metcalf scored seven touchdowns, but was actually unlucky in that department (8.1 OTD), as the Ole Miss product paced the entire NFL in end-zone targets -- his 19 looks were three more than any other player. Metcalf ended the season as fantasy's No. 33 WR, though his role resulted in only one top-12 fantasy week and seven finishes of 40th or worse. Metcalf is only 22 and good bet for a step forward in his second season. Consider him as a WR3 with the upside for a major breakout.",
-      "otherLeagueDraftValue": 44.06
-    },
-    {
-      "name": "Allen Robinson II",
-      "auctionPrice": 18,
-      "totalPoints": 272.0,
-      "average": 17.0,
-      "bio": "It took a while following a lost 2017 due to a torn ACL and a transition to Chicago in 2018, but Robinson has finally reestablished himself as one of the game's top receivers. Last season, Robinson paced all wide receivers in snaps while ranking no lower than sixth in routes, targets, receptions and end-zone targets. A lack of post-catch production (2.6 RAC) limited Robinson's yardage, but he still managed his second career top-eight fantasy campaign. Robinson enters his age-27 season without a reliable quarterback, but he is in his prime with a generous target share. Consider him to be a solid WR2.",
-      "otherLeagueDraftValue": 28.12
-    },
-    {
-      "name": "Tyler Lockett",
-      "auctionPrice": 24,
-      "totalPoints": 265.0,
-      "average": 16.5625,
-      "bio": "The 2019 season was Lockett's fifth in the NFL, but his first as Seattle's clear No. 1 wide receiver. It's safe to say he handled himself well, playing through a midseason injury and reaching career-high marks in targets, receptions and yardage. Whereas teammate DK Metcalf paced the NFL in end-zone targets, Lockett finished fourth with 13. Lockett has finished second in catch rate and no lower than 16th in fantasy points both of the past two seasons. His 18 touchdowns are second most at the position during that span. Lockett enters his age-27 season as one of the game's most-efficient receivers and Russell Wilson's top target. He's a solid WR2.",
-      "otherLeagueDraftValue": 31.66
-    },
-    {
-      "name": "A.J. Brown",
-      "auctionPrice": 26,
-      "totalPoints": 259.0,
-      "average": 18.5,
-      "bio": "Brown is entering his second NFL season after quite the roller-coaster rookie campaign. Following a boom/bust first couple of months, the second-round pick peaked after the Titans' Week 11 bye, posting the second-most fantasy points and four top-10 weeks from that point forward. His five top-10 outings for the season trailed only Michael Thomas for the league high. Brown then crashed back to earth in the playoffs with a mere 64 yards in three games. The inconsistency was frustrating, but Brown appears to be the real deal. His 12.5 YPT and 9.0 RAC both topped the position and he dropped only one of his 84 targets. Brown's TD rate will regress (8 TD, 3.7 OTD), but a boost in volume is probable in Year 2. Consider Ryan Tannehill's top weapon to be a fringe WR2 with upside.",
-      "otherLeagueDraftValue": 25.76
-    },
-    {
-      "name": "Keenan Allen",
-      "auctionPrice": 22,
-      "totalPoints": 252.0,
-      "average": 18.0,
-      "bio": "Allen enters his eighth NFL season in unfamiliar territory. The 2013 third-round pick has been targeted 758 times in his career -- and 751 of them have come from the hand of Philip Rivers. Rivers, who is now with the Colts, has helped Allen to top-13 finishes in targets, receptions, receiving yards and fantasy points in each of the past three seasons. Even with Rivers, Allen is coming off a very boom/bust fantasy campaign in which he was a top-20 WR in half of his outings, but outside the top 30 during the other half. Allen is still in his prime at age 28 and hasn't missed a game since 2016, but he hasn't scored more than six TDs in any season since 2013. The uncertainty of the Chargers' quarterback situation is a red flag, so Allen is best viewed as a WR2.",
-      "otherLeagueDraftValue": 39.31
-    },
-    {
-      "name": "Mike Evans",
-      "auctionPrice": 41,
-      "totalPoints": 250.0,
-      "average": 15.625,
-      "bio": "Evans returns as Tampa Bay's top perimeter wide receiver. However, for the first time since his rookie season in 2014, Jameis Winston won't be his primary quarterback. That may not seem ideal after Evans put together four consecutive seasons as a top-17 fantasy WR, but it's very possible that the 26-year-old's efficiency and consistency will actually improve with Tom Brady in town. Evans has ranked near the top of the league in aDOT and YPR throughout his career, but near the basement in both catch rate and RAC. That has led to inconsistent production, including 2019, when 53% of his fantasy point total for the season came during just three games. Even if the big plays are down a bit, Evans will see enough volume and goal-line work (he's never finished lower than ninth in end-zone targets) to reach his third top-10 fantasy campaign.",
-      "otherLeagueDraftValue": 5.21
-    },
-    {
-      "name": "Amari Cooper",
-      "auctionPrice": 38,
-      "totalPoints": 250.0,
-      "average": 15.625,
-      "bio": "Cooper re-signed with the Cowboys during the offseason and returns as Dak Prescott's top target. In 2019, Cooper produced his fourth 1,000-yard season in five tries while setting career-best marks in receiving yards, touchdowns and fantasy points in his first full campaign with Dallas. Incredibly, Cooper has yet to finish a season higher than 10th in fantasy points but, in five seasons, he has managed to post four 1,000-yard seasons and three seasons in a row with seven-plus TDs. He also has finished among the top receivers in catch rate and YPT for the past two seasons. Cooper doesn't get the same amount of targets of other top-end WRs, but the 26-year-old's top-end talent -- and Dallas' high-scoring offense --secures his spot as a strong WR2.",
-      "otherLeagueDraftValue": 13.44
-    },
-    {
-      "name": "Adam Thielen",
-      "auctionPrice": 26,
-      "totalPoints": 247.0,
-      "average": 16.466666666666665,
-      "bio": "Following the offseason trade of Stefon Diggs to Buffalo, Thielen enters 2020 as the Vikings' clear-cut top target. Thielen missed six games because of injury last season, but was previously extremely reliable, having not missed a single game during his first five seasons. A top-10 fantasy WR in both 2017 and 2018, Thielen sat ninth prior to his Week 7 injury in 2019. Thielen turns 30 this year and Minnesota's run-heavy offense will limit his ceiling, but he's a safe bet for a generous target share and thus, a high fantasy floor. Grab him as your WR2.",
-      "otherLeagueDraftValue": 24.11
-    },
-    {
-      "name": "Robert Woods",
-      "auctionPrice": 20,
-      "totalPoints": 243.0,
-      "average": 15.1875,
-      "bio": "Woods doesn't get the headlines, but the 2013 second-round pick has emerged as the high-scoring Rams' No. 1 wide receiver. A top-15 fantasy WR in both of the past two seasons, Woods was targeted nine-plus times in 10 of his 15 games last season. That 67% rate was tied with DJ Moore for fifth best in the league. Woods isn't going to get you many touchdowns, as he's never been above six in a season and saw only two end-zone targets last season. Still, he's a strong bet to push for 130 targets for the third consecutive season. Especially with Brandin Cooks gone, Woods is a fine WR2 target in PPR leagues.",
-      "otherLeagueDraftValue": 6.72
-    },
-    {
-      "name": "Brandin Cooks",
-      "auctionPrice": 0,
-      "totalPoints": 238.0,
-      "average": 15.866666666666667,
-      "bio": "Cooks was traded to the Texans during the offseason and will compete for targets with Will Fuller V, Randall Cobb and Kenny Stills. At 26, Cooks is still in his prime, but has already been traded three times. Despite the constant movement, he has finished four of the past five seasons as a top-15 fantasy WR. Primarily a vertical threat, Cooks ranked no lower than ninth in YPT in the three seasons prior to an injury-plagued 2019 campaign with the Rams. Concussions are an ongoing concern for Cooks, but, if healthy, he's in good shape as one of Deshaun Watson's top targets. He should be on your flex radar, though there's certainly WR2 upside to be found here.",
-      "otherLeagueDraftValue": 1.52
-    },
-    {
-      "name": "Terry McLaurin",
-      "auctionPrice": 15,
-      "totalPoints": 235.0,
-      "average": 15.666666666666666,
-      "bio": "Washington drafted McLaurin in the second round of the 2019 draft and it took the Ohio State product just one game to solidify himself as the team's top offensive weapon. McLaurin went on to miss a pair of games due to injury, but ranked 17th in fantasy points during the 14 weeks in which he was active. McLaurin was a bit over his head in the touchdown department (7 TD, 5.8 OTD), but saw a healthy 10 end-zone targets (11th most in the NFL) and his 10.0 YPT was ninth best. The 24-year-old is second-year QB Dwayne Haskins' go-to target and a fringe WR2 in fantasy.",
-      "otherLeagueDraftValue": 17.0
-    },
-    {
-      "name": "Robby Anderson",
-      "auctionPrice": 2,
-      "totalPoints": 233.0,
-      "average": 14.5625,
-      "bio": "Following four seasons with the Jets, Anderson signed with Carolina during the offseason. Anderson went undrafted in 2016, but went on to appear in 62 of 64 games with New York, hauling in 206 passes for 3,034 yards and 20 touchdowns. Anderson was limited to one strong fantasy campaign (18th in 2017) and finished 39th and 40th in the past two seasons. In Anderson's defense, a position-high 33% of balls thrown his direction were 'off target' last season. In Carolina, the 26-year-old vertical threat will work alongside DJ Moore and Curtis Samuel in Matt Rhule's new-look offense led by QB Teddy Bridgewater. Consistency is unlikely with Christian McCaffrey as the focal point of the Panthers' offense, so Anderson is safest as a borderline flex play in deeper leagues.",
-      "otherLeagueDraftValue": 15.6
-    },
-    {
-      "name": "DJ Moore",
-      "auctionPrice": 22,
-      "totalPoints": 227.0,
-      "average": 15.133333333333333,
-      "bio": "The first wide receiver selected in the 2018 draft, Moore flashed with a 55-788-2 receiving line as a rookie before enjoying a full-on breakout in 2019. Moore finished as a top-10 WR in routes, targets, receptions and receiving yards. Moore's efficiency has been outstanding, as he has dropped just three of 215 career targets, while dominating with the ball in his hands (5.7 RAC). The one drawback has been a lack of scoring (six career TDs, 8.2 OTD), which has limited his ceiling. He managed only two weekly finishes better than 13th and was fantasy's No. 16 WR in 2019. Moore will have new QB Teddy Bridgewater and new coach Matt Rhule this season, but the 23-year-old's heavy usage is unlikely to change, though perhaps he'll see more goal-line work. He's a fringe WR1.",
-      "otherLeagueDraftValue": 3.65
-    },
-    {
-      "name": "Marvin Jones Jr.",
-      "auctionPrice": 0,
-      "totalPoints": 227.0,
-      "average": 14.1875,
-      "bio": "Jones, Kenny Golladay and Danny Amendola played 12 games together last season. The target breakdown in those weeks were as follows: Jones had 86 (20% share), Golladay had 85 (20%), and Amendola saw 78 (18%). When Jones was out during Weeks 15-17, Golladay only edged Amendola 23-20 (24%-21%) in that category. This trio is probably closer than you realize in usage, which may lead to Jones being undervalued in fantasy again. He's now 30, but Jones has scored nine touchdowns in two of the past three seasons and was on pace for nine in 2018 prior to an injury. He finished 14th, 27th and 20th in fantasy points per game during that span.",
-      "otherLeagueDraftValue": 0.78
-    },
-    {
-      "name": "Cole Beasley",
-      "auctionPrice": 0,
-      "totalPoints": 222.0,
-      "average": 14.8,
-      "bio": "Beasley wanted a bigger piece of the pie and he certainly got it in his first season in Buffalo. The undersized slot man set career highs in targets (104) and touchdowns (6) en route to a WR34 finish in fantasy. Despite a generous 19% target share, Beasley's low ceiling remained a problem, as he managed only three weekly finishes better than 26th. Strictly a short-area target, Beasley has finished every season of his career in the 11th percentile or lower in aDOT, and his 2.9 OTD suggests he's headed for regression in the touchdown department. Buffalo's trade for Stefon Diggs will cost Beasley plenty of targets, so the 31-year-old can only be viewed as a low-ceiling bench option in deep PPR leagues.",
-      "otherLeagueDraftValue": 0.75
-    },
-    {
-      "name": "Diontae Johnson",
-      "auctionPrice": 2,
-      "totalPoints": 219.0,
-      "average": 14.6,
-      "bio": "All things considered, Johnson had a pretty darn impressive rookie season. The 2019 third-round pick was a part-time player for most of the season, but still managed a solid 59-680-5 receiving line on his way to a 39th-place finish in fantasy points. That success came despite his operating in an offense with extremely poor quarterback play. That's unlikely to be an issue again in 2020 with Ben Roethlisberger back from injury. Johnson joins up with JuJu Smith-Schuster, James Washington and rookie Chase Claypool to form one of the league's top young WR groups. Roethlisberger has supported three fantasy-relevant WRs in the past, so it's certainly possible for multiple receivers to shine in Pittsburgh's pass-heavy offense. Consider Johnson as a flex target with upside.",
-      "otherLeagueDraftValue": 2.89
-    },
-    {
-      "name": "Cooper Kupp",
-      "auctionPrice": 29,
-      "totalPoints": 218.0,
-      "average": 14.533333333333333,
-      "bio": "Kupp is a very tricky evaluation following a bizarre 2019 campaign that can be split into two distinct parts. During Weeks 1-12, Kupp played on 87% of snaps and handled a 25% target share. With Tyler Higbee taking on a larger role during Weeks 13-17, those rates dropped to 63% and 15%, respectively. Kupp still ended up fourth in fantasy points due to the strong start and an unsustainable level of touchdown production (10 TD, 5.6 OTD), but we can't overlook the Rams' scheme change in December. The departure of Brandin Cooks definitely helps, but Kupp is now safest-viewed as a mid-to-back-end WR2.",
-      "otherLeagueDraftValue": 12.43
-    },
-    {
-      "name": "JuJu Smith-Schuster",
-      "auctionPrice": 35,
-      "totalPoints": 216.0,
-      "average": 13.5,
-      "bio": "Smith-Schuster enters 2020 looking to bounce back after a rough 2019 season marred by Ben Roethlisberger's season-ending injury in Week 2, as well as various injuries of his own. After pacing all wide receivers in routes run and finishing top 10 in targets, receptions, receiving yards, end-zone targets and fantasy points during a breakout 2018 campaign, Smith-Schuster was held to a 41-542-3 line in 12 games of \"QB purgatory\" last season. Smith-Schuster is still only 23 years old and a strong bet for a rebound season with Roethlisberger back in action. Consider him to be a WR2 with upside.",
-      "otherLeagueDraftValue": 3.45
-    },
-    {
-      "name": "CeeDee Lamb",
-      "auctionPrice": 1,
-      "totalPoints": 216.0,
-      "average": 13.5,
-      "bio": "Dallas selected Lamb with the 17th pick of April's draft. The Oklahoma product is fresh off a dominant 2019 campaign, in which he averaged 14.3 yards per target, 4.0 yards per route run and 11.1 yards after the catch ' all of which were best in this year's rookie class. Lamb is lean (198 pounds) but tall (6-foot-2) with solid speed (4.50 40-yard dash), as well as terrific separation and post-catch ability. Lamb is in and Randall Cobb out behind Amari Cooper and Michael Gallup, and so, while being third in line will limit Lamb's upside, note that all three 2019 Cowboys receivers were top 31 in fantasy points during 13 full weeks together. Add in Mike McCarthy's history of heavy reliance on three-wide sets and Lamb could flirt with flex value. He is a worth a late-round pick.",
-      "otherLeagueDraftValue": 1.28
-    },
-    {
-      "name": "Chase Claypool",
-      "auctionPrice": 0,
-      "totalPoints": 211.0,
-      "average": 13.1875,
-      "bio": "Pittsburgh drafted Claypool in the second round of April's draft. Claypool is a huge (6-foot-4, 238 pounds) and physical receiver with terrific speed (4.42 40-yard dash) and playmaking ability. The Notre Dame product's NFL role has yet to be determined, as he has experience as a perimeter receiver, but some teams also preferred him at tight end. Regardless, Claypool is unlikely to find his way to short-term fantasy value with JuJu Smith-Schuster, Diontae Johnson and James Washington ahead of him on the depth chart. He doesn't need to be drafted in 2020 leagues.",
-      "otherLeagueDraftValue": 7.16
-    },
-    {
-      "name": "Curtis Samuel",
-      "auctionPrice": 0,
-      "totalPoints": 211.0,
-      "average": 14.066666666666666,
-      "bio": "Samuel's career advanced another step last season as the 2017 second-round pick appeared in 16 games for the first time in his career and posted career-high totals in receptions, receiving yards and touchdowns. His efficiency wasn't good (51% catch rate, 5.9 YPT), although some of that can be blamed on a 28% off-target rate (eighth highest in the NFL). Samuel did finish as 2019's No. 26 fantasy WR, thanks in part to his also being a factor as a rusher (19-130-1 on the ground). He is sure to sustain a significant role in Matt Rhule's new-look offense, but Carolina's signing of Robby Anderson is sure to cost Samuel targets. As such, he's only a flex option in deeper leagues.",
-      "otherLeagueDraftValue": 0.18
-    },
-    {
-      "name": "Corey Davis",
-      "auctionPrice": 0,
-      "totalPoints": 210.0,
-      "average": 15.0,
-      "bio": "Davis is entering his fourth NFL season having yet to emerge as a go-to target after being drafted with the fifth overall pick of the 2017 draft. Davis did take a bit of a leap with a 65-891-4 receiving line in 2018, but plummeted to 43-601-2 last season as then-rookie A.J. Brown took over as the Titans' No. 1 receiver. Despite standing 6-foot-3, Davis has scored a grand total of six touchdowns in three seasons. The 25-year-old could still make a leap forward, but he's a long shot for consistent fantasy value in Tennessee's run-heavy scheme.",
-      "otherLeagueDraftValue": 0.64
-    },
-    {
-      "name": "Will Fuller V",
-      "auctionPrice": 0,
-      "totalPoints": 209.0,
-      "average": 19.0,
-      "bio": "The Texans traded away DeAndre Hopkins during the offseason, which should vault 2016 first-round pick Fuller to a full-on fantasy breakout. The problem, of course, is that Fuller is entering his fifth NFL season having already missed 34% of his team's games because of injury. That number includes five games last season. The good news is that, when healthy, Fuller has been heavily targeted and productive. In nine full games last season, he handled 7.7 targets per game (a 25% share) and trailed Hopkins by only nine total targets. He was fantasy's No. 13 WR in those weeks. It's hard to expect a full season from the oft-injured receiver, but Fuller undoubtedly still has massive upside. The 26-year-old is best viewed as a flex.",
-      "otherLeagueDraftValue": 8.95
-    },
-    {
-      "name": "Tyler Boyd",
-      "auctionPrice": 3,
-      "totalPoints": 195.0,
-      "average": 13.0,
-      "bio": "Boyd seemed like a total bust through his first two seasons in the league, but the Bengals' slot man has completely shed that label with a pair of top-18 fantasy campaigns. With A.J. Green sidelined last season, Boyd finished no lower than eighth among receivers in snaps, routes run, targets and receptions. Weak quarterback play led to underwhelming efficiency numbers, but it's very possible that will improve with No. 1 overall pick Joe Burrow under center. Boyd isn't going to get you many TDs (12 TD, 7.7 OTD, 7 end zone targets over the past two seasons) and his targets will take a slight hit with the combination of Green's return and rookie Tee Higgins joining the fold. Still, the 25-year-old short-area weapon will rack up plenty of catches. Consider Boyd to be a fine WR3 in PPR formats.",
-      "otherLeagueDraftValue": 6.54
-    },
-    {
-      "name": "Tee Higgins",
-      "auctionPrice": 0,
-      "totalPoints": 191.0,
-      "average": 11.9375,
-      "bio": "The Bengals selected Higgins with the 33rd pick of April's draft. Higgins checks in at 6-foot-4, 216 pounds and has drawn comparisons to new teammate A.J. Green due to his frame, catch radius and terrific ball skills. The Clemson product profiles as a perimeter receiver (19% slot last season) who will do a lot of his damage downfield (14.6 aDOT) and near the goal line. Higgins averaged 3.8 yards per route run in 2019, which was second-best in this year's rookie class. Higgins has the talent to eventually emerge as a fantasy force (and perhaps even Joe Burrow's top target), but it might take some time for him to see the field, with Green, Tyler Boyd and John Ross also on the 2020 depth chart. He's barely worth a late-round pick in 2020 leagues.",
-      "otherLeagueDraftValue": 2.99
-    },
-    {
-      "name": "Nelson Agholor",
-      "auctionPrice": 0,
-      "totalPoints": 191.0,
-      "average": 11.9375,
-      "bio": "",
-      "otherLeagueDraftValue": 0.04
-    },
-    {
-      "name": "Brandon Aiyuk",
-      "auctionPrice": 0,
-      "totalPoints": 184.0,
-      "average": 15.333333333333334,
-      "bio": "San Francisco selected Aiyuk with the 25th pick of April's draft. Aiyuk comes in at 6-foot, 205 pounds with 4.50 40-yard speed, as well as terrific explosiveness and route-running ability. The Arizona State product's best asset is his post-catch production (10.5 RAC in 2019), which helped him to plenty of big plays at ASU. Aiyuk doesn't have a ton of competition for early-career snaps, but he should be considered a long shot for weekly fantasy value in a super-run-heavy 49ers' offense that will lean heavily on George Kittle and Deebo Samuel. He's worth only a late-round pick.",
-      "otherLeagueDraftValue": 0.42
-    },
-    {
-      "name": "Chris Godwin",
-      "auctionPrice": 41,
-      "totalPoints": 183.0,
-      "average": 15.25,
-      "bio": "Godwin is entering his fourth NFL season and his second as a full-time player. His first season as a full-timer went, in a word, well. Inexplicably a situational player under Dirk Koetter, Godwin finished 2019 ranked as a top-10 WR in snaps, routes, yardage and touchdowns. He finished fourth at the position in catch rate (72%) and RAC (6.6) and was first in first-down rate (50%). Godwin is a candidate for touchdown regression (9 TD, 5.1 OTD) in 2020 and will have a new quarterback in Tom Brady, but the 24-year-old appears to be the real deal. Consider him as a solid WR1.",
-      "otherLeagueDraftValue": 14.12
-    },
-    {
-      "name": "Jarvis Landry",
-      "auctionPrice": 9,
-      "totalPoints": 181.0,
-      "average": 12.066666666666666,
-      "bio": "Landry was expected to see a big dip in production last season following the Browns' trade for Odell Beckham Jr. Instead, Cleveland's slot man had one of his best NFL seasons and actually out-targeted his teammate 139-132. Landry set a career-high in receiving yardage (1,174) and YPR (14.1) en route to his fifth consecutive top-18 fantasy campaign. Landry has proved to be super reliable, having never missed a game in six seasons and checking in as one of just six players who were targeted in 100% of his 2019 games. New coach Kevin Stefanski could shake things up a bit, but Landry's connection with Baker Mayfield is solid, making him a fine WR3 target.",
-      "otherLeagueDraftValue": 0.63
-    },
-    {
-      "name": "Jamison Crowder",
-      "auctionPrice": 1,
-      "totalPoints": 178.0,
-      "average": 14.833333333333334,
-      "bio": "Crowder has emerged as one of the game's top slot/short-area targets and that skill was on full display in his first season with the Jets. The longtime slot man in Washington posted a healthy 78-833-6 receiving line in New York, leading to a 26th-place finish in fantasy points. Crowder finished near the basement of the position in aDOT (8.1) for the fifth time in as many seasons, which limited big plays (6.8 YPT), but allowed him to soak up receptions (16th most). At 5-foot-8, 185 pounds, Crowder won't get you many touchdowns. Heck, he has only 20 career end zone targets. Still, Sam Darnold's top option will catch enough passes to allow for flex production in PPR leagues.",
-      "otherLeagueDraftValue": 15.35
-    },
-    {
-      "name": "Marquise Brown",
-      "auctionPrice": 0,
-      "totalPoints": 177.0,
-      "average": 11.0625,
-      "bio": "Baltimore selected Brown in the first round of the 2019 draft and the speedster was immediately slotted in as the team's top wide receiver by default. Brown's boom/bust rookie campaign began with his best game in Week 1 (4-147-2) followed by mixed results (including a pair of missed games) the rest of the way. Brown ended up as the WR46 on the season, thanks to seven touchdowns on 69 targets. His 10.1% TD rate was second highest at the position and certainly unsustainable. Brown is an obvious bet for a boost in targets in his second season as Lamar Jackson's top perimeter target. The 23-year-old is a breakout candidate and a sharp flex target.",
-      "otherLeagueDraftValue": 6.8
-    },
-    {
-      "name": "Russell Gage",
-      "auctionPrice": 0,
-      "totalPoints": 175.0,
-      "average": 10.9375,
-      "bio": "Gage is an intriguing deep sleeper this season after the Falcons failed to address the WR position during free agency and the draft. The 2018 sixth-round pick was promoted to slot duties in Atlanta's pass-heavy offense last season following the trade of Mohamed Sanu. Counting only weeks in which Julio Jones and Calvin Ridley also played, Gage handled a 16% target share and was the WR40 for fantasy. Especially with Austin Hooper no longer in the fold, Gage is well-positioned for a similar role in his third NFL season. Consider him late in deep PPR leagues.",
-      "otherLeagueDraftValue": 0.03
-    },
-    {
-      "name": "DeVante Parker",
-      "auctionPrice": 6,
-      "totalPoints": 172.0,
-      "average": 12.285714285714286,
-      "bio": "It's not often that a player realizes his potential in his fifth NFL season, but that was exactly what happened for Parker last season. After failing to post a single top-50 campaign while totaling nine touchdowns during his first four seasons in Miami, Parker exploded for a 72-1,202-9 receiving line in his first year working with Brian Flores. He ended up as fantasy's No. 11 WR and finished top five in routes run, receiving yards and touchdowns. The 27-year-old has first-round pedigree and had suffered through several injuries, so the leap wasn't a major shock, but we also should proceed with caution in 2020. Miami's top offensive target is safest when targeted as a WR3.",
-      "otherLeagueDraftValue": 1.74
-    },
-    {
-      "name": "Michael Gallup",
-      "auctionPrice": 6,
-      "totalPoints": 172.0,
-      "average": 10.75,
-      "bio": "Most would agree that Gallup is the Cowboys' No. 2 wideout behind Amari Cooper, but it's not as clear-cut as you might think. In 13 full games together last season, Gallup played on 44 more snaps and was targeted four more times than his counterpart. Both were top-10 fantasy receivers during those weeks. Gallup looks like the real deal following a breakout second season in which he posted a 66-1,107-6 receiving line and ranked ninth among wide receivers with a 16.8 YPR. The 24-year-old has solidified himself as one of Dak Prescott's go-to targets and, even though his workload could drop slightly with CeeDee Lamb in the mix, he could make up for some of that with more usage near the goal line. He had only three end-zone targets last season. Consider Gallup as a borderline WR3.",
-      "otherLeagueDraftValue": 0.11
-    },
-    {
-      "name": "Jerry Jeudy",
-      "auctionPrice": 6,
-      "totalPoints": 163.0,
-      "average": 10.1875,
-      "bio": "Denver selected Jeudy with the 15th pick of April's draft. The Alabama product sports a 6-foot-1, 193-pound frame and is extremely versatile, having shown the ability to produce on all levels, as well as in the slot (69% in 2019) and on the perimeter. Jeudy is fast (4.45 40-yard dash), agile and a quality route-runner. Jeudy slots in behind Courtland Sutton but has little competition for snaps otherwise and should be an every-down player out of the gate. Jeudy has WR1 upside down the road but should be viewed as a shaky flex option for 2020 in a run-heavy Broncos offense and with Drew Lock still an unknown.",
-      "otherLeagueDraftValue": 0.94
-    },
-    {
-      "name": "Tim Patrick",
-      "auctionPrice": 0,
-      "totalPoints": 163.0,
-      "average": 10.866666666666667,
-      "bio": "",
-      "otherLeagueDraftValue": 0.57
-    },
-    {
-      "name": "T.Y. Hilton",
-      "auctionPrice": 0,
-      "totalPoints": 159.0,
-      "average": 10.6,
-      "bio": "Hilton enters 2020 looking for a rebound following what was essentially a lost season. As if Andrew Luck's shocking August retirement wasn't enough, injuries limited Hilton to only 10 games and a situational role in the second half of the campaign. Hilton was still effective when healthy, ranking 13th in fantasy points during the six weeks he was active prior to Week 9. Hilton is now 30 years old, but has generally held up well, missing only four games during his first seven seasons. He will now have Philip Rivers throwing him passes. Hilton was a top-27 fantasy WR during each of his first seven seasons and remains very much in the WR2 discussion for 2020.",
-      "otherLeagueDraftValue": 0.47
-    },
-    {
-      "name": "Emmanuel Sanders",
-      "auctionPrice": 0,
-      "totalPoints": 157.0,
-      "average": 11.214285714285714,
-      "bio": "Sanders is now 33, but the veteran receiver is well-situated for another season of fantasy relevance after signing with the high-scoring Saints. Sanders is no longer the target hog he was during his prime, but he has nonetheless managed a pair of top-30 fantasy campaigns over the past two seasons. Sanders has seen top-10 finishes in catch rate in both of the past two seasons and figures to work as one of Drew Brees' top targets in the short-to-intermediate area behind Michael Thomas. Sanders is unlikely to be a major asset near the goal line, as he has cleared six touchdowns in a season just once in his career. Nevertheless, he'll see enough volume to warrant weekly flex consideration.",
-      "otherLeagueDraftValue": 0.81
-    },
-    {
-      "name": "Sterling Shepard",
-      "auctionPrice": 1,
-      "totalPoints": 156.0,
-      "average": 13.0,
-      "bio": "Shepard has been a tricky player to figure out so far. The 2016 second-round pick has finished two seasons among the top-eight WRs in routes run, but he's also missed five-plus games in two different seasons and he's yet to finish any season better than No. 30 in fantasy points. Shepard replaced Odell Beckham Jr. as the Giants' No. 1 WR last season -- and he was very busy, handling six-plus targets during all 10 appearances. Only five other players can say the same. Shepard's efficiency was poor, but the volume allowed him the 17th-most fantasy points during those 10 weeks. Shepard will have more competition with a healthier group around him this season, but he's still a legitimate candidate to lead the team in targets. Don't sleep on the 26-year-old when flex hunting.",
-      "otherLeagueDraftValue": 0.94
-    },
-    {
-      "name": "Mike Williams",
-      "auctionPrice": 0,
-      "totalPoints": 155.0,
-      "average": 10.333333333333334,
-      "bio": "Slowly but surely, Williams' pro career continues to progress. The 2017 first-round pick barely played as a rookie, posting a 43-664-10 receiving line in a situational role in 2018. He followed that up with a 49-1,001-2 line as a full-time player in 2019. Last season, Williams paced the NFL in aDOT (17.3) and YPR (20.4) and ranked fourth in YPT (11.0), but dealt with the worst luck in the league in the touchdown department. Williams posted a 6.9 OTD thanks to 11 end-zone targets (tied for eighth most), but scored only twice. The 25-year-old is a strong bet for more touchdowns, but the departure of Philip Rivers hurts his stock. Williams is a more appealing flex choice in non-PPR leagues.",
-      "otherLeagueDraftValue": 1.81
-    },
-    {
-      "name": "Julio Jones",
-      "auctionPrice": 56,
-      "totalPoints": 154.0,
-      "average": 17.11111111111111,
-      "bio": "Jones is now 31 years old but remains an elite fantasy weapon as Matt Ryan's top target in the pass-heavy Atlanta offense. Jones continues to underwhelm in the touchdown department (only 6.2 scores per season since 2014), but he more than makes up for it with both massive targets (10.5 per game over the past two seasons) and receiving yardage (ranked among the top three WRs in each of the past six seasons). Jones' career-low YPT and RAC marks last season are a slight concern for a player now in his 30s, but his heavy usage positions him well for a run at a seventh straight top-seven fantasy campaign. Draft him in the second round.",
-      "otherLeagueDraftValue": 33.84
-    },
-    {
-      "name": "DJ Chark Jr.",
-      "auctionPrice": 12,
-      "totalPoints": 151.0,
-      "average": 11.615384615384615,
-      "bio": "Chark entered 2019 with little fanfare, despite the fact that he was a second-round pick entering his second NFL season and positioned for a significant boost in playing time. It didn't take long for the former LSU star to get noticed. Despite Jacksonville's offensive dysfunction, Chark posted a 73-1,008-8 receiving line. His 12 end-zone targets (over 15 contests) tied for fifth most in the league and only 16 receivers scored more fantasy points. Chark is 23 years old with the size and speed to sustain top-tier production. With Gardner Minshew entering his second season and Jay Gruden perhaps adding a spark to the offense, Chark has the look of a good WR3 with upside.",
-      "otherLeagueDraftValue": 3.15
-    },
-    {
-      "name": "Keelan Cole Sr.",
-      "auctionPrice": 0,
-      "totalPoints": 147.0,
-      "average": 9.1875,
-      "bio": "",
-      "otherLeagueDraftValue": 0.51
-    },
-    {
-      "name": "Darius Slayton",
-      "auctionPrice": 1,
-      "totalPoints": 144.0,
-      "average": 9.0,
-      "bio": "In a performance that was eerily similar (albeit not quite as dominant) to the one of the man he helped replace (Odell Beckham Jr.), Slayton missed the first two games of his rookie season before bursting onto the fantasy scene with eight touchdowns in 14 games. Slayton was on the field for 77% of the Giants' pass plays and was WR27 in fantasy points from Week 3 on. Slayton's touchdown rate is far from sustainable (3.5 OTD), but the 2019 fifth-round pick will enter his second season as New York's primary vertical threat. The New York offense has a lot of mouths to feed, but there's certainly a window for Slayton to become the team's No. 1 wideout. Slayton is safest as a flex in deeper leagues.",
-      "otherLeagueDraftValue": 0.9
-    }
-  ]
-}
+[
+  {
+    "name": "Davante Adams",
+    "position": "WR",
+    "auctionPrice": 49,
+    "totalPoints": 375.0,
+    "average": 26.785714285714285,
+    "bio": "Adams is back as Aaron Rodgers' unquestioned No. 1 target -- a role that has allowed him to post four consecutive seasons as a top-10 WR in fantasy points per game. Adams handled a career-high 31% target share and was fantasy's No. 2-scoring WR during the 12 weeks in which he was active last season. He finished as a top-five WR in 42% of those outings, which trailed only Michael Thomas. The only concern here is durability as Adams has missed at least one regular-season game due to injury in each of the past three seasons, including four 2019 absences. We'll need to dock him slightly for that, but the 27-year-old's massive usage locks him into the top-end WR1 mix.",
+    "otherLeagueDraftValue": 52.95
+  },
+  {
+    "name": "Stefon Diggs",
+    "position": "WR",
+    "auctionPrice": 25,
+    "totalPoints": 350.0,
+    "average": 21.875,
+    "bio": "Diggs was traded to Buffalo during the offseason and will now operate as the Bills' top target. The 26-year-old posted a trio of top-25 fantasy campaigns during his final three seasons in Minnesota, but now moves to a low-volume, run-first Buffalo offense led by the inefficient and scramble-heavy Josh Allen. That figures to lead to a decrease in production for Diggs, which is a concern considering he was only the WR24 last season -- despite Kirk Cousins' extremely efficient campaign and with Adam Thielen sidelined. Diggs, who has never appeared in all 16 games of a regular season, is likely to be over-drafted and is best viewed as only a WR3.",
+    "otherLeagueDraftValue": 30.6
+  },
+  {
+    "name": "Tyreek Hill",
+    "position": "WR",
+    "auctionPrice": 50,
+    "totalPoints": 329.0,
+    "average": 21.933333333333334,
+    "bio": "Hill heads into his fifth NFL season having never finished lower than fourth among WRs in fantasy points per snap. Last season, the speedster missed four games because of injury and saw a slight dip in usage. Still, he remained a dominant fantasy force when active, posting a top-10 week during one-third of his outings (the league's fifth-highest rate). Hill has scored 36 touchdowns in 59 regular-season games and trails only Travis Kelce in target priority on Andy Reid's high-scoring, pass-heavy Chiefs offense led by Patrick Mahomes. Hill is a solid WR1 with added value in non-PPR formats.",
+    "otherLeagueDraftValue": 23.21
+  },
+  {
+    "name": "DeAndre Hopkins",
+    "position": "WR",
+    "auctionPrice": 53,
+    "totalPoints": 313.0,
+    "average": 19.5625,
+    "bio": "Hopkins was traded to the Cardinals during the offseason and will now operate as Kyler Murray's go-to target. A top-five fantasy WR in four of the past five seasons, Hopkins has averaged 10.5 targets per game during that span, which is a mark he should still be able to approach with Arizona. Murray is far from a finished product, but the Cardinals' offense finished 2019 strong with three-plus touchdowns in eight of their final 11 games -- and that was without one of the game's best receivers. At age 28, Hopkins remains an elite fantasy option and should be selected near the first/second-round turn.",
+    "otherLeagueDraftValue": 48.33
+  },
+  {
+    "name": "Calvin Ridley",
+    "position": "WR",
+    "auctionPrice": 21,
+    "totalPoints": 309.0,
+    "average": 20.6,
+    "bio": "Ridley enters his third NFL season as Atlanta's No. 2 wide receiver behind Julio Jones. The 2018 first-round pick impressed during his first two campaigns, catching 69% of his passes and averaging a healthy 8.0 YPT. Ridley took a step forward last season and actually had one of the highest floors in fantasy, finishing 27th or better during nine of his 13 outings. He sat 14th at the position in fantasy points prior to Week 14's season-ending abdomen injury. Especially with Mohamed Sanu and Austin Hooper gone, Ridley's role as Matt Ryan's No. 2 target is safe. The 25-year-old is a fringe top-20 fantasy receiver.",
+    "otherLeagueDraftValue": 27.05
+  },
+  {
+    "name": "Justin Jefferson",
+    "position": "WR",
+    "auctionPrice": 1,
+    "totalPoints": 299.0,
+    "average": 18.6875,
+    "bio": "Minnesota used the 22nd pick of April's draft to select Jefferson ' the de facto replacement for Stefon Diggs. Jefferson is 6-foot-1, 202 pounds with outstanding ball skills and contested-catch ability. The former LSU Tiger also has decent wheels (4.43 40), though he doesn't stand out in terms of perimeter separation or against press, which helps explain why he aligned in the slot 90% of the time in 2019. With only Adam Thielen ahead of him on the depth chart, Jefferson won't be short of playing time as a rookie, which isn't new for the player who paced the FBS with 111 receptions in 2019. Jefferson's 83% catch rate and 18 touchdowns were best in this year's rookie class. Jefferson's short-term upside will be limited by Minnesota's run-heavy offense, but he's still worth a late-round pick.",
+    "otherLeagueDraftValue": 3.3
+  },
+  {
+    "name": "DK Metcalf",
+    "position": "WR",
+    "auctionPrice": 19,
+    "totalPoints": 285.0,
+    "average": 17.8125,
+    "bio": "Metcalf is entering his second NFL season, following an impressive rookie campaign in which he played on 83% of Seattle's snaps and was responsible for 30% of the team's air yards. Metcalf scored seven touchdowns, but was actually unlucky in that department (8.1 OTD), as the Ole Miss product paced the entire NFL in end-zone targets -- his 19 looks were three more than any other player. Metcalf ended the season as fantasy's No. 33 WR, though his role resulted in only one top-12 fantasy week and seven finishes of 40th or worse. Metcalf is only 22 and good bet for a step forward in his second season. Consider him as a WR3 with the upside for a major breakout.",
+    "otherLeagueDraftValue": 44.06
+  },
+  {
+    "name": "Allen Robinson II",
+    "position": "WR",
+    "auctionPrice": 18,
+    "totalPoints": 272.0,
+    "average": 17.0,
+    "bio": "It took a while following a lost 2017 due to a torn ACL and a transition to Chicago in 2018, but Robinson has finally reestablished himself as one of the game's top receivers. Last season, Robinson paced all wide receivers in snaps while ranking no lower than sixth in routes, targets, receptions and end-zone targets. A lack of post-catch production (2.6 RAC) limited Robinson's yardage, but he still managed his second career top-eight fantasy campaign. Robinson enters his age-27 season without a reliable quarterback, but he is in his prime with a generous target share. Consider him to be a solid WR2.",
+    "otherLeagueDraftValue": 28.12
+  },
+  {
+    "name": "Tyler Lockett",
+    "position": "WR",
+    "auctionPrice": 24,
+    "totalPoints": 265.0,
+    "average": 16.5625,
+    "bio": "The 2019 season was Lockett's fifth in the NFL, but his first as Seattle's clear No. 1 wide receiver. It's safe to say he handled himself well, playing through a midseason injury and reaching career-high marks in targets, receptions and yardage. Whereas teammate DK Metcalf paced the NFL in end-zone targets, Lockett finished fourth with 13. Lockett has finished second in catch rate and no lower than 16th in fantasy points both of the past two seasons. His 18 touchdowns are second most at the position during that span. Lockett enters his age-27 season as one of the game's most-efficient receivers and Russell Wilson's top target. He's a solid WR2.",
+    "otherLeagueDraftValue": 31.66
+  },
+  {
+    "name": "A.J. Brown",
+    "position": "WR",
+    "auctionPrice": 26,
+    "totalPoints": 259.0,
+    "average": 18.5,
+    "bio": "Brown is entering his second NFL season after quite the roller-coaster rookie campaign. Following a boom/bust first couple of months, the second-round pick peaked after the Titans' Week 11 bye, posting the second-most fantasy points and four top-10 weeks from that point forward. His five top-10 outings for the season trailed only Michael Thomas for the league high. Brown then crashed back to earth in the playoffs with a mere 64 yards in three games. The inconsistency was frustrating, but Brown appears to be the real deal. His 12.5 YPT and 9.0 RAC both topped the position and he dropped only one of his 84 targets. Brown's TD rate will regress (8 TD, 3.7 OTD), but a boost in volume is probable in Year 2. Consider Ryan Tannehill's top weapon to be a fringe WR2 with upside.",
+    "otherLeagueDraftValue": 25.76
+  },
+  {
+    "name": "Keenan Allen",
+    "position": "WR",
+    "auctionPrice": 22,
+    "totalPoints": 252.0,
+    "average": 18.0,
+    "bio": "Allen enters his eighth NFL season in unfamiliar territory. The 2013 third-round pick has been targeted 758 times in his career -- and 751 of them have come from the hand of Philip Rivers. Rivers, who is now with the Colts, has helped Allen to top-13 finishes in targets, receptions, receiving yards and fantasy points in each of the past three seasons. Even with Rivers, Allen is coming off a very boom/bust fantasy campaign in which he was a top-20 WR in half of his outings, but outside the top 30 during the other half. Allen is still in his prime at age 28 and hasn't missed a game since 2016, but he hasn't scored more than six TDs in any season since 2013. The uncertainty of the Chargers' quarterback situation is a red flag, so Allen is best viewed as a WR2.",
+    "otherLeagueDraftValue": 39.31
+  },
+  {
+    "name": "Mike Evans",
+    "position": "WR",
+    "auctionPrice": 41,
+    "totalPoints": 250.0,
+    "average": 15.625,
+    "bio": "Evans returns as Tampa Bay's top perimeter wide receiver. However, for the first time since his rookie season in 2014, Jameis Winston won't be his primary quarterback. That may not seem ideal after Evans put together four consecutive seasons as a top-17 fantasy WR, but it's very possible that the 26-year-old's efficiency and consistency will actually improve with Tom Brady in town. Evans has ranked near the top of the league in aDOT and YPR throughout his career, but near the basement in both catch rate and RAC. That has led to inconsistent production, including 2019, when 53% of his fantasy point total for the season came during just three games. Even if the big plays are down a bit, Evans will see enough volume and goal-line work (he's never finished lower than ninth in end-zone targets) to reach his third top-10 fantasy campaign.",
+    "otherLeagueDraftValue": 5.21
+  },
+  {
+    "name": "Amari Cooper",
+    "position": "WR",
+    "auctionPrice": 38,
+    "totalPoints": 250.0,
+    "average": 15.625,
+    "bio": "Cooper re-signed with the Cowboys during the offseason and returns as Dak Prescott's top target. In 2019, Cooper produced his fourth 1,000-yard season in five tries while setting career-best marks in receiving yards, touchdowns and fantasy points in his first full campaign with Dallas. Incredibly, Cooper has yet to finish a season higher than 10th in fantasy points but, in five seasons, he has managed to post four 1,000-yard seasons and three seasons in a row with seven-plus TDs. He also has finished among the top receivers in catch rate and YPT for the past two seasons. Cooper doesn't get the same amount of targets of other top-end WRs, but the 26-year-old's top-end talent -- and Dallas' high-scoring offense --secures his spot as a strong WR2.",
+    "otherLeagueDraftValue": 13.44
+  },
+  {
+    "name": "Adam Thielen",
+    "position": "WR",
+    "auctionPrice": 26,
+    "totalPoints": 247.0,
+    "average": 16.466666666666665,
+    "bio": "Following the offseason trade of Stefon Diggs to Buffalo, Thielen enters 2020 as the Vikings' clear-cut top target. Thielen missed six games because of injury last season, but was previously extremely reliable, having not missed a single game during his first five seasons. A top-10 fantasy WR in both 2017 and 2018, Thielen sat ninth prior to his Week 7 injury in 2019. Thielen turns 30 this year and Minnesota's run-heavy offense will limit his ceiling, but he's a safe bet for a generous target share and thus, a high fantasy floor. Grab him as your WR2.",
+    "otherLeagueDraftValue": 24.11
+  },
+  {
+    "name": "Robert Woods",
+    "position": "WR",
+    "auctionPrice": 20,
+    "totalPoints": 243.0,
+    "average": 15.1875,
+    "bio": "Woods doesn't get the headlines, but the 2013 second-round pick has emerged as the high-scoring Rams' No. 1 wide receiver. A top-15 fantasy WR in both of the past two seasons, Woods was targeted nine-plus times in 10 of his 15 games last season. That 67% rate was tied with DJ Moore for fifth best in the league. Woods isn't going to get you many touchdowns, as he's never been above six in a season and saw only two end-zone targets last season. Still, he's a strong bet to push for 130 targets for the third consecutive season. Especially with Brandin Cooks gone, Woods is a fine WR2 target in PPR leagues.",
+    "otherLeagueDraftValue": 6.72
+  },
+  {
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 238.0,
+    "average": 15.866666666666667,
+    "bio": "Cooks was traded to the Texans during the offseason and will compete for targets with Will Fuller V, Randall Cobb and Kenny Stills. At 26, Cooks is still in his prime, but has already been traded three times. Despite the constant movement, he has finished four of the past five seasons as a top-15 fantasy WR. Primarily a vertical threat, Cooks ranked no lower than ninth in YPT in the three seasons prior to an injury-plagued 2019 campaign with the Rams. Concussions are an ongoing concern for Cooks, but, if healthy, he's in good shape as one of Deshaun Watson's top targets. He should be on your flex radar, though there's certainly WR2 upside to be found here.",
+    "otherLeagueDraftValue": 1.52
+  },
+  {
+    "name": "Terry McLaurin",
+    "position": "WR",
+    "auctionPrice": 15,
+    "totalPoints": 235.0,
+    "average": 15.666666666666666,
+    "bio": "Washington drafted McLaurin in the second round of the 2019 draft and it took the Ohio State product just one game to solidify himself as the team's top offensive weapon. McLaurin went on to miss a pair of games due to injury, but ranked 17th in fantasy points during the 14 weeks in which he was active. McLaurin was a bit over his head in the touchdown department (7 TD, 5.8 OTD), but saw a healthy 10 end-zone targets (11th most in the NFL) and his 10.0 YPT was ninth best. The 24-year-old is second-year QB Dwayne Haskins' go-to target and a fringe WR2 in fantasy.",
+    "otherLeagueDraftValue": 17.0
+  },
+  {
+    "name": "Robby Anderson",
+    "position": "WR",
+    "auctionPrice": 2,
+    "totalPoints": 233.0,
+    "average": 14.5625,
+    "bio": "Following four seasons with the Jets, Anderson signed with Carolina during the offseason. Anderson went undrafted in 2016, but went on to appear in 62 of 64 games with New York, hauling in 206 passes for 3,034 yards and 20 touchdowns. Anderson was limited to one strong fantasy campaign (18th in 2017) and finished 39th and 40th in the past two seasons. In Anderson's defense, a position-high 33% of balls thrown his direction were 'off target' last season. In Carolina, the 26-year-old vertical threat will work alongside DJ Moore and Curtis Samuel in Matt Rhule's new-look offense led by QB Teddy Bridgewater. Consistency is unlikely with Christian McCaffrey as the focal point of the Panthers' offense, so Anderson is safest as a borderline flex play in deeper leagues.",
+    "otherLeagueDraftValue": 15.6
+  },
+  {
+    "name": "DJ Moore",
+    "position": "WR",
+    "auctionPrice": 22,
+    "totalPoints": 227.0,
+    "average": 15.133333333333333,
+    "bio": "The first wide receiver selected in the 2018 draft, Moore flashed with a 55-788-2 receiving line as a rookie before enjoying a full-on breakout in 2019. Moore finished as a top-10 WR in routes, targets, receptions and receiving yards. Moore's efficiency has been outstanding, as he has dropped just three of 215 career targets, while dominating with the ball in his hands (5.7 RAC). The one drawback has been a lack of scoring (six career TDs, 8.2 OTD), which has limited his ceiling. He managed only two weekly finishes better than 13th and was fantasy's No. 16 WR in 2019. Moore will have new QB Teddy Bridgewater and new coach Matt Rhule this season, but the 23-year-old's heavy usage is unlikely to change, though perhaps he'll see more goal-line work. He's a fringe WR1.",
+    "otherLeagueDraftValue": 3.65
+  },
+  {
+    "name": "Marvin Jones Jr.",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 227.0,
+    "average": 14.1875,
+    "bio": "Jones, Kenny Golladay and Danny Amendola played 12 games together last season. The target breakdown in those weeks were as follows: Jones had 86 (20% share), Golladay had 85 (20%), and Amendola saw 78 (18%). When Jones was out during Weeks 15-17, Golladay only edged Amendola 23-20 (24%-21%) in that category. This trio is probably closer than you realize in usage, which may lead to Jones being undervalued in fantasy again. He's now 30, but Jones has scored nine touchdowns in two of the past three seasons and was on pace for nine in 2018 prior to an injury. He finished 14th, 27th and 20th in fantasy points per game during that span.",
+    "otherLeagueDraftValue": 0.78
+  },
+  {
+    "name": "Cole Beasley",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 222.0,
+    "average": 14.8,
+    "bio": "Beasley wanted a bigger piece of the pie and he certainly got it in his first season in Buffalo. The undersized slot man set career highs in targets (104) and touchdowns (6) en route to a WR34 finish in fantasy. Despite a generous 19% target share, Beasley's low ceiling remained a problem, as he managed only three weekly finishes better than 26th. Strictly a short-area target, Beasley has finished every season of his career in the 11th percentile or lower in aDOT, and his 2.9 OTD suggests he's headed for regression in the touchdown department. Buffalo's trade for Stefon Diggs will cost Beasley plenty of targets, so the 31-year-old can only be viewed as a low-ceiling bench option in deep PPR leagues.",
+    "otherLeagueDraftValue": 0.75
+  },
+  {
+    "name": "Diontae Johnson",
+    "position": "WR",
+    "auctionPrice": 2,
+    "totalPoints": 219.0,
+    "average": 14.6,
+    "bio": "All things considered, Johnson had a pretty darn impressive rookie season. The 2019 third-round pick was a part-time player for most of the season, but still managed a solid 59-680-5 receiving line on his way to a 39th-place finish in fantasy points. That success came despite his operating in an offense with extremely poor quarterback play. That's unlikely to be an issue again in 2020 with Ben Roethlisberger back from injury. Johnson joins up with JuJu Smith-Schuster, James Washington and rookie Chase Claypool to form one of the league's top young WR groups. Roethlisberger has supported three fantasy-relevant WRs in the past, so it's certainly possible for multiple receivers to shine in Pittsburgh's pass-heavy offense. Consider Johnson as a flex target with upside.",
+    "otherLeagueDraftValue": 2.89
+  },
+  {
+    "name": "Cooper Kupp",
+    "position": "WR",
+    "auctionPrice": 29,
+    "totalPoints": 218.0,
+    "average": 14.533333333333333,
+    "bio": "Kupp is a very tricky evaluation following a bizarre 2019 campaign that can be split into two distinct parts. During Weeks 1-12, Kupp played on 87% of snaps and handled a 25% target share. With Tyler Higbee taking on a larger role during Weeks 13-17, those rates dropped to 63% and 15%, respectively. Kupp still ended up fourth in fantasy points due to the strong start and an unsustainable level of touchdown production (10 TD, 5.6 OTD), but we can't overlook the Rams' scheme change in December. The departure of Brandin Cooks definitely helps, but Kupp is now safest-viewed as a mid-to-back-end WR2.",
+    "otherLeagueDraftValue": 12.43
+  },
+  {
+    "name": "JuJu Smith-Schuster",
+    "position": "WR",
+    "auctionPrice": 35,
+    "totalPoints": 216.0,
+    "average": 13.5,
+    "bio": "Smith-Schuster enters 2020 looking to bounce back after a rough 2019 season marred by Ben Roethlisberger's season-ending injury in Week 2, as well as various injuries of his own. After pacing all wide receivers in routes run and finishing top 10 in targets, receptions, receiving yards, end-zone targets and fantasy points during a breakout 2018 campaign, Smith-Schuster was held to a 41-542-3 line in 12 games of \"QB purgatory\" last season. Smith-Schuster is still only 23 years old and a strong bet for a rebound season with Roethlisberger back in action. Consider him to be a WR2 with upside.",
+    "otherLeagueDraftValue": 3.45
+  },
+  {
+    "name": "CeeDee Lamb",
+    "position": "WR",
+    "auctionPrice": 1,
+    "totalPoints": 216.0,
+    "average": 13.5,
+    "bio": "Dallas selected Lamb with the 17th pick of April's draft. The Oklahoma product is fresh off a dominant 2019 campaign, in which he averaged 14.3 yards per target, 4.0 yards per route run and 11.1 yards after the catch ' all of which were best in this year's rookie class. Lamb is lean (198 pounds) but tall (6-foot-2) with solid speed (4.50 40-yard dash), as well as terrific separation and post-catch ability. Lamb is in and Randall Cobb out behind Amari Cooper and Michael Gallup, and so, while being third in line will limit Lamb's upside, note that all three 2019 Cowboys receivers were top 31 in fantasy points during 13 full weeks together. Add in Mike McCarthy's history of heavy reliance on three-wide sets and Lamb could flirt with flex value. He is a worth a late-round pick.",
+    "otherLeagueDraftValue": 1.28
+  },
+  {
+    "name": "Chase Claypool",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 211.0,
+    "average": 13.1875,
+    "bio": "Pittsburgh drafted Claypool in the second round of April's draft. Claypool is a huge (6-foot-4, 238 pounds) and physical receiver with terrific speed (4.42 40-yard dash) and playmaking ability. The Notre Dame product's NFL role has yet to be determined, as he has experience as a perimeter receiver, but some teams also preferred him at tight end. Regardless, Claypool is unlikely to find his way to short-term fantasy value with JuJu Smith-Schuster, Diontae Johnson and James Washington ahead of him on the depth chart. He doesn't need to be drafted in 2020 leagues.",
+    "otherLeagueDraftValue": 7.16
+  },
+  {
+    "name": "Curtis Samuel",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 211.0,
+    "average": 14.066666666666666,
+    "bio": "Samuel's career advanced another step last season as the 2017 second-round pick appeared in 16 games for the first time in his career and posted career-high totals in receptions, receiving yards and touchdowns. His efficiency wasn't good (51% catch rate, 5.9 YPT), although some of that can be blamed on a 28% off-target rate (eighth highest in the NFL). Samuel did finish as 2019's No. 26 fantasy WR, thanks in part to his also being a factor as a rusher (19-130-1 on the ground). He is sure to sustain a significant role in Matt Rhule's new-look offense, but Carolina's signing of Robby Anderson is sure to cost Samuel targets. As such, he's only a flex option in deeper leagues.",
+    "otherLeagueDraftValue": 0.18
+  },
+  {
+    "name": "Corey Davis",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 210.0,
+    "average": 15.0,
+    "bio": "Davis is entering his fourth NFL season having yet to emerge as a go-to target after being drafted with the fifth overall pick of the 2017 draft. Davis did take a bit of a leap with a 65-891-4 receiving line in 2018, but plummeted to 43-601-2 last season as then-rookie A.J. Brown took over as the Titans' No. 1 receiver. Despite standing 6-foot-3, Davis has scored a grand total of six touchdowns in three seasons. The 25-year-old could still make a leap forward, but he's a long shot for consistent fantasy value in Tennessee's run-heavy scheme.",
+    "otherLeagueDraftValue": 0.64
+  },
+  {
+    "name": "Will Fuller V",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 209.0,
+    "average": 19.0,
+    "bio": "The Texans traded away DeAndre Hopkins during the offseason, which should vault 2016 first-round pick Fuller to a full-on fantasy breakout. The problem, of course, is that Fuller is entering his fifth NFL season having already missed 34% of his team's games because of injury. That number includes five games last season. The good news is that, when healthy, Fuller has been heavily targeted and productive. In nine full games last season, he handled 7.7 targets per game (a 25% share) and trailed Hopkins by only nine total targets. He was fantasy's No. 13 WR in those weeks. It's hard to expect a full season from the oft-injured receiver, but Fuller undoubtedly still has massive upside. The 26-year-old is best viewed as a flex.",
+    "otherLeagueDraftValue": 8.95
+  },
+  {
+    "name": "Tyler Boyd",
+    "position": "WR",
+    "auctionPrice": 3,
+    "totalPoints": 195.0,
+    "average": 13.0,
+    "bio": "Boyd seemed like a total bust through his first two seasons in the league, but the Bengals' slot man has completely shed that label with a pair of top-18 fantasy campaigns. With A.J. Green sidelined last season, Boyd finished no lower than eighth among receivers in snaps, routes run, targets and receptions. Weak quarterback play led to underwhelming efficiency numbers, but it's very possible that will improve with No. 1 overall pick Joe Burrow under center. Boyd isn't going to get you many TDs (12 TD, 7.7 OTD, 7 end zone targets over the past two seasons) and his targets will take a slight hit with the combination of Green's return and rookie Tee Higgins joining the fold. Still, the 25-year-old short-area weapon will rack up plenty of catches. Consider Boyd to be a fine WR3 in PPR formats.",
+    "otherLeagueDraftValue": 6.54
+  },
+  {
+    "name": "Tee Higgins",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 191.0,
+    "average": 11.9375,
+    "bio": "The Bengals selected Higgins with the 33rd pick of April's draft. Higgins checks in at 6-foot-4, 216 pounds and has drawn comparisons to new teammate A.J. Green due to his frame, catch radius and terrific ball skills. The Clemson product profiles as a perimeter receiver (19% slot last season) who will do a lot of his damage downfield (14.6 aDOT) and near the goal line. Higgins averaged 3.8 yards per route run in 2019, which was second-best in this year's rookie class. Higgins has the talent to eventually emerge as a fantasy force (and perhaps even Joe Burrow's top target), but it might take some time for him to see the field, with Green, Tyler Boyd and John Ross also on the 2020 depth chart. He's barely worth a late-round pick in 2020 leagues.",
+    "otherLeagueDraftValue": 2.99
+  },
+  {
+    "name": "Nelson Agholor",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 191.0,
+    "average": 11.9375,
+    "bio": "",
+    "otherLeagueDraftValue": 0.04
+  },
+  {
+    "name": "Brandon Aiyuk",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 184.0,
+    "average": 15.333333333333334,
+    "bio": "San Francisco selected Aiyuk with the 25th pick of April's draft. Aiyuk comes in at 6-foot, 205 pounds with 4.50 40-yard speed, as well as terrific explosiveness and route-running ability. The Arizona State product's best asset is his post-catch production (10.5 RAC in 2019), which helped him to plenty of big plays at ASU. Aiyuk doesn't have a ton of competition for early-career snaps, but he should be considered a long shot for weekly fantasy value in a super-run-heavy 49ers' offense that will lean heavily on George Kittle and Deebo Samuel. He's worth only a late-round pick.",
+    "otherLeagueDraftValue": 0.42
+  },
+  {
+    "name": "Chris Godwin",
+    "position": "WR",
+    "auctionPrice": 41,
+    "totalPoints": 183.0,
+    "average": 15.25,
+    "bio": "Godwin is entering his fourth NFL season and his second as a full-time player. His first season as a full-timer went, in a word, well. Inexplicably a situational player under Dirk Koetter, Godwin finished 2019 ranked as a top-10 WR in snaps, routes, yardage and touchdowns. He finished fourth at the position in catch rate (72%) and RAC (6.6) and was first in first-down rate (50%). Godwin is a candidate for touchdown regression (9 TD, 5.1 OTD) in 2020 and will have a new quarterback in Tom Brady, but the 24-year-old appears to be the real deal. Consider him as a solid WR1.",
+    "otherLeagueDraftValue": 14.12
+  },
+  {
+    "name": "Jarvis Landry",
+    "position": "WR",
+    "auctionPrice": 9,
+    "totalPoints": 181.0,
+    "average": 12.066666666666666,
+    "bio": "Landry was expected to see a big dip in production last season following the Browns' trade for Odell Beckham Jr. Instead, Cleveland's slot man had one of his best NFL seasons and actually out-targeted his teammate 139-132. Landry set a career-high in receiving yardage (1,174) and YPR (14.1) en route to his fifth consecutive top-18 fantasy campaign. Landry has proved to be super reliable, having never missed a game in six seasons and checking in as one of just six players who were targeted in 100% of his 2019 games. New coach Kevin Stefanski could shake things up a bit, but Landry's connection with Baker Mayfield is solid, making him a fine WR3 target.",
+    "otherLeagueDraftValue": 0.63
+  },
+  {
+    "name": "Jamison Crowder",
+    "position": "WR",
+    "auctionPrice": 1,
+    "totalPoints": 178.0,
+    "average": 14.833333333333334,
+    "bio": "Crowder has emerged as one of the game's top slot/short-area targets and that skill was on full display in his first season with the Jets. The longtime slot man in Washington posted a healthy 78-833-6 receiving line in New York, leading to a 26th-place finish in fantasy points. Crowder finished near the basement of the position in aDOT (8.1) for the fifth time in as many seasons, which limited big plays (6.8 YPT), but allowed him to soak up receptions (16th most). At 5-foot-8, 185 pounds, Crowder won't get you many touchdowns. Heck, he has only 20 career end zone targets. Still, Sam Darnold's top option will catch enough passes to allow for flex production in PPR leagues.",
+    "otherLeagueDraftValue": 15.35
+  },
+  {
+    "name": "Marquise Brown",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 177.0,
+    "average": 11.0625,
+    "bio": "Baltimore selected Brown in the first round of the 2019 draft and the speedster was immediately slotted in as the team's top wide receiver by default. Brown's boom/bust rookie campaign began with his best game in Week 1 (4-147-2) followed by mixed results (including a pair of missed games) the rest of the way. Brown ended up as the WR46 on the season, thanks to seven touchdowns on 69 targets. His 10.1% TD rate was second highest at the position and certainly unsustainable. Brown is an obvious bet for a boost in targets in his second season as Lamar Jackson's top perimeter target. The 23-year-old is a breakout candidate and a sharp flex target.",
+    "otherLeagueDraftValue": 6.8
+  },
+  {
+    "name": "Russell Gage",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 175.0,
+    "average": 10.9375,
+    "bio": "Gage is an intriguing deep sleeper this season after the Falcons failed to address the WR position during free agency and the draft. The 2018 sixth-round pick was promoted to slot duties in Atlanta's pass-heavy offense last season following the trade of Mohamed Sanu. Counting only weeks in which Julio Jones and Calvin Ridley also played, Gage handled a 16% target share and was the WR40 for fantasy. Especially with Austin Hooper no longer in the fold, Gage is well-positioned for a similar role in his third NFL season. Consider him late in deep PPR leagues.",
+    "otherLeagueDraftValue": 0.03
+  },
+  {
+    "name": "DeVante Parker",
+    "position": "WR",
+    "auctionPrice": 6,
+    "totalPoints": 172.0,
+    "average": 12.285714285714286,
+    "bio": "It's not often that a player realizes his potential in his fifth NFL season, but that was exactly what happened for Parker last season. After failing to post a single top-50 campaign while totaling nine touchdowns during his first four seasons in Miami, Parker exploded for a 72-1,202-9 receiving line in his first year working with Brian Flores. He ended up as fantasy's No. 11 WR and finished top five in routes run, receiving yards and touchdowns. The 27-year-old has first-round pedigree and had suffered through several injuries, so the leap wasn't a major shock, but we also should proceed with caution in 2020. Miami's top offensive target is safest when targeted as a WR3.",
+    "otherLeagueDraftValue": 1.74
+  },
+  {
+    "name": "Michael Gallup",
+    "position": "WR",
+    "auctionPrice": 6,
+    "totalPoints": 172.0,
+    "average": 10.75,
+    "bio": "Most would agree that Gallup is the Cowboys' No. 2 wideout behind Amari Cooper, but it's not as clear-cut as you might think. In 13 full games together last season, Gallup played on 44 more snaps and was targeted four more times than his counterpart. Both were top-10 fantasy receivers during those weeks. Gallup looks like the real deal following a breakout second season in which he posted a 66-1,107-6 receiving line and ranked ninth among wide receivers with a 16.8 YPR. The 24-year-old has solidified himself as one of Dak Prescott's go-to targets and, even though his workload could drop slightly with CeeDee Lamb in the mix, he could make up for some of that with more usage near the goal line. He had only three end-zone targets last season. Consider Gallup as a borderline WR3.",
+    "otherLeagueDraftValue": 0.11
+  },
+  {
+    "name": "Jerry Jeudy",
+    "position": "WR",
+    "auctionPrice": 6,
+    "totalPoints": 163.0,
+    "average": 10.1875,
+    "bio": "Denver selected Jeudy with the 15th pick of April's draft. The Alabama product sports a 6-foot-1, 193-pound frame and is extremely versatile, having shown the ability to produce on all levels, as well as in the slot (69% in 2019) and on the perimeter. Jeudy is fast (4.45 40-yard dash), agile and a quality route-runner. Jeudy slots in behind Courtland Sutton but has little competition for snaps otherwise and should be an every-down player out of the gate. Jeudy has WR1 upside down the road but should be viewed as a shaky flex option for 2020 in a run-heavy Broncos offense and with Drew Lock still an unknown.",
+    "otherLeagueDraftValue": 0.94
+  },
+  {
+    "name": "Tim Patrick",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 163.0,
+    "average": 10.866666666666667,
+    "bio": "",
+    "otherLeagueDraftValue": 0.57
+  },
+  {
+    "name": "T.Y. Hilton",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 159.0,
+    "average": 10.6,
+    "bio": "Hilton enters 2020 looking for a rebound following what was essentially a lost season. As if Andrew Luck's shocking August retirement wasn't enough, injuries limited Hilton to only 10 games and a situational role in the second half of the campaign. Hilton was still effective when healthy, ranking 13th in fantasy points during the six weeks he was active prior to Week 9. Hilton is now 30 years old, but has generally held up well, missing only four games during his first seven seasons. He will now have Philip Rivers throwing him passes. Hilton was a top-27 fantasy WR during each of his first seven seasons and remains very much in the WR2 discussion for 2020.",
+    "otherLeagueDraftValue": 0.47
+  },
+  {
+    "name": "Emmanuel Sanders",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 157.0,
+    "average": 11.214285714285714,
+    "bio": "Sanders is now 33, but the veteran receiver is well-situated for another season of fantasy relevance after signing with the high-scoring Saints. Sanders is no longer the target hog he was during his prime, but he has nonetheless managed a pair of top-30 fantasy campaigns over the past two seasons. Sanders has seen top-10 finishes in catch rate in both of the past two seasons and figures to work as one of Drew Brees' top targets in the short-to-intermediate area behind Michael Thomas. Sanders is unlikely to be a major asset near the goal line, as he has cleared six touchdowns in a season just once in his career. Nevertheless, he'll see enough volume to warrant weekly flex consideration.",
+    "otherLeagueDraftValue": 0.81
+  },
+  {
+    "name": "Sterling Shepard",
+    "position": "WR",
+    "auctionPrice": 1,
+    "totalPoints": 156.0,
+    "average": 13.0,
+    "bio": "Shepard has been a tricky player to figure out so far. The 2016 second-round pick has finished two seasons among the top-eight WRs in routes run, but he's also missed five-plus games in two different seasons and he's yet to finish any season better than No. 30 in fantasy points. Shepard replaced Odell Beckham Jr. as the Giants' No. 1 WR last season -- and he was very busy, handling six-plus targets during all 10 appearances. Only five other players can say the same. Shepard's efficiency was poor, but the volume allowed him the 17th-most fantasy points during those 10 weeks. Shepard will have more competition with a healthier group around him this season, but he's still a legitimate candidate to lead the team in targets. Don't sleep on the 26-year-old when flex hunting.",
+    "otherLeagueDraftValue": 0.94
+  },
+  {
+    "name": "Mike Williams",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 155.0,
+    "average": 10.333333333333334,
+    "bio": "Slowly but surely, Williams' pro career continues to progress. The 2017 first-round pick barely played as a rookie, posting a 43-664-10 receiving line in a situational role in 2018. He followed that up with a 49-1,001-2 line as a full-time player in 2019. Last season, Williams paced the NFL in aDOT (17.3) and YPR (20.4) and ranked fourth in YPT (11.0), but dealt with the worst luck in the league in the touchdown department. Williams posted a 6.9 OTD thanks to 11 end-zone targets (tied for eighth most), but scored only twice. The 25-year-old is a strong bet for more touchdowns, but the departure of Philip Rivers hurts his stock. Williams is a more appealing flex choice in non-PPR leagues.",
+    "otherLeagueDraftValue": 1.81
+  },
+  {
+    "name": "Julio Jones",
+    "position": "WR",
+    "auctionPrice": 56,
+    "totalPoints": 154.0,
+    "average": 17.11111111111111,
+    "bio": "Jones is now 31 years old but remains an elite fantasy weapon as Matt Ryan's top target in the pass-heavy Atlanta offense. Jones continues to underwhelm in the touchdown department (only 6.2 scores per season since 2014), but he more than makes up for it with both massive targets (10.5 per game over the past two seasons) and receiving yardage (ranked among the top three WRs in each of the past six seasons). Jones' career-low YPT and RAC marks last season are a slight concern for a player now in his 30s, but his heavy usage positions him well for a run at a seventh straight top-seven fantasy campaign. Draft him in the second round.",
+    "otherLeagueDraftValue": 33.84
+  },
+  {
+    "name": "DJ Chark Jr.",
+    "position": "WR",
+    "auctionPrice": 12,
+    "totalPoints": 151.0,
+    "average": 11.615384615384615,
+    "bio": "Chark entered 2019 with little fanfare, despite the fact that he was a second-round pick entering his second NFL season and positioned for a significant boost in playing time. It didn't take long for the former LSU star to get noticed. Despite Jacksonville's offensive dysfunction, Chark posted a 73-1,008-8 receiving line. His 12 end-zone targets (over 15 contests) tied for fifth most in the league and only 16 receivers scored more fantasy points. Chark is 23 years old with the size and speed to sustain top-tier production. With Gardner Minshew entering his second season and Jay Gruden perhaps adding a spark to the offense, Chark has the look of a good WR3 with upside.",
+    "otherLeagueDraftValue": 3.15
+  },
+  {
+    "name": "Keelan Cole Sr.",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 147.0,
+    "average": 9.1875,
+    "bio": "",
+    "otherLeagueDraftValue": 0.51
+  },
+  {
+    "name": "Darius Slayton",
+    "position": "WR",
+    "auctionPrice": 1,
+    "totalPoints": 144.0,
+    "average": 9.0,
+    "bio": "In a performance that was eerily similar (albeit not quite as dominant) to the one of the man he helped replace (Odell Beckham Jr.), Slayton missed the first two games of his rookie season before bursting onto the fantasy scene with eight touchdowns in 14 games. Slayton was on the field for 77% of the Giants' pass plays and was WR27 in fantasy points from Week 3 on. Slayton's touchdown rate is far from sustainable (3.5 OTD), but the 2019 fifth-round pick will enter his second season as New York's primary vertical threat. The New York offense has a lot of mouths to feed, but there's certainly a window for Slayton to become the team's No. 1 wideout. Slayton is safest as a flex in deeper leagues.",
+    "otherLeagueDraftValue": 0.9
+  }
+]
