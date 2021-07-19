@@ -1,8 +1,7 @@
-import React, { useState, useRef, useEffect } from 'react';
-import Transition from '../../utils/Transition.js';
+import React, { useState, useRef, useEffect } from "react";
+import Transition from "../../utils/Transition.js";
 
 function FilterButton() {
-
   const [dropdownOpen, setDropdownOpen] = useState(false);
 
   const trigger = useRef(null);
@@ -11,11 +10,16 @@ function FilterButton() {
   // close on click outside
   useEffect(() => {
     const clickHandler = ({ target }) => {
-      if (!dropdownOpen || dropdown.current.contains(target) || trigger.current.contains(target)) return;
+      if (
+        !dropdownOpen ||
+        dropdown.current.contains(target) ||
+        trigger.current.contains(target)
+      )
+        return;
       setDropdownOpen(false);
     };
-    document.addEventListener('click', clickHandler);
-    return () => document.removeEventListener('click', clickHandler);
+    document.addEventListener("click", clickHandler);
+    return () => document.removeEventListener("click", clickHandler);
   });
 
   // close if the esc key is pressed
@@ -24,21 +28,23 @@ function FilterButton() {
       if (!dropdownOpen || keyCode !== 27) return;
       setDropdownOpen(false);
     };
-    document.addEventListener('keydown', keyHandler);
-    return () => document.removeEventListener('keydown', keyHandler);
+    document.addEventListener("keydown", keyHandler);
+    return () => document.removeEventListener("keydown", keyHandler);
   });
 
   return (
     <div className="relative inline-flex">
       <button
         ref={trigger}
-        className="btn bg-white border-gray-200 hover:border-gray-300 text-gray-500 hover:text-gray-600"
+        className="btn bg-white border-gray-200 hover:border-gray-300 text-gray-500 hover:text-gray-600 width-10"
         aria-haspopup="true"
         onClick={() => setDropdownOpen(!dropdownOpen)}
         aria-expanded={dropdownOpen}
       >
-        <span className="sr-only">Filter</span><wbr />
-        <svg className="w-4 h-4 fill-current" viewBox="0 0 16 16">
+        <span className="sr-only">Filter</span>
+        <wbr />
+        Filters
+        <svg className=" ml-4 w-4 h-4 fill-current" viewBox="0 0 16 16">
           <path d="M9 15H7a1 1 0 010-2h2a1 1 0 010 2zM11 11H5a1 1 0 010-2h6a1 1 0 010 2zM13 7H3a1 1 0 010-2h10a1 1 0 010 2zM15 3H1a1 1 0 010-2h14a1 1 0 010 2z" />
         </svg>
       </button>
@@ -54,52 +60,50 @@ function FilterButton() {
         leaveEnd="opacity-0"
       >
         <div ref={dropdown}>
-          <div className="text-xs font-semibold text-gray-400 uppercase pt-1.5 pb-2 px-4">Filters</div>
+          <div className="text-xs font-semibold text-gray-400 uppercase pt-1.5 pb-2 px-4">
+            Filters
+          </div>
           <ul className="mb-4">
             <li className="py-1 px-3">
               <label className="flex items-center">
                 <input type="checkbox" className="form-checkbox" />
-                <span className="text-sm font-medium ml-2">Direct VS Indirect</span>
+                <span className="text-sm font-medium ml-2">QB</span>
               </label>
             </li>
             <li className="py-1 px-3">
               <label className="flex items-center">
                 <input type="checkbox" className="form-checkbox" />
-                <span className="text-sm font-medium ml-2">Real Time Value</span>
+                <span className="text-sm font-medium ml-2">RB</span>
               </label>
             </li>
             <li className="py-1 px-3">
               <label className="flex items-center">
                 <input type="checkbox" className="form-checkbox" />
-                <span className="text-sm font-medium ml-2">Top Channels</span>
+                <span className="text-sm font-medium ml-2">WR</span>
               </label>
             </li>
             <li className="py-1 px-3">
               <label className="flex items-center">
                 <input type="checkbox" className="form-checkbox" />
-                <span className="text-sm font-medium ml-2">Sales VS Refunds</span>
-              </label>
-            </li>
-            <li className="py-1 px-3">
-              <label className="flex items-center">
-                <input type="checkbox" className="form-checkbox" />
-                <span className="text-sm font-medium ml-2">Last Order</span>
-              </label>
-            </li>
-            <li className="py-1 px-3">
-              <label className="flex items-center">
-                <input type="checkbox" className="form-checkbox" />
-                <span className="text-sm font-medium ml-2">Total Spent</span>
+                <span className="text-sm font-medium ml-2">TE</span>
               </label>
             </li>
           </ul>
           <div className="py-2 px-3 border-t border-gray-200 bg-gray-50">
             <ul className="flex items-center justify-between">
               <li>
-                <button className="btn-xs bg-white border-gray-200 hover:border-gray-300 text-gray-500 hover:text-gray-600">Clear</button>
+                <button className="btn-xs bg-white border-gray-200 hover:border-gray-300 text-gray-500 hover:text-gray-600">
+                  Clear
+                </button>
               </li>
               <li>
-                <button className="btn-xs bg-indigo-500 hover:bg-indigo-600 text-white" onClick={() => setDropdownOpen(false)} onBlur={() => setDropdownOpen(false)}>Apply</button>
+                <button
+                  className="btn-xs bg-indigo-500 hover:bg-indigo-600 text-white"
+                  onClick={() => setDropdownOpen(false)}
+                  onBlur={() => setDropdownOpen(false)}
+                >
+                  Apply
+                </button>
               </li>
             </ul>
           </div>
