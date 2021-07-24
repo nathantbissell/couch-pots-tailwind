@@ -15,14 +15,14 @@ export default function Players() {
     fetchAxios();
   }, []);
 
-  const getPlayersByPointValue = (points) => {
-    let result = data.players.filter((player) => player.totalPoints > points);
+  const getPlayersByFilter= (pos, points) => {
+    let result = data.players.filter((player) => (player.totalPoints > points) && (player.position === pos));
     return result;
   };
 
   return (
     <div className="grid grid-cols-12 gap-6">
-      {getPlayersByPointValue(300).map((filteredPlayer) => (
+      {getPlayersByFilter("QB", 300).map((filteredPlayer) => (
         <DashboardCard04
           name={filteredPlayer.name}
           totalPoints={filteredPlayer.totalPoints}
