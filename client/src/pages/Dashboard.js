@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Players from "./Players";
+import Players from "./playerViews/Players";
 import Sidebar from "../partials/Sidebar";
 import Header from "../partials/Header";
 import WelcomeBanner from "../partials/dashboard/WelcomeBanner";

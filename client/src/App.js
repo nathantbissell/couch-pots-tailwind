@@ -9,7 +9,7 @@ import "./charts/ChartjsConfig";
 // Import pages
 import Dashboard from "./pages/Dashboard";
 import Stats from "./pages/Stats";
-import Players from "./pages/Players";
+import Players from "./pages/playerViews/Players";
 
 function App() {
   const location = useLocation();
