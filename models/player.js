@@ -1,6 +1,6 @@
-const { Decimal128 } = require("mongodb");
-const { Double } = require("mongodb");
-const mongoose = require("mongoose");
+const { Decimal128 } = require('mongodb');
+const { Double } = require('mongodb');
+const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
 const playerSchema = Schema({
@@ -8,11 +8,11 @@ const playerSchema = Schema({
   position: String,
   auctionPrice: Number,
   totalPoints: Number,
-  average: Decimal128,
+  average: Number,
   bio: String,
-  otherLeagueDraftValue: Decimal128,
+  otherLeagueDraftValue: Number,
 });
 
-const Model = mongoose.model("Player", playerSchema, "players");
+const Model = mongoose.model('Player', playerSchema, 'players');
 
 module.exports = Model;

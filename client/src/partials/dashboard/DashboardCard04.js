@@ -28,7 +28,7 @@ function DashboardCard04(props) {
         categoryPercentage: 0.66,
       },
       {
-        label: 'League Premium',
+        label: 'Couch Pots Premium Price',
         data: [auctionPrice - otherLeagueDraftValue],
         backgroundColor: tailwindConfig().theme.colors.yellow[500],
         hoverBackgroundColor: tailwindConfig().theme.colors.yellow[600],
@@ -41,7 +41,7 @@ function DashboardCard04(props) {
   return (
     <div className="flex flex-col col-span-full sm:col-span-6 bg-white shadow-lg rounded-sm border border-gray-200">
       <div class="flex items-start mt-5 ml-5">
-        <div class="text-3xl font-bold text-gray-800">{name}</div>
+        <div class="text-3xl font-bold text-gray-800 ml-3">{name}</div>
         <div class="text-sm font-semibold text-white px-1.5 bg-green-500 rounded-full mt-2 ml-60">
           {totalPoints} pts
         </div>
