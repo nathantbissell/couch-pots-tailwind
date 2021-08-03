@@ -57,7 +57,7 @@ export default function Players() {
 
   return (
     <div className="grid grid-cols-12 gap-6">
-      {getPlayersByFilter('', 300).map((filteredPlayer) => (
+      {getPlayersByFilter('', 0).map((filteredPlayer) => (
         <DashboardCard04
           name={filteredPlayer.name}
           totalPoints={filteredPlayer.totalPoints}
