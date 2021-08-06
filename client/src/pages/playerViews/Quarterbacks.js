@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import DashboardCardBasic from '../../partials/dashboard/DashboardCardBasic';
 import DashboardCard04 from '../../partials/dashboard/DashboardCard04';
 
 export default function Players() {
@@ -57,7 +56,7 @@ export default function Players() {
 
   return (
     <div className="grid grid-cols-12 gap-6">
-      {getPlayersByFilter('', 350).map((filteredPlayer) => (
+      {getPlayersByFilter('QB', 100).map((filteredPlayer) => (
         <DashboardCard04
           name={filteredPlayer.name}
           totalPoints={filteredPlayer.totalPoints}

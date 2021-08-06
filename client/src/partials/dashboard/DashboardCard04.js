@@ -42,7 +42,7 @@ function DashboardCard04(props) {
     <div className="flex flex-col col-span-full sm:col-span-6 bg-white shadow-lg rounded-sm border border-gray-200">
       <div class="flex items-start mt-5 ml-5">
         <div class="text-3xl font-bold text-gray-800 ml-3">{name}</div>
-        <div class="text-sm font-semibold text-white px-1.5 bg-green-500 rounded-full mt-2 ml-60">
+        <div class="text-lg font-semibold text-white px-5 bg-green-500 mt-2 ml-20">
           {totalPoints} pts
         </div>
       </div>
