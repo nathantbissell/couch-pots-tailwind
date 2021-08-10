@@ -92,7 +92,7 @@ export default function Players() {
       setInitialState(result.data);
     }
     fetchAxios();
-    if (data.length === 0) {
+    if (data.players.length === 0) {
       setData(basePlayers);
       setInitialState(basePlayers);
     }
@@ -116,18 +116,12 @@ export default function Players() {
     if (points === '') {
       points = 0;
     }
-
-    let filterResult = filterArray.filter(
+    let filterResult = { players: [] };
+    filterResult.players = filterArray.players.filter(
       (player) => player.position === pos && player.totalPoints >= points
     );
     setData(filterResult);
   };
-
-  // const resetPlayerArray = (prevState) => {
-  //   if (copy !== data && copy !== basePlayers) {
-  //     setData(copy);
-  //   }
-  // };
 
   return (
     <div>
