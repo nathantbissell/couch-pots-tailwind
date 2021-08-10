@@ -4,7 +4,7 @@ import DashboardCard04 from '../../partials/dashboard/DashboardCard04';
 
 export default function Players() {
   const [data, setData] = useState({ players: [] });
-  const [dataCopy, setDataCopy] = useState({ players: [] });
+  const [initial, setInitialState] = useState({ players: [] });
   const [pts, setPts] = useState(0);
   const [pos, setPos] = useState('');
   const localhost = 'http://localhost:5000';
@@ -89,23 +89,27 @@ export default function Players() {
     async function fetchAxios() {
       const result = await axios(`${localhost}/players`);
       setData(result.data);
-      setDataCopy(result.data);
+      setInitialState(result.data);
     }
     fetchAxios();
-    if (data.players.length === 0) {
+    if (data.length === 0) {
       setData(basePlayers);
-      setDataCopy(basePlayers);
+      setInitialState(basePlayers);
     }
   }, []);
 
   const handleSubmit = (evt) => {
     evt.preventDefault();
-    resetPlayerArray();
+    if (initial !== data) {
+      setData(initial);
+    }
     filterPlayersByForm(pos, pts);
+    // setCopy((prevState) => [...prevState]);
   };
 
   const filterPlayersByForm = (pos, points) => {
-    let result = data;
+    let filterArray = initial;
+
     if (pos === '') {
       pos = 'QB';
     }
@@ -113,11 +117,17 @@ export default function Players() {
       points = 0;
     }
 
-    result.players = data.players.filter(
+    let filterResult = filterArray.filter(
       (player) => player.position === pos && player.totalPoints >= points
     );
-    setData(result);
+    setData(filterResult);
   };
+
+  // const resetPlayerArray = (prevState) => {
+  //   if (copy !== data && copy !== basePlayers) {
+  //     setData(copy);
+  //   }
+  // };
 
   return (
     <div>
@@ -157,15 +167,15 @@ export default function Players() {
         </form>
       </div>
       <div className="grid grid-cols-12 gap-6">
-        {data.players &&
-          data.players.map((player) => (
-            <DashboardCard04
-              name={player.name}
-              totalPoints={player.totalPoints}
-              auctionPrice={player.auctionPrice}
-              otherLeagueDraftValue={player.otherLeagueDraftValue}
-            />
-          ))}
+        {data.players.map((player) => (
+          <DashboardCard04
+            key={player._id}
+            name={player.name}
+            totalPoints={player.totalPoints}
+            auctionPrice={player.auctionPrice}
+            otherLeagueDraftValue={player.otherLeagueDraftValue}
+          />
+        ))}
       </div>
     </div>
   );

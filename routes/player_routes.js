@@ -1,17 +1,17 @@
-const express = require("express");
+const express = require('express');
 const router = express.Router();
-const Player = require("../models/player");
-const qblist = require("../jsonFiles/formattedRankings/qb.json");
-const rblist = require("../jsonFiles/formattedRankings/rb.json");
-const telist = require("../jsonFiles/formattedRankings/te.json");
-const wrlist = require("../jsonFiles/formattedRankings/wr.json");
+const Player = require('../models/player');
+const qblist = require('../jsonFiles/formattedRankings/qb.json');
+const rblist = require('../jsonFiles/formattedRankings/rb.json');
+const telist = require('../jsonFiles/formattedRankings/te.json');
+const wrlist = require('../jsonFiles/formattedRankings/wr.json');
 
 // Player.create({ name: "Matt Ryan", position: "QB" }, function (err) {
 //   if (err) return handleError(err);
 //   // saved!
 // });
 
-router.get("/players", (req, res) => {
+router.get('/players', (req, res) => {
   Player.find()
     .then((players) => {
       // `players` will be an array of Mongoose documents
