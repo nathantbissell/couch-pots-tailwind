@@ -7,6 +7,8 @@ export default function Players() {
   const [initial, setInitialState] = useState({ players: [] });
   const [pts, setPts] = useState(0);
   const [pos, setPos] = useState('');
+  const [price, setPrice] = useState(0);
+  const [ppd, setPpd] = useState(0);
   const localhost = 'http://localhost:5000';
   const [dropdownOpen, setDropdownOpen] = useState(false);
 
@@ -107,15 +109,18 @@ export default function Players() {
     if (initial !== data) {
       setData(initial);
     }
-    filterPlayersByForm(pos, pts);
+    filterPlayersByForm(pos, pts, price, ppd);
   };
 
   const resetCards = (event) => {
     event.preventDefault();
     setData(initial);
+    setPts(0);
+    setPpd(0);
+    setPos('ALL');
   };
 
-  const filterPlayersByForm = (pos, points) => {
+  const filterPlayersByForm = (pos, points, price, ppd) => {
     let filterArray = initial;
 
     if (pos === '') {
@@ -124,15 +129,28 @@ export default function Players() {
     if (points === '') {
       points = 0;
     }
+    if (price === '') {
+      price = 0;
+    }
+    if (ppd === '') {
+      ppd = 0;
+    }
     let filterResult = { players: [] };
 
     if (pos === 'ALL') {
       filterResult.players = filterArray.players.filter(
-        (player) => player.totalPoints >= points
+        (player) =>
+          player.totalPoints >= points &&
+          player.auctionPrice >= price &&
+          player.totalPoints / player.auctionPrice >= ppd
       );
     } else {
       filterResult.players = filterArray.players.filter(
-        (player) => player.position === pos && player.totalPoints >= points
+        (player) =>
+          player.position === pos &&
+          player.totalPoints >= points &&
+          player.auctionPrice >= price &&
+          player.totalPoints / player.auctionPrice >= ppd
       );
     }
     setData(filterResult);
@@ -182,6 +200,26 @@ export default function Players() {
                       name="points"
                       value={pts}
                       onChange={(e) => setPts(e.target.value)}
+                    />
+                  </label>
+                  <label>
+                    Auction Price:
+                    <input
+                      className="py-3 px-4 bg-white placeholder-gray-400 text-gray-900 rounded-lg shadow-md appearance-none block focus:outline-none"
+                      type="number"
+                      name="price"
+                      value={price}
+                      onChange={(e) => setPrice(e.target.value)}
+                    />
+                  </label>
+                  <label>
+                    Pts Per Dollar:
+                    <input
+                      className="py-3 px-4 bg-white placeholder-gray-400 text-gray-900 rounded-lg shadow-md appearance-none block focus:outline-none"
+                      type="number"
+                      name="ppd"
+                      value={ppd}
+                      onChange={(e) => setPpd(e.target.value)}
                     />
                   </label>
                   <label>
