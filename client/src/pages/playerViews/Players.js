@@ -1,13 +1,17 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import axios from 'axios';
 import DashboardCard04 from '../../partials/dashboard/DashboardCard04';
-
+import Transition from '../../utils/Transition.js';
 export default function Players() {
   const [data, setData] = useState({ players: [] });
   const [initial, setInitialState] = useState({ players: [] });
   const [pts, setPts] = useState(0);
   const [pos, setPos] = useState('');
   const localhost = 'http://localhost:5000';
+  const [dropdownOpen, setDropdownOpen] = useState(false);
+
+  const trigger = useRef(null);
+  const dropdown = useRef(null);
 
   const basePlayers = {
     players: [
@@ -104,61 +108,126 @@ export default function Players() {
       setData(initial);
     }
     filterPlayersByForm(pos, pts);
-    // setCopy((prevState) => [...prevState]);
+  };
+
+  const resetCards = (event) => {
+    event.preventDefault();
+    setData(initial);
   };
 
   const filterPlayersByForm = (pos, points) => {
     let filterArray = initial;
 
     if (pos === '') {
-      pos = 'QB';
+      pos = 'ALL';
     }
     if (points === '') {
       points = 0;
     }
     let filterResult = { players: [] };
-    filterResult.players = filterArray.players.filter(
-      (player) => player.position === pos && player.totalPoints >= points
-    );
+
+    if (pos === 'ALL') {
+      filterResult.players = filterArray.players.filter(
+        (player) => player.totalPoints >= points
+      );
+    } else {
+      filterResult.players = filterArray.players.filter(
+        (player) => player.position === pos && player.totalPoints >= points
+      );
+    }
     setData(filterResult);
   };
 
   return (
     <div>
-      <div className="grid grid-cols-12">
-        <form onSubmit={handleSubmit}>
-          <label>
-            Points:
-            <input
-              className="py-3 px-4 bg-white placeholder-gray-400 text-gray-900 rounded-lg shadow-md appearance-none block focus:outline-none"
-              type="number"
-              name="points"
-              value={pts}
-              onChange={(e) => setPts(e.target.value)}
-            />
-          </label>
-          <label>
-            Position:
-            <select
-              className="py-3 px-12 bg-white placeholder-gray-400 text-gray-900 rounded-lg shadow-md appearance-none block focus:outline-none"
-              type="text"
-              name="position"
-              value={pos}
-              onChange={(e) => setPos(e.target.value)}
-            >
-              <option value="QB">QB</option>
-              <option value="RB">RB</option>
-              <option value="WR">WR</option>
-              <option value="TE">TE</option>
-            </select>
-          </label>
+      <div className="grid grid-flow-col sm:auto-cols-max justify-start sm:justify-end gap-2 mb-5">
+        <div className="relative inline-flex">
           <button
-            type="submit"
-            className="py-2 px-4 my-5 bg-green-500 text-black font-semibold rounded-lg shadow-md active:bg-emerald-700 focus:outline-none"
+            ref={trigger}
+            className="btn bg-white border-gray-200 hover:border-gray-300 text-gray-500 hover:text-gray-600 width-10"
+            aria-haspopup="true"
+            onClick={() => setDropdownOpen(!dropdownOpen)}
+            aria-expanded={dropdownOpen}
           >
-            Submit
+            <span className="sr-only">Filter</span>
+            <wbr />
+            Filters
+            <svg className=" ml-4 w-4 h-4 fill-current" viewBox="0 0 16 16">
+              <path d="M9 15H7a1 1 0 010-2h2a1 1 0 010 2zM11 11H5a1 1 0 010-2h6a1 1 0 010 2zM13 7H3a1 1 0 010-2h10a1 1 0 010 2zM15 3H1a1 1 0 010-2h14a1 1 0 010 2z" />
+            </svg>
           </button>
-        </form>
+          <Transition
+            show={dropdownOpen}
+            tag="div"
+            className="origin-top-right z-10 absolute top-full left-0 right-auto md:left-auto md:right-0 min-w-56 bg-white border border-gray-200 pt-1.5 rounded shadow-lg overflow-hidden mt-1"
+            enter="transition ease-out duration-200 transform"
+            enterStart="opacity-0 -translate-y-2"
+            enterEnd="opacity-100 translate-y-0"
+            leave="transition ease-out duration-200"
+            leaveStart="opacity-100"
+            leaveEnd="opacity-0"
+          >
+            <div ref={dropdown}>
+              <div className="text-xs font-semibold text-gray-400 uppercase pt-1.5 pb-2 px-4">
+                Filters
+              </div>
+
+              <div>
+                <form onSubmit={handleSubmit}>
+                  <label>
+                    Points:
+                    <input
+                      className="py-3 px-4 bg-white placeholder-gray-400 text-gray-900 rounded-lg shadow-md appearance-none block focus:outline-none"
+                      type="number"
+                      name="points"
+                      value={pts}
+                      onChange={(e) => setPts(e.target.value)}
+                    />
+                  </label>
+                  <label>
+                    Position:
+                    <select
+                      className="py-3 px-4 bg-white placeholder-gray-400 text-gray-900 rounded-lg shadow-md appearance-none block focus:outline-none w-full"
+                      type="text"
+                      name="position"
+                      value={pos}
+                      onChange={(e) => setPos(e.target.value)}
+                    >
+                      <option value="ALL">All Players</option>
+                      <option value="QB">QB</option>
+                      <option value="RB">RB</option>
+                      <option value="WR">WR</option>
+                      <option value="TE">TE</option>
+                    </select>
+                  </label>
+                  <div className="py-2 px-3 border-t border-gray-200 bg-gray-50 mt-5">
+                    <ul className="flex items-center justify-between">
+                      <li>
+                        <button
+                          type="submit"
+                          className="btn-xs bg-white border-gray-200 hover:border-gray-300 text-gray-500 hover:text-gray-600"
+                          onClick={(e) => resetCards(e)}
+                        >
+                          Clear
+                        </button>
+                      </li>
+                      <li>
+                        <button
+                          type="submit"
+                          className="btn-xs bg-indigo-500 hover:bg-indigo-600 text-white"
+                          onClick={() => setDropdownOpen(false)}
+                          onBlur={() => setDropdownOpen(false)}
+                        >
+                          Apply
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </Transition>
+        </div>
       </div>
       <div className="grid grid-cols-12 gap-6">
         {data.players.map((player) => (

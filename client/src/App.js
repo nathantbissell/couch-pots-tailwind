@@ -8,10 +8,8 @@ import './charts/ChartjsConfig';
 import Sidebar from './partials/Sidebar';
 import WelcomeBanner from './partials/dashboard/WelcomeBanner';
 import FilterButton from './partials/actions/FilterButton';
-import Banner from './partials/Banner';
 
 // Import pages
-import Dashboard from './pages/Dashboard';
 import Players from './pages/playerViews/Players';
 import Quarterbacks from './pages/playerViews/Quarterbacks';
 import Runningbacks from './pages/playerViews/Runningbacks';
@@ -42,12 +40,6 @@ function App() {
               {/* Welcome banner */}
               <WelcomeBanner />
 
-              {/* Dashboard actions */}
-              <div className="grid grid-flow-col sm:auto-cols-max justify-start sm:justify-end gap-2 mb-5">
-                {/* Filter button */}
-                <FilterButton />
-              </div>
-
               {/* Cards */}
               <Switch>
                 <Route exact path="/">
@@ -68,8 +60,6 @@ function App() {
               </Switch>
             </div>
           </main>
-
-          <Banner />
         </div>
       </div>
     </>
