@@ -1,7 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 import axios from 'axios';
-import DashboardCard04 from '../../partials/dashboard/DashboardCard04';
+import DashboardCard07 from '../../partials/dashboard/DashboardCard07';
 import Transition from '../../utils/Transition.js';
+import DashboardCard04 from '../../partials/dashboard/DashboardCard04';
 export default function Players() {
   const [data, setData] = useState({ players: [] });
   const [initial, setInitialState] = useState({ players: [] });
@@ -156,6 +157,8 @@ export default function Players() {
     setData(filterResult);
   };
 
+  const isLoading = data.players.length > 20;
+
   return (
     <div>
       <div className="grid grid-flow-col sm:auto-cols-max justify-start sm:justify-end gap-2 mb-5">
@@ -268,15 +271,19 @@ export default function Players() {
         </div>
       </div>
       <div className="grid grid-cols-12 gap-6">
-        {data.players.map((player) => (
-          <DashboardCard04
-            key={player._id}
-            name={player.name}
-            totalPoints={player.totalPoints}
-            auctionPrice={player.auctionPrice}
-            otherLeagueDraftValue={player.otherLeagueDraftValue}
-          />
-        ))}
+        {isLoading ? (
+          data.players.map((player) => {
+            <DashboardCard07
+              key={player._id}
+              name={player.name}
+              totalPoints={player.totalPoints}
+              auctionPrice={player.auctionPrice}
+              otherLeagueDraftValue={player.otherLeagueDraftValue}
+            />;
+          })
+        ) : (
+          <DashboardCard04 players={data.players} />
+        )}
       </div>
     </div>
   );

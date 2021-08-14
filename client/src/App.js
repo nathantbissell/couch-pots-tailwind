@@ -10,6 +10,7 @@ import WelcomeBanner from './partials/dashboard/WelcomeBanner';
 import FilterButton from './partials/actions/FilterButton';
 
 // Import pages
+import Dashboard from './pages/Dashboard';
 import Players from './pages/playerViews/Players';
 import Quarterbacks from './pages/playerViews/Quarterbacks';
 import Runningbacks from './pages/playerViews/Runningbacks';
