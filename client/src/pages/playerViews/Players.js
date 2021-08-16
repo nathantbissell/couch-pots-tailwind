@@ -118,6 +118,7 @@ export default function Players() {
     setData(initial);
     setPts(0);
     setPpd(0);
+    setPrice(0);
     setPos('ALL');
   };
 
@@ -272,17 +273,17 @@ export default function Players() {
       </div>
       <div className="grid grid-cols-12 gap-6">
         {isLoading ? (
-          data.players.map((player) => {
-            <DashboardCard07
+          <DashboardCard07 players={data.players} />
+        ) : (
+          data.players.map((player) => (
+            <DashboardCard04
               key={player._id}
               name={player.name}
               totalPoints={player.totalPoints}
               auctionPrice={player.auctionPrice}
               otherLeagueDraftValue={player.otherLeagueDraftValue}
-            />;
-          })
-        ) : (
-          <DashboardCard04 players={data.players} />
+            />
+          ))
         )}
       </div>
     </div>

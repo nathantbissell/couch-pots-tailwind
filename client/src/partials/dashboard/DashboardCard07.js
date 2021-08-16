@@ -1,7 +1,11 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 
-function DashboardCard07(props) {
-  const { name, auctionPrice, totalPoints, otherLeagueDraftValue } = props;
+function DashboardCard07(data) {
+  const [array, setArray] = useState({ players: [] });
+
+  useEffect(() => {
+    setArray(data);
+  }, [data]);
   return (
     <div className="col-span-full xl:col-span-8 bg-white shadow-lg rounded-sm border border-gray-200">
       <header className="px-5 py-4 border-b border-gray-100">
@@ -33,34 +37,36 @@ function DashboardCard07(props) {
                 </th>
               </tr>
             </thead>
-            {/* Table body */}
             <tbody className="text-sm font-medium divide-y divide-gray-100">
-              {/* Row */}
-              <tr>
-                <td className="p-2">
-                  <div className="flex items-center">
-                    <div className="text-gray-800">{name}</div>
-                  </div>
-                </td>
-                <td className="p-2">
-                  <div className="text-center">{totalPoints}</div>
-                </td>
-                <td className="p-2">
-                  <div className="text-center text-green-500">
-                    {auctionPrice}
-                  </div>
-                </td>
-                <td className="p-2">
-                  <div className="text-center">
-                    {totalPoints / auctionPrice}
-                  </div>
-                </td>
-                <td className="p-2">
-                  <div className="text-center text-light-blue-500">
-                    {auctionPrice - otherLeagueDraftValue}
-                  </div>
-                </td>
-              </tr>
+              {array.players.map((player) => (
+                <tr>
+                  <td className="p-2">
+                    <div className="flex items-center">
+                      <div className="text-gray-800">{player.name}</div>
+                    </div>
+                  </td>
+                  <td className="p-2">
+                    <div className="text-center">{player.totalPoints}</div>
+                  </td>
+                  <td className="p-2">
+                    <div className="text-center text-green-500">
+                      {player.auctionPrice}
+                    </div>
+                  </td>
+                  <td className="p-2">
+                    <div className="text-center">
+                      {(player.totalPoints / player.auctionPrice).toFixed(1)}
+                    </div>
+                  </td>
+                  <td className="p-2">
+                    <div className="text-center text-light-blue-500">
+                      {(
+                        player.auctionPrice - player.otherLeagueDraftValue
+                      ).toFixed(1)}
+                    </div>
+                  </td>
+                </tr>
+              ))}
             </tbody>
           </table>
         </div>
