@@ -6,6 +6,11 @@ function DashboardCard07(data) {
   useEffect(() => {
     setArray(data);
   }, [data]);
+
+  const isPremiumPositive = (val) => {
+    if ((val) => 10) return true;
+    else return false;
+  };
   return (
     <div className="col-span-full xl:col-span-8 bg-white shadow-lg rounded-sm border border-gray-200">
       <header className="px-5 py-4 border-b border-gray-100">
@@ -49,17 +54,38 @@ function DashboardCard07(data) {
                     <div className="text-center">{player.totalPoints}</div>
                   </td>
                   <td className="p-2">
-                    <div className="text-center text-green-500">
+                    <div
+                      className={
+                        'text-center ' +
+                        (player.auctionPrice <= 10 && player.totalPoints >= 200
+                          ? 'text-green-500'
+                          : 'text-red-500')
+                      }
+                    >
                       {player.auctionPrice}
                     </div>
                   </td>
                   <td className="p-2">
-                    <div className="text-center">
+                    <div
+                      className={
+                        'text-center ' +
+                        (player.totalPoints / player.auctionPrice >= 20
+                          ? 'text-green-500'
+                          : 'text-red-500')
+                      }
+                    >
                       {(player.totalPoints / player.auctionPrice).toFixed(1)}
                     </div>
                   </td>
                   <td className="p-2">
-                    <div className="text-center text-light-blue-500">
+                    <div
+                      className={
+                        'text-center ' +
+                        (player.auctionPrice - player.otherLeagueDraftValue < 5
+                          ? 'text-green-500'
+                          : 'text-red-500')
+                      }
+                    >
                       {(
                         player.auctionPrice - player.otherLeagueDraftValue
                       ).toFixed(1)}
