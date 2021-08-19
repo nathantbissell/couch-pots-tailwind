@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 
 function DashboardCard07(data) {
   const [array, setArray] = useState({ players: [] });
-  const [par, setPar] = useState(0);
   useEffect(() => {
     setArray(data);
   }, [data]);

@@ -95,15 +95,30 @@ export default function Players() {
   useEffect(() => {
     async function fetchAxios() {
       const result = await axios(`${localhost}/players`);
+      result.data.players.sort(compare);
       setData(result.data);
       setInitialState(result.data);
     }
     fetchAxios();
     if (data.players.length === 0) {
+      basePlayers.players.sort(compare);
       setData(basePlayers);
       setInitialState(basePlayers);
     }
   }, []);
+
+  function compare(a, b) {
+    const first = a.totalPoints;
+    const second = b.totalPoints;
+  
+    let comparison = 0;
+    if (first > second) {
+      comparison = -1;
+    } else if (first < second) {
+      comparison = 1;
+    }
+    return comparison;
+  }
 
   const handleSubmit = (evt) => {
     evt.preventDefault();
