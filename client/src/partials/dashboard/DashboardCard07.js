@@ -2,17 +2,32 @@ import React, { useState, useEffect } from 'react';
 
 function DashboardCard07(data) {
   const [array, setArray] = useState({ players: [] });
-
+  const [par, setPar] = useState(0);
   useEffect(() => {
     setArray(data);
   }, [data]);
 
-  const isPremiumPositive = (val) => {
-    if ((val) => 10) return true;
-    else return false;
+  const setPtsAboveReplacementValue = (player) => {
+    let value = 0;
+    switch (player) {
+      case 'QB':
+        value = 317;
+        break;
+      case 'RB':
+        value = 206;
+        break;
+      case 'WR':
+        value = 252;
+        break;
+      case 'TE':
+        value = 137;
+        break;
+    }
+    return value;
   };
+
   return (
-    <div className="col-span-full xl:col-span-8 bg-white shadow-lg rounded-sm border border-gray-200">
+    <div className="col-span-full xl:col-span-12 bg-white shadow-lg rounded-sm border border-gray-200">
       <header className="px-5 py-4 border-b border-gray-100">
         <h2 className="font-semibold text-gray-800">Top Players</h2>
       </header>
@@ -40,6 +55,9 @@ function DashboardCard07(data) {
                 <th className="p-2">
                   <div className="font-semibold text-center">Premium</div>
                 </th>
+                <th className="p-2">
+                  <div className="font-semibold text-center">PAR</div>
+                </th>
               </tr>
             </thead>
             <tbody className="text-sm font-medium divide-y divide-gray-100">
@@ -47,7 +65,9 @@ function DashboardCard07(data) {
                 <tr>
                   <td className="p-2">
                     <div className="flex items-center">
-                      <div className="text-gray-800">{player.name}</div>
+                      <div className="text-gray-800">
+                        {player.name} - {player.position}
+                      </div>
                     </div>
                   </td>
                   <td className="p-2">
@@ -89,6 +109,12 @@ function DashboardCard07(data) {
                       {(
                         player.auctionPrice - player.otherLeagueDraftValue
                       ).toFixed(1)}
+                    </div>
+                  </td>
+                  <td className="p-2">
+                    <div className="text-center">
+                      {player.totalPoints -
+                        setPtsAboveReplacementValue(player.position)}
                     </div>
                   </td>
                 </tr>

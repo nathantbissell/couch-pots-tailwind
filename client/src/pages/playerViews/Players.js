@@ -158,7 +158,7 @@ export default function Players() {
     setData(filterResult);
   };
 
-  const isLoading = data.players.length > 20;
+  const isLoading = data.players.length > 15;
 
   return (
     <div>
